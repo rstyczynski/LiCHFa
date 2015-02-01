@@ -1302,6 +1302,7 @@
 <node CREATED="1422775521781" ID="ID_1214011352" LINK="http://www.mbank.pl/blog/post,327,jak-zrozumiec-franka.html" MODIFIED="1422809953768" TEXT="Jak zrozumie&#x107; Franka? by mBank">
 <node CREATED="1422775454706" ID="ID_1856815785" MODIFIED="1422775469958" TEXT="ani s&#x142;owa o indeksowanych/waloryzowanych"/>
 <node CREATED="1422775472104" ID="ID_825208997" MODIFIED="1422775480418" TEXT="traktuje kredyty jako denominowane"/>
+<node CREATED="1422810372561" ID="ID_27573198" MODIFIED="1422810395703" TEXT="zysk banku jest w r&#xf3;&#x17c;nicy kurs&#xf3;w CHF pomi&#x119;dzy dat&#x105; przyznania kradytu i sp&#x142;aty rat"/>
 </node>
 </node>
 <node CREATED="1422311855556" ID="ID_498181569" MODIFIED="1422809953771" POSITION="left" TEXT="s&#x142;ownik">
