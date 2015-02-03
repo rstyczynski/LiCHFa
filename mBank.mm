@@ -14,7 +14,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1422383804007" ID="ID_1937078195" MODIFIED="1422812085443" POSITION="right" TEXT="przepisy prawne">
+<node CREATED="1422383804007" FOLDED="true" ID="ID_1937078195" MODIFIED="1422905306039" POSITION="right" TEXT="przepisy prawne">
 <node CREATED="1422812087806" ID="ID_708300358" LINK="http://www.sejm.gov.pl/prawo/konst/polski/kon1.htm" MODIFIED="1422812155545" TEXT="KONSTYTUCJARZECZYPOSPOLITEJ POLSKIEJ">
 <node CREATED="1422812112751" ID="ID_1101953788" MODIFIED="1422812253294" TEXT="Art. 227.">
 <node CREATED="1422812122390" ID="ID_1835148706" MODIFIED="1422812201142">
@@ -486,7 +486,7 @@
 <node CREATED="1422354624191" ID="ID_1297527623" MODIFIED="1422354627549" TEXT="ustawy o ksi&#x119;gach wieczystych i hipotece"/>
 <node CREATED="1422749337474" ID="ID_1058089862" LINK="isap.sejm.gov.pl/Download?id=WDU19920210086&amp;type=3" MODIFIED="1422749351419" TEXT="o podatku dochodowym od os&#xf3;b prawnych"/>
 </node>
-<node CREATED="1422764185378" FOLDED="true" ID="ID_1978432898" MODIFIED="1422812083087" POSITION="right" TEXT="interpretacje prawa">
+<node CREATED="1422764185378" FOLDED="true" ID="ID_1978432898" MODIFIED="1422905307663" POSITION="right" TEXT="interpretacje prawa">
 <node CREATED="1422764192254" FOLDED="true" ID="ID_1523441990" LINK="http://orka2.sejm.gov.pl/IZ4.nsf/main/5F51DF41" MODIFIED="1422812083086" TEXT="Odpowied&#x17a; podsekretarza stanu w Ministerstwie Finans&#xf3;w - z upowa&#x17c;nienia ministra -">
 <node CREATED="1422764244835" ID="ID_1063476140" LINK="#ID_332913785" MODIFIED="1422764338950" TEXT="Powszechnie przyj&#x119;t&#x105; zasad&#x105; prawn&#x105; prawa zobowi&#x105;za&#x144; jest zasada nominalizmu. Oznacza ona, &#x17c;e wykonanie zobowi&#x105;zania pieni&#x119;&#x17c;nego przez d&#x142;u&#x17c;nika nast&#x119;puje przez zap&#x142;at&#x119; sumy nominalnej w znakach pieni&#x119;&#x17c;nych, kt&#xf3;re reprezentuj&#x105; nale&#x17c;no&#x15b;&#x107; wed&#x142;ug warto&#x15b;ci przepis&#xf3;w walutowych pa&#x144;stwa, w kt&#xf3;rego walucie nast&#x119;puje zap&#x142;ata."/>
 <node CREATED="1422764259559" ID="ID_1094896641" LINK="#ID_674785169" MODIFIED="1422764330602">
@@ -556,8 +556,8 @@
 </node>
 <node CREATED="1422775071897" ID="ID_1707932115" LINK="http://www.sejm.gov.pl/sejm7.nsf/InterpelacjaTresc.xsp?key=71769811" MODIFIED="1422775081018" TEXT="Interpelacja nr 21776"/>
 </node>
-<node CREATED="1422384072880" FOLDED="true" ID="ID_1953494231" MODIFIED="1422867361726" POSITION="right" TEXT="rekomendacje urz&#x119;d&#xf3;w">
-<node CREATED="1422797280205" FOLDED="true" ID="ID_1254289779" LINK="http://pl.wikipedia.org/wiki/Komisja_Nadzoru_Bankowego" MODIFIED="1422812083118" TEXT="Komisja Nadzoru Bankowego">
+<node CREATED="1422384072880" ID="ID_1953494231" MODIFIED="1422916333392" POSITION="right" TEXT="rekomendacje urz&#x119;d&#xf3;w">
+<node CREATED="1422797280205" ID="ID_1254289779" LINK="http://pl.wikipedia.org/wiki/Komisja_Nadzoru_Bankowego" MODIFIED="1422900666041" TEXT="Komisja Nadzoru Bankowego">
 <node CREATED="1422797283641" ID="ID_1651085766" MODIFIED="1422797291230" TEXT="zlikwidowana w 2008"/>
 <node CREATED="1422797488149" FOLDED="true" ID="ID_974551285" LINK="https://www.knf.gov.pl/Images/rekomendacja_s_tcm75-8566.pdf" MODIFIED="1422812083118" TEXT="Rekomendacja S (I) 2006">
 <node CREATED="1422797667753" ID="ID_242471478" MODIFIED="1422797667753">
@@ -672,7 +672,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1422384081275" FOLDED="true" ID="ID_1308807603" MODIFIED="1422812083120" TEXT="Komisja Nadzoru Finansowego">
+<node CREATED="1422384081275" FOLDED="true" ID="ID_1308807603" MODIFIED="1422916334817" TEXT="Komisja Nadzoru Finansowego">
 <node CREATED="1422355419921" ID="ID_1156018733" MODIFIED="1422767923921">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -809,9 +809,102 @@
 </node>
 </node>
 </node>
-<node CREATED="1422567636853" FOLDED="true" ID="ID_75047031" MODIFIED="1422812083124" TEXT="Zwi&#x105;zek Bank&#xf3;w Polskich">
-<node CREATED="1422567645655" ID="ID_740010492" LINK="http://zbp.pl/public/repozytorium/dla_bankow/prawo/komisja_etyki_bankowej/KEB_final_WZ.pdf" MODIFIED="1422578036029" TEXT="KODEKS ETYKI BANKOWEJ (ZASADY DOBREJ PRAKTYKI BANKOWEJ)"/>
-<node CREATED="1422578118738" FOLDED="true" ID="ID_1778616583" LINK="http://zbp.pl/public/repozytorium/dla_bankow/prawo/komisja_etyki_bankowej/Regulamin_KEB_final_WZ.pdf" MODIFIED="1422812083124" TEXT="REGULAMIN KOMISJI ETYKI BANKOWEJ">
+<node CREATED="1422567636853" FOLDED="true" ID="ID_75047031" MODIFIED="1422904186592" TEXT="Zwi&#x105;zek Bank&#xf3;w Polskich">
+<node CREATED="1422567645655" FOLDED="true" ID="ID_740010492" LINK="http://zbp.pl/public/repozytorium/dla_bankow/prawo/komisja_etyki_bankowej/KEB_final_WZ.pdf" MODIFIED="1422904185677" TEXT="KODEKS ETYKI BANKOWEJ (ZASADY DOBREJ PRAKTYKI BANKOWEJ)">
+<node CREATED="1422900689540" ID="ID_494339415" MODIFIED="1422904160119">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <div title="Page 3" class="page">
+      <div class="layoutArea">
+        <div class="column">
+          <ul>
+            <li style="font-size: 12.000000pt; font-family: Calibri">
+              <p>
+                <font size="12.000000pt" face="Calibri"><span style="font-size: 12.000000pt; font-family: Calibri">Mechanizmy rynkowe sa&#808; koniecznymi, lecz niewystarczaja&#808;cymi wyznacznikami dzia&#322;alnos&#769;ci banko&#769;w. Sta&#808;d niezbe&#808;dne jest uwzgle&#808;dnienie takz&#775;e wartos&#769;ci etycznych w procesie podejmowania decyzji ekonomicznych. </span></font>
+              </p>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1422900697229" ID="ID_178384291" MODIFIED="1422904160027">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <div title="Page 3" class="page">
+      <div class="layoutArea">
+        <div class="column">
+          <ul>
+            <li style="font-size: 12.000000pt; font-family: Calibri">
+              <p>
+                <font size="12.000000pt" face="Calibri"><span style="font-size: 12.000000pt; font-family: Calibri">Banki, jako instytucje zaufania publicznego w swojej dzia&#322;alnos&#769;ci kieruja&#808; sie&#808; przepisami prawa, rekomendacjami Komisji Nadzoru Finansowego, uchwa&#322;ami samorza&#808;du bankowego, normami przewidzianymi w Kodeksie oraz dobrymi zwyczajami kupieckimi. Banki i ich pracownicy oraz osoby, za kto&#769;rych pos&#769;rednictwem banki wykonuja&#808; czynnos&#769;ci bankowe, uwzgle&#808;dniaja&#808; zasady: profesjonalizmu, rzetelnos&#769;ci, rzeczowos&#769;ci, starannos&#769;ci i najlepszej wiedzy. </span></font>
+              </p>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1422900707228" ID="ID_1686626201" MODIFIED="1422904160068">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <div title="Page 3" class="page">
+      <div class="layoutArea">
+        <div class="column">
+          <ul>
+            <li style="font-size: 12.000000pt; font-family: Calibri">
+              <p>
+                <font size="12.000000pt" face="Calibri"><span style="font-size: 12.000000pt; font-family: Calibri">Banki, poprzez swoja&#808; dzia&#322;alnos&#769;c&#769;, powinny przyczyniac&#769; sie&#808; do spo&#322;eczno-ekonomicznego rozwoju kraju oraz wzrostu zamoz&#775;nos&#769;ci spo&#322;eczen&#769;stwa poprzez spo&#322;ecznie odpowiedzialne prowadzenie biznesu, wprowadzanie innowacyjnych rozwia&#808;zan&#769; i wspieranie rozwoju edukacji spo&#322;eczen&#769;stwa. </span></font>
+              </p>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1422900713885" ID="ID_1103557970" MODIFIED="1422904160089">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <div title="Page 3" class="page">
+      <div class="layoutArea">
+        <div class="column">
+          <ul>
+            <li style="font-size: 12.000000pt; font-family: Calibri">
+              <p>
+                <font size="12.000000pt" face="Calibri"><span style="font-size: 12.000000pt; font-family: Calibri">Fundamentalna&#808; zasada&#808;, na kto&#769;rej banki i ich pracownicy powinni budowac&#769; swoje relacje z otoczeniem jest odpowiedzialnos&#769;c&#769; spo&#322;eczna. Realizuja&#808;c strategie&#808; biznesowa&#808; banki powinny kierowac&#769; sie&#808; nie tylko uwarunkowaniami ekonomicznymi, ale ro&#769;wniez&#775; s&#322;usznymi interesami swoich Kliento&#769;w, pracowniko&#769;w, akcjonariuszy, partnero&#769;w biznesowych, a takz&#775;e lokalnego s&#769;rodowiska. </span></font>
+              </p>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1422578118738" FOLDED="true" ID="ID_1778616583" LINK="http://zbp.pl/public/repozytorium/dla_bankow/prawo/komisja_etyki_bankowej/Regulamin_KEB_final_WZ.pdf" MODIFIED="1422904184074" TEXT="REGULAMIN KOMISJI ETYKI BANKOWEJ">
 <node CREATED="1422578219262" ID="ID_959707363" MODIFIED="1422578220383" TEXT="19. Komisja nie wydaje ocen w zakresie: a. spraw i wniosk&#xf3;w dotycz&#x105;cych interpretacji prawnej um&#xf3;w i regulacji wewn&#x119;trznych bank&#xf3;w, b. indywidualnych skarg i wniosk&#xf3;w Klient&#xf3;w bank&#xf3;w."/>
 <node CREATED="1422578140001" ID="ID_910131947" MODIFIED="1422808357212" TEXT="20.Komisja kieruje indywidualne skargi i wnioski Kliento&#x301;w do zainteresowanego Banku z ewentualnym wskazaniem naruszenia zasad zawartych w Kodeksie Etyki Bankowej. Komisja informuje Klienta o tym, iz&#x307; otrzyma&#x142;a pismo, a zawarte w nim uwagi wykorzysta w swojej pracy na rzecz umacniania dobrych praktyk bankowych. Ponadto, informacja o skierowanym&#xa0;do banku pis&#x301;mie zostaje przes&#x142;ana do Klienta. Jez&#x307;eli w ocenie Komisji sprawa poruszona w wysta&#x328;pieniu Klienta be&#x328;dzie sie&#x328; kwalifikowa&#x142;a do rozstrzygnie&#x328;cia przez Arbitra Bankowego, wskaz&#x307;e Klientowi odpowiedni tryb poste&#x328;powania."/>
 </node>
@@ -824,12 +917,15 @@
 <node CREATED="1422578019019" ID="ID_1861448621" MODIFIED="1422808371656" TEXT="16. Stosowanie Kanonu &#xa;&#xa; Podmiot finansowy, kto&#x301;ry przyja&#x328;&#x142; Kanon do stosowania, dba o to, by wszyscy jego pracownicy oraz inne osoby wyste&#x328;puja&#x328;ce w jego imieniu zapozna&#x142;y sie&#x328;z Kanonem i stosowa&#x142;y sie&#x328;do jego zasad, a takz&#x307;e udoste&#x328;pnia swoim klientom i kontrahentom do wgla&#x328;du pe&#x142;na&#x328;tres&#x301;c&#x301;Kanonu."/>
 </node>
 </node>
-<node CREATED="1422747824416" FOLDED="true" ID="ID_1113149573" MODIFIED="1422867355965" TEXT="Stowarzyszenie Dziennikarzy Polskich">
+<node CREATED="1422747824416" ID="ID_1113149573" MODIFIED="1422916336540" TEXT="Stowarzyszenie Dziennikarzy Polskich">
 <node CREATED="1422747834252" ID="ID_304122337" LINK="http://www.sdp.pl/s/kodeks-etyki-dziennikarskiej-sdp" MODIFIED="1422864878021" TEXT="Kodeks Etyki Dziennikarskiej SDP">
 <node CREATED="1422747969635" FOLDED="true" ID="ID_45815572" MODIFIED="1422812083124" TEXT="Og&#xf3;lne">
 <node CREATED="1422747974925" ID="ID_1825662554" MODIFIED="1422747974925" TEXT="- zadaniem dziennikarzy jest przekazywanie rzetelnych i bezstronnych informacji oraz r&#xf3;&#x17c;no-rodnych opinii, a tak&#x17c;e umo&#x17c;liwianie udzia&#x142;u w debacie publicznej,"/>
 <node CREATED="1422747979206" ID="ID_82883042" MODIFIED="1422747979206" TEXT="- wolno&#x15b;ci s&#x142;owa i wypowiedzi musi towarzyszy&#x107; odpowiedzialno&#x15b;&#x107; za publikacje w prasie, radiu, telewizji czy Internecie,"/>
 <node CREATED="1422747983597" ID="ID_1620404826" MODIFIED="1422747983597" TEXT="- dobro czytelnik&#xf3;w, s&#x142;uchaczy i widz&#xf3;w oraz dobro publiczne powinny mie&#x107; pierwsze&#x144;stwo wobec interes&#xf3;w autora, redaktora, wydawcy lub nadawcy."/>
+</node>
+<node CREATED="1422969159596" ID="ID_1610128299" MODIFIED="1422969173193" TEXT="wst&#x119;p">
+<node CREATED="1422969161179" ID="ID_1507522372" MODIFIED="1422969162431" TEXT="- dobro czytelnik&#xf3;w, s&#x142;uchaczy i widz&#xf3;w oraz dobro publiczne powinny mie&#x107; pierwsze&#x144;stwo wobec interes&#xf3;w autora, redaktora, wydawcy lub nadawcy."/>
 </node>
 <node CREATED="1422747927183" ID="ID_929627275" MODIFIED="1422864879825" TEXT="I - Informacje i opinie">
 <node CREATED="1422747933353" ID="ID_1255733964" MODIFIED="1422747933353" TEXT="1.Informacje nale&#x17c;y wyra&#x17a;nie oddziela&#x107; od interpretacji i opinii."/>
@@ -850,13 +946,20 @@
 </node>
 <node CREATED="1422747954095" ID="ID_1095771086" MODIFIED="1422747954095" TEXT="4.B&#x142;&#x119;dy i pomy&#x142;ki wymagaj&#x105; jak najszybszego sprostowania, nawet je&#x15b;li nie by&#x142;y zawinione przez autora lub redakcj&#x119; i bez wzgl&#x119;du na to, czy ktokolwiek wyst&#x105;pi o sprostowanie."/>
 </node>
+<node CREATED="1422969195580" ID="ID_1170191859" MODIFIED="1422969195580" TEXT="III - Dziennikarz wobec rozm&#xf3;wc&#xf3;w i odbiorc&#xf3;w">
+<node CREATED="1422969219297" ID="ID_1984549585" MODIFIED="1422969219297" TEXT="10. Dziennikarz powinien okazywa&#x107; szacunek osobom, bez wzgl&#x119;du na ich odmienno&#x15b;&#x107; ideow&#x105;, kulturow&#x105; czy obyczajow&#x105;, co nie oznacza zgodno&#x15b;ci z ich pogl&#x105;dami."/>
+<node CREATED="1422969225393" ID="ID_695677715" MODIFIED="1422969225393" TEXT="13. J&#x119;zyk wypowiedzi powinien by&#x107; staranny, nale&#x17c;y unika&#x107; wulgaryzm&#xf3;w i okre&#x15b;le&#x144; obscenicznych."/>
+</node>
+<node CREATED="1422969247200" ID="ID_1399342105" MODIFIED="1422969247200" TEXT="V - Konflikt interes&#xf3;w">
+<node CREATED="1422969256719" ID="ID_1091897912" MODIFIED="1422969256719" TEXT="18. Dziennikarzowi nie wolno zajmowa&#x107; si&#x119; akwizycj&#x105; oraz bra&#x107; udzia&#x142; w reklamie i public relations - wyj&#x105;tkiem mog&#x105; by&#x107; jedynie akcje spo&#x142;eczne i charytatywne; materia&#x142;y redakcyjne musz&#x105; by&#x107; czytelnie oddzielone od materia&#x142;&#xf3;w reklamowych i promocyjnych."/>
+</node>
 </node>
 </node>
 <node CREATED="1422751151564" FOLDED="true" ID="ID_1382737950" MODIFIED="1422812083125" TEXT="NBP">
 <node CREATED="1422751153379" ID="ID_184611147" LINK="https://www.nbp.pl/statystyka/pieniezna_i_bankowa/dwn/naleznosci_metodyka.pdf" MODIFIED="1422751174928" TEXT="Raportowanie FINREP"/>
 </node>
 </node>
-<node CREATED="1422383715029" ID="ID_1585596402" MODIFIED="1422864634855" POSITION="right" TEXT="orzeczenia s&#x105;d&#xf3;w">
+<node CREATED="1422383715029" FOLDED="true" ID="ID_1585596402" MODIFIED="1422916329123" POSITION="right" TEXT="orzeczenia s&#x105;d&#xf3;w">
 <node CREATED="1422383722252" ID="ID_150439850" MODIFIED="1422864779449" TEXT="IV CSK 142/13">
 <node CREATED="1422383744507" ID="ID_1459268157" MODIFIED="1422383749871" TEXT="waloryzacja"/>
 </node>
@@ -1309,6 +1412,7 @@
 <node CREATED="1422767607636" FOLDED="true" ID="ID_336486591" LINK="http://www.pozwalembank.pl" MODIFIED="1422812083139" TEXT="http://www.pozwalembank.pl">
 <node CREATED="1422768778621" ID="ID_331532089" LINK="www.facebook.com/pozwalemBank " MODIFIED="1422768784285" TEXT="www.facebook.com/pozwalemBank "/>
 </node>
+<node CREATED="1422967187886" ID="ID_441826816" MODIFIED="1422967189518" TEXT="http://likwidacja-konta.pl/"/>
 </node>
 <node CREATED="1422775395645" FOLDED="true" ID="ID_1093364433" MODIFIED="1422812083140" POSITION="left" TEXT="publiczne wprowadzanie w b&#x142;&#x105;d">
 <node CREATED="1422775406712" FOLDED="true" ID="ID_155356356" LINK="#ID_954031769" MODIFIED="1422812083140" TEXT="PRZEWALUTOWANIE by KNF">
@@ -1321,7 +1425,7 @@
 <node CREATED="1422810372561" ID="ID_27573198" MODIFIED="1422810395703" TEXT="zysk banku jest w r&#xf3;&#x17c;nicy kurs&#xf3;w CHF pomi&#x119;dzy dat&#x105; przyznania kradytu i sp&#x142;aty rat"/>
 </node>
 </node>
-<node CREATED="1422311855556" FOLDED="true" ID="ID_498181569" MODIFIED="1422812083146" POSITION="left" TEXT="s&#x142;ownik">
+<node CREATED="1422311855556" ID="ID_498181569" MODIFIED="1422904933317" POSITION="left" TEXT="s&#x142;ownik">
 <node CREATED="1422311867700" FOLDED="true" ID="ID_391543003" MODIFIED="1422812083141" TEXT="waloryzacja">
 <node CREATED="1422385697966" FOLDED="true" ID="ID_1749166377" MODIFIED="1422812083140" TEXT="Wielki S&#x142;ownij J&#x119;zyka Polskiego">
 <node CREATED="1422385626155" FOLDED="true" ID="ID_1626340438" MODIFIED="1422812083140" TEXT="Ekonomicznie">
@@ -1527,7 +1631,7 @@
 <node CREATED="1422492022724" ID="ID_1312677433" MODIFIED="1422492023681" TEXT="r&#xf3;&#x17c;nica pomi&#x119;dzy kursem (cen&#x105;) sprzeda&#x17c;y a kursem (cen&#x105;) kupna aktyw&#xf3;w (np. walut, papier&#xf3;w warto&#x15b;ciowych, towar&#xf3;w)."/>
 <node CREATED="1422492035547" ID="ID_1678320021" MODIFIED="1422492036771" TEXT="Wyra&#x17c;ony procentowo spread walutowy to r&#xf3;&#x17c;nica pomi&#x119;dzy kursem sprzeda&#x17c;y i kursem kupna dewiz w banku do kursu kupna. Stanowi on dodatkowy zysk banku np. w przypadku udzielonych przez bank kredyt&#xf3;w walutowych. Szacunkowo spread na poziomie 12% to dodatkowo 1 punkt procentowy ukrytej mar&#x17c;y kredytu, a proporcjonalnie 6% to oko&#x142;o 0,5 punkt procentowy dodatkowej mar&#x17c;y kredytu."/>
 </node>
-<node CREATED="1422435139113" FOLDED="true" ID="ID_515441951" MODIFIED="1422812083146" TEXT="finanse zagraniczne">
+<node CREATED="1422435139113" ID="ID_515441951" MODIFIED="1422904935122" TEXT="finanse zagraniczne">
 <node CREATED="1422436100280" ID="ID_594302843" MODIFIED="1422436102582" TEXT="LIBOR"/>
 <node CREATED="1422436089224" ID="ID_1566125759" MODIFIED="1422436094620" TEXT="interest rate"/>
 <node CREATED="1422435151897" ID="ID_1816679801" MODIFIED="1422435160119" TEXT="Economy dollarization"/>
@@ -1556,7 +1660,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1422387165550" FOLDED="true" ID="ID_524826321" MODIFIED="1422812083164" POSITION="right" TEXT="raporty">
+<node CREATED="1422387165550" FOLDED="true" ID="ID_524826321" MODIFIED="1422905299327" POSITION="right" TEXT="raporty">
 <node CREATED="1422494420595" FOLDED="true" ID="ID_575630526" MODIFIED="1422812083147" TEXT="International Monetary Found (IMF)">
 <node CREATED="1422494431490" FOLDED="true" ID="ID_1268303711" LINK="https://books.google.pl/books?id=CCqRkYKcL18C&amp;lpg=PA15&amp;ots=qMO8ERXnfk&amp;dq=Foreign%20currency%20loans%20dominate%20lending%20for%20housing%20purposes.%20While%20the%20share%20of%20foreign%20currency-denominated%20or%20indexed%20loans%20in%20total%20loans%20in%20Poland%20is%20not%20high%20by%20regional%20comparison%20(25%20percent%20at%20end-2005)%20and%20has%20been%20declining%20in%20recent%20years%2C%20about%2064%20percent%20of%20housing%20loans%20were%20indexed%20to%20or%20denominated%20in%20foreign%20currency%20at%20end-%202005%E2%80%94significantly%20more%20than%20in%20other%20NMS%20and%20one%20of%20the%20highest%20percentages%20in%20the%20EU.&amp;pg=PP1#v=onepage&amp;q&amp;f=false" MODIFIED="1422812083147" TEXT="IMF - Republic of Poland- Financial Sector Assessment Program">
 <node CREATED="1422494515421" ID="ID_1526036228" MODIFIED="1422494541246">
@@ -1586,7 +1690,7 @@
 <node CREATED="1422576364492" ID="ID_142885631" LINK="http://www.uokik.gov.pl/download.php?id=590" MODIFIED="1422576385163" TEXT="RAPORT Z KONTROLI WZORC&#xd3;W UMOWNYCH KREDYT&#xd3;W HIPOTECZNYCH"/>
 <node CREATED="1422658220044" ID="ID_1583707537" LINK="www.uokik.gov.pl/download.php?plik=7011" MODIFIED="1422658298160" TEXT="Raport dzia&#x142;a&#x144; 23 September 2009"/>
 </node>
-<node CREATED="1422387167713" FOLDED="true" ID="ID_337743147" MODIFIED="1422812083149" TEXT="mBank">
+<node CREATED="1422387167713" ID="ID_337743147" MODIFIED="1422905295795" TEXT="mBank">
 <node CREATED="1422495406976" ID="ID_1253013617" LINK="http://www.mbank.pl/pobierz/msp-korporacje/wyniki-finansowe/2006/2006Q3.pdf" MODIFIED="1422495463878" TEXT="Skonsolidowane sprawozdanie finansowe wed&#x142;ug Mi&#x119;dzynarodowych Standard&#xf3;w Sprawozdawczo&#x15b;ci Finansowej za III kwarta&#x142; 2006 roku"/>
 <node CREATED="1422387180813" ID="ID_1222817930" LINK="http://www.mbank.pl/pobierz/msp-korporacje/wyniki-finansowe/2006/2006Q4.pdf" MODIFIED="1422808458626" TEXT="Skonsolidowane sprawozdanie finansowe&#xa;wedug Midzynarodowych Standardo&#x301;w Sprawozdawczoci Finansowejza IV kwarta&#xa0;2006 roku"/>
 <node CREATED="1422750283648" ID="ID_1410818170" LINK="http://www.mbank.pl/relacje-inwestorskie/wyniki/" MODIFIED="1422750293128" TEXT="Raporty Roczne"/>
@@ -1738,16 +1842,16 @@
 <node CREATED="1422805437560" ID="ID_1195707718" LINK="http://orka.sejm.gov.pl/WydBAS.nsf/0/420885A628A26227C12575DE00245CEF/$file/Infos_58.pdf" MODIFIED="1422805457948" TEXT="&quot;opcje walutowe&quot; 2004-2008"/>
 </node>
 </node>
-<node CREATED="1422495293054" FOLDED="true" ID="ID_760236369" MODIFIED="1422812083164" POSITION="right" TEXT="krytyka Rekomendacji S">
+<node CREATED="1422495293054" FOLDED="true" ID="ID_760236369" MODIFIED="1422916330793" POSITION="right" TEXT="krytyka Rekomendacji S">
 <node CREATED="1422495306046" FOLDED="true" ID="ID_1084032447" MODIFIED="1422812083164" TEXT="Fundacja Instytut Ludwiga von Misesa">
 <node CREATED="1422495318836" ID="ID_45265411" LINK="http://mises.pl/wp-content/uploads/2010/10/Maciej-Bitner-20101021-KNF-o-walutowych.pdf" MODIFIED="1422495366873" TEXT="M.Bitner Komisja Nadzoru Finansowego o kredytach walutowych"/>
 </node>
-<node CREATED="1422495540166" FOLDED="true" ID="ID_1628155696" MODIFIED="1422812083164" TEXT="Prawo i Sprawiedliwo&#x15b;&#x107;">
+<node CREATED="1422495540166" ID="ID_1628155696" MODIFIED="1422906560854" TEXT="Prawo i Sprawiedliwo&#x15b;&#x107;">
 <node CREATED="1422495546774" ID="ID_729395924" LINK="http://www.pis.org.pl/article.php?id=4415" MODIFIED="1422495560460" TEXT="Komunikat KP PiS dotycz&#x105;cy zalecenia Komisji Nadzoru Bankowego"/>
 <node CREATED="1422774876197" ID="ID_395420861" LINK="http://www.pb.pl/1387485,32326,gilowska-ograniczenia-w-kredytach-walutowych-niekorzystne-dla-polakow%20%EF%BB%BF" MODIFIED="1422774883661" TEXT="Gilowska"/>
 </node>
 </node>
-<node CREATED="1422381443599" FOLDED="true" ID="ID_1470110074" MODIFIED="1422812083165" POSITION="right">
+<node CREATED="1422381443599" FOLDED="true" ID="ID_1470110074" MODIFIED="1422916331942" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1761,10 +1865,10 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1422381577653" FOLDED="true" ID="ID_576175434" MODIFIED="1422812083164" TEXT="2001-2004">
+<node CREATED="1422381577653" ID="ID_576175434" MODIFIED="1422906531775" TEXT="2001-2004">
 <node CREATED="1422381459515" ID="ID_1230794880" MODIFIED="1422381575530" TEXT="Komunisci"/>
 </node>
-<node CREATED="1422381588308" FOLDED="true" ID="ID_67147804" MODIFIED="1422812083165" TEXT="2005-2006">
+<node CREATED="1422381588308" ID="ID_67147804" MODIFIED="1422906529601" TEXT="2005-2006">
 <node CREATED="1422381597947" ID="ID_768573661" MODIFIED="1422381600512" TEXT="PIS"/>
 <node CREATED="1422381625017" ID="ID_793884906" LINK="http://www.pis.org.pl/article.php?id=4415" MODIFIED="1422381713516">
 <richcontent TYPE="NODE"><html>
@@ -1785,20 +1889,20 @@
 <node CREATED="1422471857201" ID="ID_440444710" MODIFIED="1422805296367" TEXT="kredytobiorca musi miec troszke luzu..."/>
 </node>
 </node>
-<node CREATED="1422381600978" FOLDED="true" ID="ID_795093654" MODIFIED="1422812083165" TEXT="2006-2015+">
+<node CREATED="1422381600978" ID="ID_795093654" MODIFIED="1422906529052" TEXT="2006-2015+">
 <node CREATED="1422381614842" ID="ID_368728347" MODIFIED="1422381616182" TEXT="PO"/>
 </node>
-<node CREATED="1422805147832" FOLDED="true" ID="ID_1491410784" MODIFIED="1422812083165" TEXT="11&apos;2007">
+<node CREATED="1422805147832" ID="ID_1491410784" MODIFIED="1422906528406" TEXT="11&apos;2007">
 <node CREATED="1422805153248" ID="ID_1943437834" MODIFIED="1422805184070" TEXT="likwidacja Komisja Nadzoru Bankowego"/>
 </node>
-<node CREATED="1422805207853" FOLDED="true" ID="ID_631088935" MODIFIED="1422812083165" TEXT="2008">
+<node CREATED="1422805207853" ID="ID_631088935" MODIFIED="1422906527193" TEXT="2008">
 <node CREATED="1422805212797" ID="ID_615386205" MODIFIED="1422805221781" TEXT="utworzenie Komisji Nazdoru Finansowego"/>
 <node CREATED="1422471844659" FOLDED="true" ID="ID_1987863863" MODIFIED="1422812083165" TEXT="Kluza">
 <node CREATED="1422471853215" ID="ID_1804856741" MODIFIED="1422471856667" TEXT="szef KNF"/>
 </node>
 </node>
 </node>
-<node CREATED="1422472661723" FOLDED="true" ID="ID_1907800159" MODIFIED="1422812083168" POSITION="right" TEXT="pomysly 2015">
+<node CREATED="1422472661723" ID="ID_1907800159" MODIFIED="1422906785458" POSITION="right" TEXT="pomysly 2015">
 <node CREATED="1422472773301" FOLDED="true" ID="ID_1486629725" MODIFIED="1422812083166" TEXT="Belka">
 <node CREATED="1422472775004" ID="ID_1240950016" MODIFIED="1422472784570" TEXT="s&#x105;d - PLN"/>
 <node CREATED="1422472805618" ID="ID_809782045" MODIFIED="1422472811519" TEXT="to nie kredyt tylko spekulacja"/>
