@@ -5,5 +5,6 @@ Zboiór faktów, opinii i analiz dotyczących kredytów hipotecznych waloryzowan
 
 Ryszard Styczynski
 rstyczynski@gmail.com
-#rjstyczynski
+facebook.com/rstyczynski
+twitter: rjstyczynski
 
