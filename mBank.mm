@@ -1,6 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1422311124441" ID="ID_781876881" MODIFIED="1423075371638">
+<node CREATED="1422311124441" ID="ID_781876881" MODIFIED="1423087204042">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14,7 +14,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1422383804007" ID="ID_1937078195" MODIFIED="1423044402413" POSITION="right" TEXT="przepisy prawne">
+<node CREATED="1422383804007" FOLDED="true" ID="ID_1937078195" MODIFIED="1423087185099" POSITION="right" TEXT="przepisy prawne">
 <node CREATED="1422812087806" ID="ID_708300358" LINK="http://www.sejm.gov.pl/prawo/konst/polski/kon1.htm" MODIFIED="1422812155545" TEXT="KONSTYTUCJARZECZYPOSPOLITEJ POLSKIEJ">
 <node CREATED="1422812112751" ID="ID_1101953788" MODIFIED="1422812253294" TEXT="Art. 227.">
 <node CREATED="1422812122390" ID="ID_1835148706" MODIFIED="1422812201142">
@@ -255,7 +255,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1422312624333" ID="ID_1919991283" MODIFIED="1423075399225" TEXT="Kodeks Cywilny">
+<node CREATED="1422312624333" FOLDED="true" ID="ID_1919991283" MODIFIED="1423087183766" TEXT="Kodeks Cywilny">
 <node CREATED="1422314195470" FOLDED="true" ID="ID_1069570596" MODIFIED="1422812083081" TEXT="Art. 5">
 <node CREATED="1422312985303" ID="ID_378664959" MODIFIED="1422314192812">
 <richcontent TYPE="NODE"><html>
@@ -591,7 +591,7 @@
 </node>
 <node CREATED="1422775071897" ID="ID_1707932115" LINK="http://www.sejm.gov.pl/sejm7.nsf/InterpelacjaTresc.xsp?key=71769811" MODIFIED="1422775081018" TEXT="Interpelacja nr 21776"/>
 </node>
-<node CREATED="1422384072880" ID="ID_1953494231" MODIFIED="1423037984227" POSITION="right" TEXT="rekomendacje urz&#x119;d&#xf3;w">
+<node CREATED="1422384072880" FOLDED="true" ID="ID_1953494231" MODIFIED="1423087186201" POSITION="right" TEXT="rekomendacje urz&#x119;d&#xf3;w">
 <node CREATED="1422797280205" FOLDED="true" ID="ID_1254289779" LINK="http://pl.wikipedia.org/wiki/Komisja_Nadzoru_Bankowego" MODIFIED="1423052238268" TEXT="Komisja Nadzoru Bankowego">
 <node CREATED="1422797283641" ID="ID_1651085766" MODIFIED="1422797291230" TEXT="zlikwidowana w 2008"/>
 <node CREATED="1422797488149" FOLDED="true" ID="ID_974551285" LINK="https://www.knf.gov.pl/Images/rekomendacja_s_tcm75-8566.pdf" MODIFIED="1422812083118" TEXT="Rekomendacja S (I) 2006">
@@ -1038,7 +1038,7 @@
 </node>
 <node CREATED="1422760242944" ID="ID_1657382497" LINK="http://wygralem-z-mbankiem.pl/katalog-zwyciezcow/" MODIFIED="1422760264598" TEXT="katalog zwyci&#x119;zc&#xf3;w"/>
 </node>
-<node CREATED="1422311600595" ID="ID_227220823" MODIFIED="1423075375713" POSITION="left" TEXT="zastrze&#x17c;enia">
+<node CREATED="1422311600595" FOLDED="true" ID="ID_227220823" MODIFIED="1423087188198" POSITION="left" TEXT="zastrze&#x17c;enia">
 <node CREATED="1422311488581" ID="ID_1144724498" MODIFIED="1422812206556" TEXT="kredyt jest w PLN">
 <node CREATED="1422809342982" FOLDED="true" ID="ID_612970400" MODIFIED="1422812083127" TEXT="&#xa7; 1. DANE O KREDYCIE">
 <node CREATED="1422765410192" FOLDED="true" ID="ID_302976291" LINK="#ID_1059349530" MODIFIED="1422812083127" TEXT="2. Kwota Kredytu: XXX z&#x142;">
@@ -1736,14 +1736,14 @@
 </node>
 </node>
 </node>
-<node CREATED="1422765024608" FOLDED="true" ID="ID_793860787" MODIFIED="1422812083147" POSITION="right" TEXT="casus">
-<node CREATED="1422765027716" FOLDED="true" ID="ID_253056900" MODIFIED="1422812083147" TEXT="Alicja">
-<node CREATED="1422765030203" FOLDED="true" ID="ID_1128102535" MODIFIED="1422812083147" TEXT="brak terminu sp&#x142;aty">
+<node CREATED="1422765024608" FOLDED="true" ID="ID_793860787" MODIFIED="1423087202984" POSITION="right" TEXT="casus">
+<node CREATED="1422765027716" ID="ID_253056900" MODIFIED="1423087199674" TEXT="Alicja">
+<node CREATED="1422765030203" ID="ID_1128102535" MODIFIED="1423087201454" TEXT="brak terminu sp&#x142;aty">
 <node CREATED="1422765040642" ID="ID_1213050454" LINK="#ID_1238493956" MODIFIED="1422765082532" TEXT="naruszenie Art.69 prawa bankowego"/>
 </node>
 </node>
 </node>
-<node CREATED="1422387165550" FOLDED="true" ID="ID_524826321" MODIFIED="1423052227640" POSITION="right" TEXT="raporty">
+<node CREATED="1422387165550" FOLDED="true" ID="ID_524826321" MODIFIED="1423087197368" POSITION="right" TEXT="raporty">
 <node CREATED="1422494420595" FOLDED="true" ID="ID_575630526" MODIFIED="1423052225672" TEXT="International Monetary Found (IMF)">
 <node CREATED="1422494431490" FOLDED="true" ID="ID_1268303711" LINK="https://books.google.pl/books?id=CCqRkYKcL18C&amp;lpg=PA15&amp;ots=qMO8ERXnfk&amp;dq=Foreign%20currency%20loans%20dominate%20lending%20for%20housing%20purposes.%20While%20the%20share%20of%20foreign%20currency-denominated%20or%20indexed%20loans%20in%20total%20loans%20in%20Poland%20is%20not%20high%20by%20regional%20comparison%20(25%20percent%20at%20end-2005)%20and%20has%20been%20declining%20in%20recent%20years%2C%20about%2064%20percent%20of%20housing%20loans%20were%20indexed%20to%20or%20denominated%20in%20foreign%20currency%20at%20end-%202005%E2%80%94significantly%20more%20than%20in%20other%20NMS%20and%20one%20of%20the%20highest%20percentages%20in%20the%20EU.&amp;pg=PP1#v=onepage&amp;q&amp;f=false" MODIFIED="1422812083147" TEXT="IMF - Republic of Poland- Financial Sector Assessment Program">
 <node CREATED="1422494515421" ID="ID_1526036228" MODIFIED="1422494541246">
@@ -1968,7 +1968,7 @@
 <node CREATED="1422805437560" ID="ID_1195707718" LINK="http://orka.sejm.gov.pl/WydBAS.nsf/0/420885A628A26227C12575DE00245CEF/$file/Infos_58.pdf" MODIFIED="1422805457948" TEXT="&quot;opcje walutowe&quot; 2004-2008"/>
 </node>
 </node>
-<node CREATED="1422495293054" FOLDED="true" ID="ID_760236369" MODIFIED="1422916330793" POSITION="right" TEXT="krytyka Rekomendacji S">
+<node CREATED="1422495293054" FOLDED="true" ID="ID_760236369" MODIFIED="1423087196015" POSITION="right" TEXT="krytyka Rekomendacji S">
 <node CREATED="1422495306046" FOLDED="true" ID="ID_1084032447" MODIFIED="1422812083164" TEXT="Fundacja Instytut Ludwiga von Misesa">
 <node CREATED="1422495318836" ID="ID_45265411" LINK="http://mises.pl/wp-content/uploads/2010/10/Maciej-Bitner-20101021-KNF-o-walutowych.pdf" MODIFIED="1422495366873" TEXT="M.Bitner Komisja Nadzoru Finansowego o kredytach walutowych"/>
 </node>
@@ -2028,7 +2028,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1422472661723" ID="ID_1907800159" MODIFIED="1422906785458" POSITION="right" TEXT="pomysly 2015">
+<node CREATED="1422472661723" FOLDED="true" ID="ID_1907800159" MODIFIED="1423087191068" POSITION="right" TEXT="pomysly 2015">
 <node CREATED="1422472773301" FOLDED="true" ID="ID_1486629725" MODIFIED="1422812083166" TEXT="Belka">
 <node CREATED="1422472775004" ID="ID_1240950016" MODIFIED="1422472784570" TEXT="s&#x105;d - PLN"/>
 <node CREATED="1422472805618" ID="ID_809782045" MODIFIED="1422472811519" TEXT="to nie kredyt tylko spekulacja"/>
@@ -2101,7 +2101,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1422794556486" ID="ID_272415141" MODIFIED="1423056152041" POSITION="left" TEXT="opinie prawne">
+<node CREATED="1422794556486" FOLDED="true" ID="ID_272415141" MODIFIED="1423087189297" POSITION="left" TEXT="opinie prawne">
 <node CREATED="1422794584668" FOLDED="true" ID="ID_1868596394" LINK="http://wgospodarce.pl/opinie/18420-afera-frankowa-frankowicze-maja-mocne-argumenty-w-sadzie" MODIFIED="1422812083168" TEXT="AFERA FRANKOWA: &quot;Frankowicze&quot; maj&#x105; mocne argumenty w s&#x105;dzie!">
 <node CREATED="1422794587069" ID="ID_1165545061" LINK="#ID_1177004321" MODIFIED="1422795286898">
 <richcontent TYPE="NODE"><html>
