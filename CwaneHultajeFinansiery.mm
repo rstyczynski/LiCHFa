@@ -1,6 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1422311124441" ID="ID_781876881" MODIFIED="1423605681242">
+<node CREATED="1422311124441" ID="ID_781876881" MODIFIED="1423848997102">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14,7 +14,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1422383804007" FOLDED="true" ID="ID_1937078195" MODIFIED="1423605681153" POSITION="right" TEXT="przepisy prawne">
+<node CREATED="1422383804007" FOLDED="true" ID="ID_1937078195" MODIFIED="1423846243444" POSITION="right" TEXT="przepisy prawne">
 <node CREATED="1422812087806" FOLDED="true" ID="ID_708300358" LINK="isap.sejm.gov.pl/Download?id=WDU19970780483&amp;type=3" MODIFIED="1423605681134" TEXT="KONSTYTUCJARZECZYPOSPOLITEJ POLSKIEJ">
 <node CREATED="1422812112751" FOLDED="true" ID="ID_1101953788" MODIFIED="1423605681133" TEXT="Art. 227.">
 <node CREATED="1422812122390" ID="ID_1835148706" MODIFIED="1422812201142">
@@ -88,12 +88,12 @@
 </node>
 </node>
 </node>
-<node CREATED="1422311152319" FOLDED="true" ID="ID_1984406682" MODIFIED="1423605681136" TEXT="Prawo Bankowe">
+<node CREATED="1422311152319" FOLDED="true" ID="ID_1984406682" MODIFIED="1423845625888" TEXT="Prawo Bankowe">
 <node CREATED="1422435850271" FOLDED="true" ID="ID_929670205" MODIFIED="1423605681134" TEXT="Art. 5">
 <node CREATED="1422435933137" ID="ID_111474325" MODIFIED="1422435934490" TEXT="1. Czynnos&#x301;ciami bankowymi sa&#x328;:  3) &#xa0;udzielanie kredyto&#x301;w;  "/>
 <node CREATED="1422435926659" ID="ID_1306385155" MODIFIED="1422435928043" TEXT="2. Czynnos&#x301;ciami bankowymi sa&#x328; ro&#x301;wniez&#x307; naste&#x328;puja&#x328;ce czynnos&#x301;ci, o ile sa&#x328; one wykonywane  przez banki:   1) &#xa0;udzielanie poz&#x307;yczek pienie&#x328;z&#x307;nych;&#x37e;  4) &#xa0;terminowe operacje finansowe;  7) &#xa0;prowadzenie skupu i sprzedaz&#x307;y wartos&#x301;ci dewizowych;&#x37e; "/>
 </node>
-<node CREATED="1422386849474" FOLDED="true" ID="ID_1238493956" MODIFIED="1423605681136" TEXT="Art. 69">
+<node CREATED="1422386849474" FOLDED="true" ID="ID_1238493956" MODIFIED="1423845624118" TEXT="Art. 69">
 <node CREATED="1422386939124" ID="ID_1951492617" MODIFIED="1423176152677">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -109,7 +109,7 @@
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
 </node>
-<node CREATED="1422386929012" FOLDED="true" ID="ID_727941005" MODIFIED="1423605681135">
+<node CREATED="1422386929012" FOLDED="true" ID="ID_727941005" MODIFIED="1423845621897">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -257,7 +257,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1422802541055" FOLDED="true" ID="ID_1728598649" LINK="http://isap.sejm.gov.pl/DetailsServlet?id=WDU20111650984+2011%2408%2426&amp;min=1" MODIFIED="1423605681136" TEXT="Dz.U. 2011 nr 165 poz. 984">
+<node CREATED="1422802541055" FOLDED="true" ID="ID_1728598649" LINK="http://isap.sejm.gov.pl/DetailsServlet?id=WDU20111650984+2011%2408%2426&amp;min=1" MODIFIED="1423845623038" TEXT="Dz.U. 2011 nr 165 poz. 984">
 <node CREATED="1422802594927" ID="ID_1446558043" MODIFIED="1422802594927" TEXT="2011-08-26"/>
 <node CREATED="1423052949152" ID="ID_161883441" MODIFIED="1423465619192" TEXT="3.W przypadku umowy o kredyt denominowany lub indeksowany do waluty innej niz&#x307; waluta polska, kredytobiorca moz&#x307;e dokonywac&#x301; sp&#x142;aty rat kapita&#x142;owo-odsetkowych oraz dokonac&#x301;przedterminowej sp&#x142;aty pe&#x142;nej lub cze&#x328;s&#x301;ciowej kwoty kredytu bezpos&#x301;rednio w tej walucie. W tymprzypadku w umowie o kredyt okres&#x301;la sie&#x328; takz&#x307;e zasady otwarcia i prowadzenia rachunkus&#x142;uz&#x307;a&#x328;cego do gromadzenia s&#x301;rodko&#x301;w przeznaczonych na sp&#x142;ate&#x328; kredytu oraz zasady dokonywaniasp&#x142;aty za pos&#x301;rednictwem tegorachunku.">
 <icon BUILTIN="down"/>
@@ -299,7 +299,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1422312624333" FOLDED="true" ID="ID_1919991283" MODIFIED="1423605681150" TEXT="Kodeks Cywilny">
+<node CREATED="1422312624333" ID="ID_1919991283" MODIFIED="1423843253504" TEXT="Kodeks Cywilny">
 <node CREATED="1422314195470" FOLDED="true" ID="ID_1069570596" MODIFIED="1423605681136" TEXT="Art. 5">
 <node CREATED="1422312985303" ID="ID_378664959" MODIFIED="1423184909905">
 <richcontent TYPE="NODE"><html>
@@ -338,7 +338,7 @@
 <icon BUILTIN="clanbomber"/>
 </node>
 </node>
-<node CREATED="1422313180531" FOLDED="true" ID="ID_1781261248" MODIFIED="1423605681137">
+<node CREATED="1422313180531" ID="ID_1781261248" MODIFIED="1423686836804">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -452,7 +452,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1422313459659" FOLDED="true" ID="ID_1424944442" MODIFIED="1423605681137" TEXT="Art. 357">
+<node CREATED="1422313459659" ID="ID_1424944442" MODIFIED="1423772832746" TEXT="Art. 357">
 <icon BUILTIN="clanbomber"/>
 <node CREATED="1422312655987" ID="ID_1271817161" MODIFIED="1422313458101">
 <richcontent TYPE="NODE"><html>
@@ -467,7 +467,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1423180230691" FOLDED="true" ID="ID_99765064" MODIFIED="1423605681138" TEXT="Art. 358 (r.64)">
+<node CREATED="1423180230691" ID="ID_99765064" MODIFIED="1423686781100" TEXT="Art. 358 (r.64)">
 <node CREATED="1423180277392" ID="ID_1839485273" LINK="http://isap.sejm.gov.pl/DetailsServlet?id=WDU19640160093+2009%2401%2424&amp;min=1" MODIFIED="1423180285079" TEXT="Dz.U. 1964 nr 16 poz. 93 2009.01.24"/>
 <node CREATED="1423180645885" ID="ID_1180596549" MODIFIED="1423180765035" TEXT="&#xa7; 1. Z zastrze&#x17c;eniem wyj&#x105;tk&#xf3;w w ustawie przewidzianych, zobowi&#x105;zania pieni&#x119;&#x17c;ne na obszarze Rzeczypospolitej Polskiej mog&#x105; by&#x107; wyra&#x17c;one tylko w pieni&#x105;dzu polskim.">
 <icon BUILTIN="clanbomber"/>
@@ -477,7 +477,7 @@
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
 </node>
-<node CREATED="1423180987828" FOLDED="true" ID="ID_367194909" LINK="orka.sejm.gov.pl/RexDomk6.nsf/0/.../$file/1389I.rtf" MODIFIED="1423605681137" TEXT="uzylony w 2008">
+<node CREATED="1423180987828" FOLDED="true" ID="ID_367194909" LINK="orka.sejm.gov.pl/RexDomk6.nsf/0/.../$file/1389I.rtf" MODIFIED="1423843283318" TEXT="uzylony w 2008">
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
@@ -485,11 +485,29 @@
 <node CREATED="1423181011075" ID="ID_1466987105" MODIFIED="1423181021998" TEXT="bo sprzedano wiele niewa&#x17c;nych um&#xf3;w"/>
 </node>
 </node>
-<node CREATED="1423179957171" FOLDED="true" ID="ID_171502097" MODIFIED="1423605681138" TEXT="Art. 358">
+<node CREATED="1423179957171" ID="ID_171502097" MODIFIED="1423783558065" TEXT="Art. 358">
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
+<node CREATED="1423784174389" ID="ID_362735908" LINK="http://www.polskieustawy.com/onever.php?dzur=1964&amp;dzup=93&amp;head=0&amp;norm=358&amp;lang=48&amp;id_przepis=1141" MODIFIED="1423784188527" TEXT="przegl&#x105;d historyczny">
+<node CREATED="1423784263436" ID="ID_175064142" MODIFIED="1423784271845" TEXT="&#x9;od 01.07.2000 do 24.09.2003">
+<node CREATED="1423784277081" ID="ID_326956116" MODIFIED="1423784277081" TEXT="&#xa7; 1. Z zastrze&#x17c;eniem wyj&#x105;tk&#xf3;w w ustawie przewidzianych, zobowi&#x105;zania pieni&#x119;&#x17c;ne na obszarze Polskiej Rzeczypospolitej Ludowej mog&#x105; by&#x107; wyra&#x17c;one tylko w pieni&#x105;dzu polskim."/>
+<node CREATED="1423784277085" ID="ID_297379002" MODIFIED="1423784277085" TEXT="&#xa7; 2. (uchylony)."/>
+</node>
+<node CREATED="1423784248348" ID="ID_1691501041" MODIFIED="1423784321283" TEXT="od 25.09.2003 do 23.01.2009&#x9;  zmieniony przez  Dz.U. 2003.49.408">
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+<node CREATED="1423784261785" ID="ID_377251973" MODIFIED="1423784261785" TEXT="&#xa7; 1. Z zastrze&#x17c;eniem wyj&#x105;tk&#xf3;w w ustawie przewidzianych, zobowi&#x105;zania pieni&#x119;&#x17c;ne na obszarze Rzeczypospolitej Polskiej mog&#x105; by&#x107; wyra&#x17c;one tylko w pieni&#x105;dzu polskim."/>
+<node CREATED="1423784261792" ID="ID_786777590" MODIFIED="1423784261792" TEXT="&#xa7; 2. (uchylony)."/>
+</node>
+<node CREATED="1423784236596" ID="ID_535876330" MODIFIED="1423784237875" TEXT="od 24.01.2009&#x9;  zmieniony przez  Dz.U. 2008.228.1506">
+<node CREATED="1423784246698" ID="ID_650050144" MODIFIED="1423784246698" TEXT="&#xa7; 1. Je&#x17c;eli przedmiotem zobowi&#x105;zania jest suma pieni&#x119;&#x17c;na wyra&#x17c;ona w walucie obcej, d&#x142;u&#x17c;nik mo&#x17c;e spe&#x142;ni&#x107; &#x15b;wiadczenie w walucie polskiej, chyba &#x17c;e ustawa, orzeczenie s&#x105;dowe b&#x119;d&#x105;ce &#x17a;r&#xf3;d&#x142;em zobowi&#x105;zania lub czynno&#x15b;&#x107; prawna zastrzega spe&#x142;nienie &#x15b;wiadczenia w walucie obcej."/>
+<node CREATED="1423784246705" ID="ID_1318724160" MODIFIED="1423784246705" TEXT="&#xa7; 2. Warto&#x15b;&#x107; waluty obcej okre&#x15b;la si&#x119; wed&#x142;ug kursu &#x15b;redniego og&#x142;aszanego przez Narodowy Bank Polski z dnia wymagalno&#x15b;ci roszczenia, chyba &#x17c;e ustawa, orzeczenie s&#x105;dowe lub czynno&#x15b;&#x107; prawna stanowi inaczej. W razie zw&#x142;oki d&#x142;u&#x17c;nika wierzyciel mo&#x17c;e &#x17c;&#x105;da&#x107; spe&#x142;nienia &#x15b;wiadczenia w walucie polskiej wed&#x142;ug kursu &#x15b;redniego og&#x142;aszanego przez Narodowy Bank Polski z dnia, w kt&#xf3;rym zap&#x142;ata jest dokonana."/>
+</node>
+</node>
 <node CREATED="1423180023804" ID="ID_1018897369" MODIFIED="1423180032927" TEXT="*  &#xa;&#xa; W brzmieniu ustalonym przez art. 1 ustawy z dnia 23 paz&#x301;dziernika 2008 r. o zmianie ustawy&#x2013; Kodeks cywilny oraz ustawy &#x2013;Prawo dewizowe (Dz. U. Nr 228, poz. 1506), kto&#x301;ra wesz&#x142;a w z&#x307;yciez dniem 24 stycznia 2009 r."/>
-<node CREATED="1423180204883" FOLDED="true" ID="ID_510194314" MODIFIED="1423605681138" TEXT="od 2008">
+<node CREATED="1423180204883" FOLDED="true" ID="ID_510194314" LINK="#ID_1691501041" MODIFIED="1423784340954" TEXT="od 2009">
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
@@ -500,8 +518,9 @@
 </node>
 <node CREATED="1423179992854" ID="ID_1066345080" MODIFIED="1423180032946" TEXT="&#xa7; 2.Wartos&#x301;c&#x301; waluty obcej okres&#x301;la sie&#x328; wed&#x142;ug kursu s&#x301;redniego og&#x142;aszanego przezNarodowy Bank Polski zdnia wymagalnos&#x301;ci roszczenia, chyba z&#x307;e ustawa,orzeczenie sa&#x328;dowe lub czynnos&#x301;c&#x301; prawna stanowi inaczej. W razie zw&#x142;okid&#x142;uz&#x307;nika wierzyciel moz&#x307;e z&#x307;a&#x328;dac&#x301; spe&#x142;nienia s&#x301;wiadczenia w walucie polskiejwed&#x142;ug kursu s&#x301;redniego og&#x142;aszanego przez Narodowy Bank Polski zdnia, wkto&#x301;rym zap&#x142;ata jest dokonana."/>
 </node>
-<node CREATED="1422464076248" FOLDED="true" ID="ID_188769773" MODIFIED="1423605681149" TEXT="Art. 358-1">
+<node CREATED="1422464076248" ID="ID_188769773" MODIFIED="1423687160152" TEXT="Art. 358-1">
 <icon BUILTIN="yes"/>
+<node CREATED="1423783521606" ID="ID_1469609698" LINK="isap.sejm.gov.pl/DetailsServlet?id=WDU19900550321" MODIFIED="1423783548209" TEXT="Dz.U. 1990 Nr 55 poz. 321"/>
 <node CREATED="1422464188458" ID="ID_332913785" MODIFIED="1422809008678">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -607,11 +626,11 @@
 <node CREATED="1423179250696" ID="ID_366301138" LINK="http://prawo.rp.pl/artykul/696666.html?print=tak&amp;p=0" MODIFIED="1423179260024" TEXT="Niestety, w tym kontek&#x15b;cie jest te&#x17c; z&#x142;a wiadomo&#x15b;&#x107; dla biznesu. Zgodnie z art. 3581 &#xa7; 4 k.c. z &#x17c;&#x105;daniem zmiany wysoko&#x15b;ci lub sposobu spe&#x142;nienia &#x15b;wiadczenia pieni&#x119;&#x17c;nego nie mo&#x17c;e wyst&#x105;pi&#x107; strona prowadz&#x105;ca przedsi&#x119;biorstwo, je&#x17c;eli &#x15b;wiadczenie pozostaje w zwi&#x105;zku z prowadzeniem tego przedsi&#x119;biorstwa. Oznacza to np., &#x17c;e firma budowlana nie mo&#x17c;e &#x17c;&#x105;da&#x107; wi&#x119;kszej ceny za budow&#x119; domu z tego tylko powodu, &#x17c;e w trakcie budowy bardzo wzros&#x142;a inflacja."/>
 </node>
 </node>
-<node CREATED="1423461566033" FOLDED="true" ID="ID_585555002" MODIFIED="1423605681149" TEXT="Art 358 (2009)">
+<node CREATED="1423461566033" ID="ID_585555002" MODIFIED="1423772828408" TEXT="Art 358 (2009)">
 <node CREATED="1423461557335" ID="ID_89921468" MODIFIED="1423461557335" TEXT="Art. 358. &#xa7; 1. Je&#x17c;eli przedmiotem zobowi&#x105;zania jest suma pieni&#x119;&#x17c;na wyra&#x17c;ona w walucie obcej, d&#x142;u&#x17c;nik mo&#x17c;e spe&#x142;ni&#x107; &#x15b;wiadczenie w walucie polskiej, chyba &#x17c;e ustawa, orzeczenie s&#x105;dowe b&#x119;d&#x105;ce &#x17a;r&#xf3;d&#x142;em zobowi&#x105;zania lub czynno&#x15b;&#x107; zastrzega spe&#x142;nienie &#x15b;wiadczenia w walucie obcej."/>
 <node CREATED="1423461557341" ID="ID_337633879" MODIFIED="1423461557341" TEXT="Art. 358. &#xa7; 2. Warto&#x15b;&#x107; waluty obcej okre&#x15b;la si&#x119; wed&#x142;ug kursu &#x15b;redniego og&#x142;aszanego przez Narodowy Bank Polski z dnia wymagalno&#x15b;ci roszczenia, chyba &#x17c;e ustawa, orzeczenie s&#x105;dowe lub czynno&#x15b;&#x107; prawna stanowi inaczej. W razie zw&#x142;oki d&#x142;u&#x17c;nika wierzyciel mo&#x17c;e &#x17c;&#x105;da&#x107; spe&#x142;nienia &#x15b;wiadczenia w walucie polskiej wed&#x142;ug kursu &#x15b;redniego og&#x142;asza-nego przez Narodowy Bank Polski z dnia, w kt&#xf3;rym zap&#x142;ata jest dokonana."/>
 </node>
-<node CREATED="1422383013375" FOLDED="true" ID="ID_234907526" MODIFIED="1423605681150" TEXT="Art. 385">
+<node CREATED="1422383013375" ID="ID_234907526" MODIFIED="1423772827366" TEXT="Art. 385">
 <node CREATED="1422383021638" ID="ID_96889532" MODIFIED="1422383034602" TEXT="&#xa7; 1. W razie sprzeczno&#x15b;ci tre&#x15b;ci umowy z wzorcem umowy strony s&#x105; zwi&#x105;zane umow&#x105;."/>
 <node CREATED="1422383035389" ID="ID_50568709" MODIFIED="1423249388834">
 <richcontent TYPE="NODE"><html>
@@ -686,7 +705,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node CREATED="1423180086980" FOLDED="true" ID="ID_139832362" MODIFIED="1423605681150" TEXT="Dz. U. Nr 228, poz. 1506">
+<node CREATED="1423180086980" ID="ID_139832362" MODIFIED="1423772835865" TEXT="Dz. U. Nr 228, poz. 1506">
 <node CREATED="1423180135221" ID="ID_1559351156" MODIFIED="1423180135221">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -867,7 +886,7 @@
 </node>
 <node CREATED="1422775071897" ID="ID_1707932115" LINK="http://www.sejm.gov.pl/sejm7.nsf/InterpelacjaTresc.xsp?key=71769811" MODIFIED="1422775081018" TEXT="Interpelacja nr 21776"/>
 </node>
-<node CREATED="1422384072880" FOLDED="true" ID="ID_1953494231" MODIFIED="1423605681182" POSITION="right" TEXT="rekomendacje urz&#x119;d&#xf3;w">
+<node CREATED="1422384072880" FOLDED="true" ID="ID_1953494231" MODIFIED="1423846240115" POSITION="right" TEXT="rekomendacje urz&#x119;d&#xf3;w">
 <node CREATED="1422797280205" FOLDED="true" ID="ID_1254289779" LINK="http://pl.wikipedia.org/wiki/Komisja_Nadzoru_Bankowego" MODIFIED="1423605681175" TEXT="Komisja Nadzoru Bankowego">
 <node CREATED="1422797283641" ID="ID_1651085766" MODIFIED="1422797291230" TEXT="zlikwidowana w 2008"/>
 <node CREATED="1422797488149" FOLDED="true" ID="ID_974551285" LINK="https://www.knf.gov.pl/Images/rekomendacja_s_tcm75-8566.pdf" MODIFIED="1423605681174" TEXT="Rekomendacja S (I) 2006">
@@ -983,7 +1002,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1422384081275" FOLDED="true" ID="ID_1308807603" MODIFIED="1423605681177" TEXT="Komisja Nadzoru Finansowego">
+<node CREATED="1422384081275" FOLDED="true" ID="ID_1308807603" MODIFIED="1423843181100" TEXT="Komisja Nadzoru Finansowego">
 <node CREATED="1422355419921" ID="ID_1156018733" MODIFIED="1422767923921">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1081,9 +1100,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1422447986101" FOLDED="true" ID="ID_685940886" MODIFIED="1423605681180" TEXT="European Commision">
+<node CREATED="1422447986101" ID="ID_685940886" MODIFIED="1423775051181" TEXT="European Commision">
 <node CREATED="1422448042001" ID="ID_539562883" MODIFIED="1422448074412" TEXT="Investment Services Directive (do 11&apos;2007)"/>
-<node CREATED="1422448001726" FOLDED="true" ID="ID_1542002635" LINK="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004L0039:PL:HTML" MODIFIED="1423605681179" TEXT="Markets in Financial Instruments Directive (MIFiD) - od 2004">
+<node CREATED="1422448001726" ID="ID_1542002635" LINK="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004L0039:PL:HTML" MODIFIED="1423840148685" TEXT="Markets in Financial Instruments Directive (MIFiD) - od 2004">
 <node CREATED="1422805992470" ID="ID_1313491399" LINK="http://orka.sejm.gov.pl/WydBAS.nsf/0/420885A628A26227C12575DE00245CEF/$file/Infos_58.pdf" MODIFIED="1422806012505">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1102,7 +1121,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1422448140867" FOLDED="true" ID="ID_258352027" MODIFIED="1423605681177" TEXT="Client categorisation">
+<node CREATED="1422448140867" ID="ID_258352027" MODIFIED="1423840168567" TEXT="Client categorisation">
 <node CREATED="1422448143259" ID="ID_14261650" MODIFIED="1422448165162">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1165,8 +1184,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1422567636853" FOLDED="true" ID="ID_75047031" MODIFIED="1423605681180" TEXT="Zwi&#x105;zek Bank&#xf3;w Polskich">
-<node CREATED="1422567645655" FOLDED="true" ID="ID_740010492" LINK="http://zbp.pl/public/repozytorium/dla_bankow/prawo/komisja_etyki_bankowej/KEB_final_WZ.pdf" MODIFIED="1423605681180" TEXT="KODEKS ETYKI BANKOWEJ (ZASADY DOBREJ PRAKTYKI BANKOWEJ)">
+<node CREATED="1422567636853" ID="ID_75047031" MODIFIED="1423775243502" TEXT="Zwi&#x105;zek Bank&#xf3;w Polskich">
+<node CREATED="1422567645655" ID="ID_740010492" LINK="http://zbp.pl/public/repozytorium/dla_bankow/prawo/komisja_etyki_bankowej/KEB_final_WZ.pdf" MODIFIED="1423846186412" TEXT="KODEKS ETYKI BANKOWEJ (ZASADY DOBREJ PRAKTYKI BANKOWEJ)">
 <node CREATED="1422900689540" ID="ID_494339415" MODIFIED="1422904160119">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1378,7 +1397,7 @@
 <node CREATED="1422805437560" ID="ID_1195707718" LINK="http://orka.sejm.gov.pl/WydBAS.nsf/0/420885A628A26227C12575DE00245CEF/$file/Infos_58.pdf" MODIFIED="1422805457948" TEXT="&quot;opcje walutowe&quot; 2004-2008"/>
 </node>
 </node>
-<node CREATED="1422387165550" FOLDED="true" ID="ID_524826321" MODIFIED="1423605681198" POSITION="right" TEXT="raporty">
+<node CREATED="1422387165550" FOLDED="true" ID="ID_524826321" MODIFIED="1423847319803" POSITION="right" TEXT="raporty">
 <node CREATED="1422387167713" FOLDED="true" ID="ID_337743147" MODIFIED="1423605681182" TEXT="mBank">
 <node CREATED="1422495406976" ID="ID_1253013617" LINK="http://www.mbank.pl/pobierz/msp-korporacje/wyniki-finansowe/2006/2006Q3.pdf" MODIFIED="1422495463878" TEXT="Skonsolidowane sprawozdanie finansowe wed&#x142;ug Mi&#x119;dzynarodowych Standard&#xf3;w Sprawozdawczo&#x15b;ci Finansowej za III kwarta&#x142; 2006 roku"/>
 <node CREATED="1422387180813" ID="ID_1222817930" LINK="http://www.mbank.pl/pobierz/msp-korporacje/wyniki-finansowe/2006/2006Q4.pdf" MODIFIED="1422808458626" TEXT="Skonsolidowane sprawozdanie finansowe&#xa;wedug Midzynarodowych Standardo&#x301;w Sprawozdawczoci Finansowejza IV kwarta&#xa0;2006 roku"/>
@@ -1528,7 +1547,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1422383715029" FOLDED="true" ID="ID_1585596402" MODIFIED="1423605681200" POSITION="right" TEXT="orzeczenia s&#x105;d&#xf3;w">
+<node CREATED="1422383715029" FOLDED="true" ID="ID_1585596402" MODIFIED="1423847317661" POSITION="right" TEXT="orzeczenia s&#x105;d&#xf3;w">
 <node CREATED="1422383722252" FOLDED="true" ID="ID_150439850" MODIFIED="1423605681198" TEXT="IV CSK 142/13">
 <node CREATED="1422383744507" ID="ID_1459268157" MODIFIED="1422383749871" TEXT="waloryzacja"/>
 </node>
@@ -1615,8 +1634,8 @@
 <node CREATED="1423420008908" ID="ID_1315903574" MODIFIED="1423420011106" TEXT="NNW"/>
 </node>
 </node>
-<node CREATED="1422311600595" FOLDED="true" ID="ID_1229681393" MODIFIED="1423605681220" POSITION="left" TEXT="zastrze&#x17c;enia">
-<node CREATED="1423185432480" FOLDED="true" ID="ID_281141628" MODIFIED="1423605681200" TEXT="kredyt nie jest w CHF cho&#x107; mia&#x142; by">
+<node CREATED="1422311600595" FOLDED="true" ID="ID_1229681393" MODIFIED="1423852098391" POSITION="left" TEXT="zastrze&#x17c;enia">
+<node CREATED="1423185432480" FOLDED="true" ID="ID_281141628" MODIFIED="1423843564391" TEXT="kredyt nie jest w CHF cho&#x107; mia&#x142; by">
 <node CREATED="1423185454353" FOLDED="true" ID="ID_1065688344" MODIFIED="1423605681200" TEXT="Przy za&#x142;o&#x17c;eniu &#x17c;e wprowadzenie w b&#x142;&#x105;d, oszukiwanie jest w kanonie &quot;zasad wsp&#xf3;&#x142;&#x17c;ycia spo&#x142;ecznego&quot;.">
 <node CREATED="1423185446362" ID="ID_1455462621" MODIFIED="1423185446362" TEXT="&#xa7; 2. Je&#x17c;eli strona, kt&#xf3;rej zale&#x17c;y na ziszczeniu si&#x119; warunku, doprowadzi w spos&#xf3;b sprzeczny z zasadami wsp&#xf3;&#x142;&#x17c;ycia spo&#x142;ecznego do ziszczenia si&#x119; warunku, nast&#x119;puj&#x105; skutki takie, jakby warunek si&#x119; nie zi&#x15b;ci&#x142;."/>
 <node CREATED="1423185488815" ID="ID_1672935969" MODIFIED="1423185488815" TEXT="&#xa7; 2. Niewa&#x17c;na jest czynno&#x15b;&#x107; prawna sprzeczna z zasadami wsp&#xf3;&#x142;&#x17c;ycia spo&#x142;ecznego."/>
@@ -1627,24 +1646,24 @@
 <icon BUILTIN="ksmiletris"/>
 </node>
 </node>
-<node CREATED="1422311488581" FOLDED="true" ID="ID_1277773927" MODIFIED="1423605681206" TEXT="kredyt jest w PLN">
-<node CREATED="1422809342982" FOLDED="true" ID="ID_1623316940" MODIFIED="1423605681201" TEXT="&#xa7; 1. DANE O KREDYCIE">
+<node CREATED="1422311488581" FOLDED="true" ID="ID_1277773927" MODIFIED="1423844509442" TEXT="kredyt jest w PLN">
+<node CREATED="1422809342982" FOLDED="true" ID="ID_1623316940" MODIFIED="1423843603745" TEXT="&#xa7; 1. DANE O KREDYCIE">
 <node CREATED="1422765410192" FOLDED="true" ID="ID_939614870" LINK="#ID_1059349530" MODIFIED="1423605681201" TEXT="2. Kwota Kredytu: XXX z&#x142;">
 <node CREATED="1422765415553" ID="ID_1665939739" LINK="#ID_332913785" MODIFIED="1422809052586" TEXT="suma pieni&#x119;&#x17c;na zobowi&#x105;zania  jest wyra&#x17c;ona w PLN"/>
 <node CREATED="1422809110508" ID="ID_991476479" LINK="#ID_1951492617" MODIFIED="1422809122139" TEXT="kredyt jest wyra&#x17c;ony w PLN"/>
 </node>
 </node>
-<node CREATED="1422809145954" FOLDED="true" ID="ID_575452518" MODIFIED="1423605681201" TEXT=" &#xa7; 5 WYP&#x141;ATA KREDYTU">
+<node CREATED="1422809145954" FOLDED="true" ID="ID_575452518" MODIFIED="1423843605221" TEXT=" &#xa7; 5 WYP&#x141;ATA KREDYTU">
 <node CREATED="1422809131715" FOLDED="true" ID="ID_1632906276" LINK="#ID_1951492617" MODIFIED="1423605681201" TEXT="kwota wykorzystanego kredytu">
 <node CREATED="1422809193076" ID="ID_128862756" MODIFIED="1422809276467" TEXT="1. Sposo&#x301;b wyp&#x142;aty Kredytu: &#xa;- Kwota XXX&#xa0;000,00 z&#x142; przekazana na rachunek wskazany ww. akcie notarialnym &#xa;- Kwota XX 000,00 z&#x142; na rachunek wskazany przez Kredytobiorce&#x328; tytu&#x142;em refinansowania poniesionych nak&#x142;ado&#x301;w &#xa;- Kwota XX 000,00 z&#x142; na rachunek wskazany przez Kredytobiorce&#x328; tytu&#x142;em finansowania op&#x142;at oko&#x142;okredytowych"/>
 </node>
 </node>
-<node CREATED="1422809458992" FOLDED="true" ID="ID_160482854" MODIFIED="1423605681201" TEXT="&#xa7; 11. SP&#x141;ATA KREDYTU &#x2013; WYSOKOS&#x301;C&#x301;RAT">
+<node CREATED="1422809458992" FOLDED="true" ID="ID_160482854" MODIFIED="1423843610163" TEXT="&#xa7; 11. SP&#x141;ATA KREDYTU &#x2013; WYSOKOS&#x301;C&#x301;RAT">
 <node CREATED="1422809534770" ID="ID_1363498618" LINK="#ID_674785169" MODIFIED="1422809573489" TEXT="4. Raty kapita&#x142;owo-odsetkowe sp&#x142;acane s&#x105; w z&#x142;otych po uprzednim ich przeliczeniu wg kursu sprzeda&#x17c;y CHF z tabeli kursowej BRE Banku S.A,. obowi&#x105;zuj&#x105;cego na dzie&#x144; sp&#x142;aty z godziny 14:50."/>
 <node CREATED="1422809585263" ID="ID_1616186933" LINK="#ID_485749996" MODIFIED="1422809685833" TEXT="CHF jest &quot;innym ni&#x17c; pieni&#x105;dz miernikiem warto&#x15b;ci.&quot;"/>
 <node CREATED="1423181411155" ID="ID_1714010333" MODIFIED="1423181416414" TEXT="CHF nie jest pieni&#x105;dzem"/>
 </node>
-<node CREATED="1423161839142" FOLDED="true" ID="ID_1675651959" LINK="http://bip.kprm.gov.pl/ftp/kprm/dokumenty/080509u6uz.pdf" MODIFIED="1423605681204" TEXT="zasada walutowo&#x15b;ci">
+<node CREATED="1423161839142" ID="ID_1675651959" LINK="http://bip.kprm.gov.pl/ftp/kprm/dokumenty/080509u6uz.pdf" MODIFIED="1423691656363" TEXT="zasada walutowo&#x15b;ci">
 <node CREATED="1422313361974" FOLDED="true" ID="ID_1488340305" MODIFIED="1423605681201">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1669,7 +1688,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1423180645885" FOLDED="true" ID="ID_1527726541" LINK="#ID_99765064" MODIFIED="1423605681203" TEXT="&#xa7; 1. Z zastrze&#x17c;eniem wyj&#x105;tk&#xf3;w w ustawie przewidzianych, zobowi&#x105;zania pieni&#x119;&#x17c;ne na obszarze Rzeczypospolitej Polskiej mog&#x105; by&#x107; wyra&#x17c;one tylko w pieni&#x105;dzu polskim.">
+<node CREATED="1423180645885" ID="ID_1527726541" LINK="#ID_99765064" MODIFIED="1423691660244" TEXT="&#xa7; 1. Z zastrze&#x17c;eniem wyj&#x105;tk&#xf3;w w ustawie przewidzianych, zobowi&#x105;zania pieni&#x119;&#x17c;ne na obszarze Rzeczypospolitej Polskiej mog&#x105; by&#x107; wyra&#x17c;one tylko w pieni&#x105;dzu polskim.">
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
@@ -1784,10 +1803,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1422311621562" FOLDED="true" ID="ID_35167788" LINK="#ID_391543003" MODIFIED="1423605681215" TEXT="waloryzacja">
-<node CREATED="1423249476513" FOLDED="true" ID="ID_1510183192" MODIFIED="1423605681206" TEXT="technika indeksacji s&#x142;uzy obejsciu zasady nominalizmy">
-<node CREATED="1423249503167" ID="ID_363881826" MODIFIED="1423249514981" TEXT="rozmowa z fiansista ze szwajcarii"/>
-<node CREATED="1423249516446" ID="ID_928423501" MODIFIED="1423249522812" TEXT="pierwsze co powiedzial :)"/>
+<node CREATED="1422311621562" FOLDED="true" ID="ID_35167788" LINK="#ID_391543003" MODIFIED="1423852097591" TEXT="waloryzacja">
+<node CREATED="1423851922607" ID="ID_656321232" MODIFIED="1423851941592" TEXT="waloryzacja kwoty kredytu w momencie udzielenia?">
+<node CREATED="1423851945558" ID="ID_239363626" MODIFIED="1423851952316" TEXT="jest to sprzeczne z zasadami waloryzacji"/>
 </node>
 <node CREATED="1422311707965" FOLDED="true" ID="ID_1219120186" MODIFIED="1423605681208">
 <richcontent TYPE="NODE"><html>
@@ -1842,7 +1860,11 @@
 <node CREATED="1423181524908" ID="ID_917870848" LINK="http://www.strefaleasingu.pl/leasing-walutowy.html" MODIFIED="1423181546160" TEXT="Zastosowanie przez leasingodawc&#x119; mechanizmu indeksowania i denominacji jako klauzuli waloryzacyjnej nie s&#x142;u&#x17c;y zabezpieczeniu si&#x142;y nabywczej pieni&#x105;dza polskiego na rynku wewn&#x119;trznym, lecz wykorzystywany jest do bezpodstawnego wzbogacenia si&#x119; finansuj&#x105;cego kosztem leasingobiorcy."/>
 <node CREATED="1423183035715" ID="ID_1247848336" LINK="http://www.rzu.gov.pl/art-358-waloryzacja-swiadczen/Wyrok_Sadu_Najwyzszego_z_dnia_22_kwietnia_2005_roku__sygn__akt_II_CK_599_04__M_Prawn_2005_10_478__2763" MODIFIED="1423183042103" TEXT="Zgodnie z art. 3581 &#xa7; 2 k.c. strony mog&#x105; zastrzec w umowie, &#x17c;e wysoko&#x15b;&#x107; &#x15b;wiadczenia pieni&#x119;&#x17c;nego zostanie ustalona wed&#x142;ug innego ni&#x17c; pieni&#x105;dz miernika warto&#x15b;ci. Oznacza to dopuszczalno&#x15b;&#x107; umieszczenia w umowie tzw. klauzul waloryzacyjnych (walutowej, z&#x142;otowej, indeksowej); umieszczenie takiej klauzuli wy&#x142;&#x105;cza mo&#x17c;liwo&#x15b;&#x107; dokonania waloryzacji s&#x105;dowej. Ujemne skutki zmiany si&#x142;y nabywczej pieni&#x105;dza zostaj&#x105; bowiem przez same strony uwzgl&#x119;dnione i, przynajmniej w za&#x142;o&#x17c;eniu, wyeliminowane."/>
 </node>
-<node CREATED="1422468548455" FOLDED="true" ID="ID_494015917" LINK="#ID_674785169" MODIFIED="1423605681211" TEXT="waloryzowa&#x107; mo&#x17c;na innym ni&#x17c; pieni&#x105;dz miernikiem [Art. 358 kc]">
+<node CREATED="1423249476513" FOLDED="true" ID="ID_1510183192" MODIFIED="1423851921244" TEXT="technika indeksacji s&#x142;uzy obejsciu zasady nominalizmy">
+<node CREATED="1423249503167" ID="ID_363881826" MODIFIED="1423249514981" TEXT="rozmowa z fiansista ze szwajcarii"/>
+<node CREATED="1423249516446" ID="ID_928423501" MODIFIED="1423249522812" TEXT="pierwsze co powiedzial :)"/>
+</node>
+<node CREATED="1422468548455" ID="ID_494015917" LINK="#ID_674785169" MODIFIED="1423843499174" TEXT="waloryzowa&#x107; mo&#x17c;na innym ni&#x17c; pieni&#x105;dz miernikiem [Art. 358 kc]">
 <node CREATED="1422764605937" FOLDED="true" ID="ID_1621328870" MODIFIED="1423605681209" TEXT="wnioskowanie A">
 <icon BUILTIN="ksmiletris"/>
 <icon BUILTIN="down"/>
@@ -1864,7 +1886,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1422764615160" FOLDED="true" ID="ID_771410816" MODIFIED="1423605681211" TEXT="wnioskowanie B">
+<node CREATED="1422764615160" ID="ID_771410816" MODIFIED="1423851991730" TEXT="wnioskowanie B">
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
@@ -1896,7 +1918,7 @@
 <node CREATED="1422764750857" FOLDED="true" ID="ID_682576814" MODIFIED="1423605681210" TEXT="kredyt nie ma nic wsp&#xf3;lnego ze szwajcarskim frankiem">
 <node CREATED="1422765771346" ID="ID_57745318" MODIFIED="1422765785147" TEXT="poza u&#x17c;yciem go jako mno&#x17c;nika zobowi&#x105;za&#x144;"/>
 </node>
-<node CREATED="1422764771704" FOLDED="true" ID="ID_906280501" MODIFIED="1423605681211" TEXT="warto&#x15b;&#x107; CHF jest u&#x17c;yta do zawy&#x17c;enia warto&#x15b;ci kapita&#x142;u">
+<node CREATED="1422764771704" FOLDED="true" ID="ID_906280501" MODIFIED="1423851989433" TEXT="warto&#x15b;&#x107; CHF jest u&#x17c;yta do zawy&#x17c;enia warto&#x15b;ci kapita&#x142;u">
 <node CREATED="1422764814173" ID="ID_714952590" MODIFIED="1422764936915">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2102,7 +2124,7 @@
 <node CREATED="1423467608312" ID="ID_186108981" LINK="www.uokik.gov.pl/download.php?id=639" MODIFIED="1423467616540" TEXT="www.uokik.gov.pl/download.php?id=639"/>
 </node>
 </node>
-<node CREATED="1422764477281" FOLDED="true" ID="ID_978430047" LINK="#ID_188769773" MODIFIED="1423605681215" TEXT="kwota nominalna kredytu">
+<node CREATED="1422764477281" FOLDED="true" ID="ID_978430047" LINK="#ID_188769773" MODIFIED="1423845031188" TEXT="kwota nominalna kredytu">
 <node CREATED="1422764531166" FOLDED="true" ID="ID_833300323" MODIFIED="1423605681215" TEXT="zmienna">
 <node CREATED="1422764535142" ID="ID_939232917" LINK="#ID_332913785" MODIFIED="1422764566682" TEXT="pogwa&#x142;cenie zasady nominalizmu"/>
 </node>
@@ -2111,7 +2133,7 @@
 <icon BUILTIN="down"/>
 </node>
 </node>
-<node CREATED="1422452943057" FOLDED="true" ID="ID_782604867" MODIFIED="1423605681216">
+<node CREATED="1422452943057" ID="ID_782604867" MODIFIED="1423845058953">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2253,17 +2275,17 @@
 <node CREATED="1422491752295" ID="ID_1336578738" LINK="#ID_296176674" MODIFIED="1422491813673" TEXT="Z pozycji klienta detalicznego zarz&#x105;dzanie ryzykiem walutowym jest praktycznie niemo&#x15c;liwe, dlatego kredyt walutowy nie powinien by&#x107; produktem masowym."/>
 </node>
 </node>
-<node CREATED="1422390006388" FOLDED="true" ID="ID_1257578814" MODIFIED="1423605681218" TEXT="konsument bez wp&#x142;ywu na ryzyko">
+<node CREATED="1422390006388" ID="ID_1257578814" MODIFIED="1423845066432" TEXT="konsument bez wp&#x142;ywu na ryzyko">
 <node CREATED="1422390030258" FOLDED="true" ID="ID_1713418466" MODIFIED="1423605681218" TEXT="English">
 <node CREATED="1422390048854" ID="ID_1002880709" MODIFIED="1422390048854" TEXT="hedging"/>
 <node CREATED="1422390059128" ID="ID_1594886654" MODIFIED="1422390066297" TEXT="insuring against price movements"/>
 </node>
 <node CREATED="1422452218424" ID="ID_530402892" MODIFIED="1422452236101" TEXT="zarz&#x105;dzanie ryzykiem dost&#x119;pne tylko dla klient&#xf3;w profesjonalnych"/>
 </node>
-<node CREATED="1422452691296" FOLDED="true" ID="ID_1631633278" MODIFIED="1423605681218" TEXT="ten kredyt wygl&#x105;da jak pu&#x142;apka na amatora">
+<node CREATED="1422452691296" ID="ID_1631633278" MODIFIED="1423846154999" TEXT="ten kredyt wygl&#x105;da jak pu&#x142;apka na amatora">
 <node CREATED="1422452921682" ID="ID_1321144287" LINK="http://samcik.blox.pl/2013/10/Precedens-Sad-uznal-ze-kredyt-jest-zrodlem.html" MODIFIED="1422463623693" TEXT="vide Kredyt ALICJA"/>
 </node>
-<node CREATED="1422492129932" FOLDED="true" ID="ID_398656840" MODIFIED="1423605681219" TEXT="spread w aspekcie zastrze&#x17c;e&#x144; nie jest sednem sprawy">
+<node CREATED="1422492129932" FOLDED="true" ID="ID_398656840" MODIFIED="1423846153822" TEXT="spread w aspekcie zastrze&#x17c;e&#x144; nie jest sednem sprawy">
 <node CREATED="1422492144267" ID="ID_930871514" MODIFIED="1422492227088" TEXT="zakup w 2006 roku po 2.6PLN"/>
 <node CREATED="1422492173955" ID="ID_490609854" MODIFIED="1422492223975" TEXT="sprzedaz CHF kredytobiorcy w 2015 roku po 4PLN"/>
 <node CREATED="1422492227912" ID="ID_14015080" MODIFIED="1422494962959" TEXT="cena kupna i sprzeda&#x17c;y z tabeli walut nic do tego nie ma, &#xa;no chyba &#x17c;e bym splacal tego samego dnia co zaciagn&#x105;&#x142;em kredyt"/>
@@ -2288,12 +2310,12 @@
 <node CREATED="1423468148075" ID="ID_308533082" LINK="#ID_1862529839" MODIFIED="1423468190345" TEXT="omini&#x119;cie przepis&#xf3;w kredytu konsumenckiego (do 255.000PLN)"/>
 </node>
 </node>
-<node CREATED="1423249858209" FOLDED="true" ID="ID_133206214" MODIFIED="1423605681220" POSITION="left" TEXT="zarzuty">
-<node CREATED="1423249871921" FOLDED="true" ID="ID_185348902" MODIFIED="1423605681220" TEXT="ch&#x119;&#x107; wzbogacenia si&#x119;">
+<node CREATED="1423249858209" ID="ID_133206214" MODIFIED="1423851907180" POSITION="left" TEXT="zarzuty">
+<node CREATED="1423249871921" FOLDED="true" ID="ID_185348902" MODIFIED="1423851911344" TEXT="ch&#x119;&#x107; wzbogacenia si&#x119;">
 <node CREATED="1423249884728" ID="ID_439533508" MODIFIED="1423249906359" TEXT="warto&#x15b;&#x107; zobowi&#x105;zania przewy&#x17c;sza warto&#x15b;&#x107; zakupiopnego dobra"/>
 </node>
 </node>
-<node CREATED="1422775395645" FOLDED="true" ID="ID_1093364433" MODIFIED="1423605681221" POSITION="left" TEXT="publiczne wprowadzanie w b&#x142;&#x105;d">
+<node CREATED="1422775395645" FOLDED="true" ID="ID_1093364433" MODIFIED="1423846863348" POSITION="left" TEXT="publiczne wprowadzanie w b&#x142;&#x105;d">
 <node CREATED="1422775406712" FOLDED="true" ID="ID_155356356" LINK="#ID_954031769" MODIFIED="1423605681220" TEXT="PRZEWALUTOWANIE by KNF">
 <node CREATED="1422775454706" ID="ID_1960535001" MODIFIED="1422775469958" TEXT="ani s&#x142;owa o indeksowanych/waloryzowanych"/>
 <node CREATED="1422775472104" ID="ID_154709239" MODIFIED="1422775480418" TEXT="traktuje kredyty jako denominowane"/>
@@ -2308,8 +2330,8 @@
 <node CREATED="1423514279465" ID="ID_523558086" MODIFIED="1423514279465" TEXT="POLSKA Gazeta Wroc&#x142;awska"/>
 </node>
 </node>
-<node CREATED="1422311855556" FOLDED="true" ID="ID_498181569" MODIFIED="1423605681236" POSITION="left" TEXT="s&#x142;ownik">
-<node CREATED="1422311867700" FOLDED="true" ID="ID_391543003" MODIFIED="1423605681222" TEXT="waloryzacja">
+<node CREATED="1422311855556" FOLDED="true" ID="ID_498181569" MODIFIED="1423852100381" POSITION="left" TEXT="s&#x142;ownik">
+<node CREATED="1422311867700" FOLDED="true" ID="ID_391543003" MODIFIED="1423852093609" TEXT="waloryzacja">
 <node CREATED="1422385697966" FOLDED="true" ID="ID_1749166377" MODIFIED="1423605681221" TEXT="Wielki S&#x142;ownij J&#x119;zyka Polskiego">
 <node CREATED="1422385626155" FOLDED="true" ID="ID_1626340438" MODIFIED="1423605681221" TEXT="Ekonomicznie">
 <node CREATED="1422385682163" ID="ID_1199724746" MODIFIED="1422389804013">
@@ -2348,7 +2370,7 @@
 <node CREATED="1422386370486" FOLDED="true" ID="ID_1275269413" MODIFIED="1423605681221" TEXT="Portal Wiedzy PWN">
 <node CREATED="1422386390468" ID="ID_621086326" MODIFIED="1422386427198" TEXT="zwi&#x119;kszenie wielko&#x15b;ci nominalnej &#x15b;wiadcze&#x144; finansowych,&#xa;sk&#x142;adek ubezpieczeniowych oraz wierzytelno&#x15b;ci,"/>
 </node>
-<node CREATED="1422385976822" FOLDED="true" ID="ID_50690671" MODIFIED="1423605681221">
+<node CREATED="1422385976822" ID="ID_50690671" MODIFIED="1423847451285">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2379,7 +2401,7 @@
 </node>
 <node CREATED="1423175693812" ID="ID_499081643" LINK="http://www.infor.pl/prawo/encyklopedia-prawa/w/272164,Waloryzacja.html" MODIFIED="1423175704488" TEXT="Przez waloryzacj&#x119; nale&#x17c;y rozumie&#x107; ustalenie istniej&#x105;cych zobowi&#x105;za&#x144; pieni&#x119;&#x17c;nych przy zmianie systemu pieni&#x119;&#x17c;nego, przywracanie warto&#x15b;ci zdeprecjonowanym wierzytelno&#x15b;ciom pieni&#x119;&#x17c;nym."/>
 </node>
-<node CREATED="1422311871347" FOLDED="true" ID="ID_1893862665" MODIFIED="1423605681222" TEXT="indeksacja">
+<node CREATED="1422311871347" FOLDED="true" ID="ID_1893862665" MODIFIED="1423847436673" TEXT="indeksacja">
 <node CREATED="1422386465607" FOLDED="true" ID="ID_1104239989" MODIFIED="1423605681222" TEXT="Portal Wiedzy PWN">
 <node CREATED="1422386476496" ID="ID_163737987" MODIFIED="1422386527682" TEXT="wprowadzenie automatycznego powi&#x105;zania pomi&#x119;dzy zobowi&#x105;zaniami pieni&#x119;&#x17c;nymi"/>
 </node>
@@ -2387,14 +2409,14 @@
 <node CREATED="1422386219090" ID="ID_127839943" MODIFIED="1422386219090" TEXT="Indeksacja (z &#x142;ac.) - system powi&#x105;zania p&#x142;ac, cen lub st&#xf3;p procentowych z okre&#x15b;lonym wska&#x17a;nikiem ekonomicznym (najcz&#x119;&#x15b;ciej jest to wska&#x17a;nik inflacji bazowej), zmiana warto&#x15b;ci tego wska&#x17a;nika powoduje proporcjonaln&#x105; zmian&#x119; p&#x142;acy, ceny czy stopy procentowej."/>
 <node CREATED="1422386324976" ID="ID_1376829475" MODIFIED="1422386326459" TEXT="Indeksacj&#x119; stosuj&#x105; banki - przy wzro&#x15b;cie inflacji wzrastaj&#x105; kwoty podlegaj&#x105;ce zwrotowi. Banki mog&#x105; r&#xf3;wnie&#x17c; powi&#x105;za&#x107; kwoty podlegaj&#x105;ce zwrotowi np. z WIBOR."/>
 </node>
-<node CREATED="1422389865436" FOLDED="true" ID="ID_151936504" MODIFIED="1423605681222" TEXT="English">
-<node CREATED="1422495724420" FOLDED="true" ID="ID_1483107231" MODIFIED="1423605681222" TEXT="IMF">
+<node CREATED="1422389865436" ID="ID_151936504" MODIFIED="1423772874891" TEXT="English">
+<node CREATED="1422495724420" ID="ID_1483107231" MODIFIED="1423772875946" TEXT="IMF">
 <node CREATED="1422494378846" ID="ID_1378697847" LINK="#ID_1268303711" MODIFIED="1422494810794" TEXT="indexed to&#xa0;foreign currency"/>
 </node>
-<node CREATED="1422495997444" FOLDED="true" ID="ID_477116428" MODIFIED="1423605681222" TEXT="EFSE">
+<node CREATED="1422495997444" ID="ID_477116428" MODIFIED="1423772878779" TEXT="EFSE">
 <node CREATED="1422496017019" ID="ID_1174861102" LINK="http://www.efse.lu/uploads/embedding_list_upload_4e2c557381a93/foreign-exchange-lending-client-education-booklet.pdf" MODIFIED="1422808330672" TEXT="What is an FX indexed loan?&#xa;A loan denominated in Leu but tied to a foreign currency, such as Euro, Dollar or Swiss Franc."/>
 </node>
-<node CREATED="1422386197376" FOLDED="true" ID="ID_1029267924" MODIFIED="1423605681222" TEXT="Wikipedia">
+<node CREATED="1422386197376" ID="ID_1029267924" MODIFIED="1423772886872" TEXT="Wikipedia">
 <node CREATED="1422386202363" ID="ID_519963973" MODIFIED="1422386204412" TEXT="Indexation is a technique to adjust income payments by means of a price index, in order to maintain the purchasing power of the public after inflation, while Deindexation refers to the unwinding of indexation."/>
 </node>
 </node>
@@ -2421,7 +2443,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1422387272527" FOLDED="true" ID="ID_1352682659" MODIFIED="1423605681223" TEXT="denominacja">
+<node CREATED="1422387272527" FOLDED="true" ID="ID_1352682659" MODIFIED="1423847435571" TEXT="denominacja">
 <node CREATED="1423159785169" FOLDED="true" ID="ID_854852438" LINK="sjp.pwn.pl/slowniki/denominacja.html" MODIFIED="1423605681222" TEXT="PWN">
 <node CREATED="1423159795623" ID="ID_1770492943" MODIFIED="1423159795623" TEXT="1. &#xab;wymiana pieni&#x119;dzy zwi&#x105;zana ze zmian&#x105; nazwy lub z obni&#x17c;eniem nomina&#x142;u&#xbb;"/>
 <node CREATED="1423159795627" ID="ID_456054938" MODIFIED="1423159811998" TEXT="2. &#xab;nazwanie czego&#x15b; lub kogo&#x15b; inn&#x105; nazw&#x105;&#xbb;">
@@ -2451,7 +2473,7 @@
 <node CREATED="1422387261704" FOLDED="true" ID="ID_1447418482" MODIFIED="1423605681223" TEXT="Wikipedia">
 <node CREATED="1422387264036" ID="ID_1139323899" MODIFIED="1422387266308" TEXT=" reforma walutowa, polegaj&#x105;ca na zast&#x105;pieniu dotychczasowej waluty kraju now&#x105;, bez ingerencji w kurs walutowy"/>
 </node>
-<node CREATED="1422387075036" FOLDED="true" ID="ID_919121301" LINK="#ID_1222817930" MODIFIED="1423605681223" TEXT="raport mBank">
+<node CREATED="1422387075036" ID="ID_919121301" LINK="#ID_1222817930" MODIFIED="1423772981323" TEXT="raport mBank">
 <node CREATED="1422387155403" ID="ID_1356551282" MODIFIED="1422387156617" TEXT="Nowym zjawiskiem w obszarze kredyto&#x301;w mieszkaniowych jest odnotowany w II poowie ubiegego roku wyrany wzrost zainteresowanie kredytami denominowanymi w zotych  "/>
 </node>
 <node CREATED="1423004047881" FOLDED="true" ID="ID_1611000711" MODIFIED="1423605681223" TEXT="UOKiK">
@@ -2481,7 +2503,7 @@
 <node CREATED="1422440439055" ID="ID_352588110" MODIFIED="1422440445791" TEXT="niedozwolony, zakazany"/>
 </node>
 </node>
-<node CREATED="1422314565417" FOLDED="true" ID="ID_1760262589" MODIFIED="1423605681233" TEXT="instrument pochodny">
+<node CREATED="1422314565417" FOLDED="true" ID="ID_1760262589" MODIFIED="1423852094701" TEXT="instrument pochodny">
 <node CREATED="1422314612454" ID="ID_979399005" LINK="#ID_821638343" MODIFIED="1422385252456" TEXT="Instrument pochodny jest to taki instrument finansowy,&#xa;kt&#xf3;rego warto&#x15b;&#x107; zale&#x17c;y od warto&#x15b;ci innego instrumentu finansowego &#xa;zwanego instrumentem podstawowym (bazowym)."/>
 <node CREATED="1422369188135" ID="ID_144303300" LINK="#ID_1961558785" MODIFIED="1422385479386" TEXT="Instrumenty pochodne stanowi&#x105; odr&#x119;bn&#x105; grup&#x119; instrument&#xf3;w finansowych.&#xa;Od instrument&#xf3;w udzia&#x142;owych (w tym akcji) i instrument&#xf3;w d&#x142;u&#x17c;nych r&#xf3;&#x17c;ni&#x105; &#xa;si&#x119; przede wszystkim tym, i&#x17c; podstawowym celem ich stosowania &#xa;nie jest transfer kapita&#x142;u, lecz transfer ryzyka."/>
 <node CREATED="1422389962239" FOLDED="true" ID="ID_1140960141" MODIFIED="1423605681224" TEXT="English">
@@ -2499,7 +2521,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1422311600595" FOLDED="true" ID="ID_227220823" MODIFIED="1423605681233" TEXT="zastrze&#x17c;enia">
+<node CREATED="1422311600595" ID="ID_227220823" MODIFIED="1423851996471" TEXT="zastrze&#x17c;enia">
 <node CREATED="1422311488581" FOLDED="true" ID="ID_1144724498" MODIFIED="1423605681227" TEXT="kredyt jest w PLN">
 <node CREATED="1422809342982" FOLDED="true" ID="ID_612970400" MODIFIED="1423605681224" TEXT="&#xa7; 1. DANE O KREDYCIE">
 <node CREATED="1422765410192" FOLDED="true" ID="ID_302976291" LINK="#ID_1059349530" MODIFIED="1423605681224" TEXT="2. Kwota Kredytu: XXX z&#x142;">
@@ -2629,7 +2651,7 @@
 <node CREATED="1422809585263" ID="ID_315080676" LINK="#ID_485749996" MODIFIED="1422809685833" TEXT="CHF jest &quot;innym ni&#x17c; pieni&#x105;dz miernikiem warto&#x15b;ci.&quot;"/>
 </node>
 </node>
-<node CREATED="1422311621562" FOLDED="true" ID="ID_1357832288" LINK="#ID_391543003" MODIFIED="1423605681230" TEXT="waloryzacja">
+<node CREATED="1422311621562" FOLDED="true" ID="ID_1357832288" LINK="#ID_391543003" MODIFIED="1423852090267" TEXT="waloryzacja">
 <node CREATED="1422468548455" FOLDED="true" ID="ID_214193970" LINK="#ID_674785169" MODIFIED="1423605681228" TEXT="waloryzowa&#x107; mo&#x17c;na innym ni&#x17c; pieni&#x105;dz miernikiem [Art. 358 kc]">
 <node CREATED="1422764605937" FOLDED="true" ID="ID_293670862" MODIFIED="1423605681227" TEXT="wnioskowanie A">
 <node CREATED="1422468578365" ID="ID_139716882" LINK="#ID_1438194625" MODIFIED="1422468590357" TEXT="PLN to peni&#x105;dz"/>
@@ -2693,7 +2715,7 @@
 <node CREATED="1422777713057" ID="ID_678385756" LINK="#ID_1697061497" MODIFIED="1422777754318" TEXT="tworzy to instrument pochodny"/>
 </node>
 </node>
-<node CREATED="1422314544010" FOLDED="true" ID="ID_16884736" LINK="#ID_1760262589" MODIFIED="1423605681228" TEXT="Czyni kredyt &quot;instrumentem pochodnym&quot;">
+<node CREATED="1422314544010" FOLDED="true" ID="ID_16884736" LINK="#ID_1760262589" MODIFIED="1423852066929" TEXT="Czyni kredyt &quot;instrumentem pochodnym&quot;">
 <node CREATED="1422314956056" ID="ID_1400339789" MODIFIED="1422315026446">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2707,7 +2729,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1422311707965" FOLDED="true" ID="ID_1647555928" MODIFIED="1423605681228">
+<node CREATED="1422311707965" FOLDED="true" ID="ID_1647555928" MODIFIED="1423852072401">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2721,11 +2743,11 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1422311805150" FOLDED="true" ID="ID_347923079" MODIFIED="1423605681228" TEXT="przyk&#x142;ady">
+<node CREATED="1422311805150" FOLDED="true" ID="ID_347923079" MODIFIED="1423852071373" TEXT="przyk&#x142;ady">
 <node CREATED="1422311792991" ID="ID_1776973295" MODIFIED="1422311799656" TEXT="waloryzacja rent i emerytur"/>
 </node>
 </node>
-<node CREATED="1422493168903" FOLDED="true" ID="ID_1050655132" LINK="#ID_1893862665" MODIFIED="1423605681228">
+<node CREATED="1422493168903" FOLDED="true" ID="ID_1050655132" LINK="#ID_1893862665" MODIFIED="1423852079183">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2742,11 +2764,11 @@
 <node CREATED="1422493186637" ID="ID_437905828" MODIFIED="1422493208022" TEXT="indeksowany brzmial by bardziej specjalistycznie - podej&#x17c;liwie"/>
 <node CREATED="1422493257809" ID="ID_935040368" MODIFIED="1422493284437" TEXT="waloryzacja jest osluchana i pozytywnie rozpoznawalna na rynku konsumenckim"/>
 </node>
-<node CREATED="1422317050602" FOLDED="true" ID="ID_1807485642" MODIFIED="1423605681229" TEXT="&quot;valorized by&quot; nie jest znane dla IMF">
+<node CREATED="1422317050602" FOLDED="true" ID="ID_1807485642" MODIFIED="1423852083753" TEXT="&quot;valorized by&quot; nie jest znane dla IMF">
 <node CREATED="1422494378846" ID="ID_1526739892" LINK="#ID_1268303711" MODIFIED="1422494810794" TEXT="indexed to&#xa0;foreign currency"/>
 <node CREATED="1422494378846" ID="ID_1653186624" LINK="#ID_1268303711" MODIFIED="1422494815176" TEXT="denominated in&#xa0;foreign currency"/>
 </node>
-<node CREATED="1422311629689" FOLDED="true" ID="ID_1472293188" MODIFIED="1423605681229">
+<node CREATED="1422311629689" FOLDED="true" ID="ID_1472293188" MODIFIED="1423852086502">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2762,7 +2784,7 @@
 </html></richcontent>
 <node CREATED="1422311838372" ID="ID_1970223576" MODIFIED="1422312022297" TEXT="u&#x17c;ywa s&#x142;owa indeksacja, denomiacja"/>
 </node>
-<node CREATED="1422311694221" FOLDED="true" ID="ID_1343278166" MODIFIED="1423605681229">
+<node CREATED="1422311694221" FOLDED="true" ID="ID_1343278166" MODIFIED="1423852088803">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2783,8 +2805,11 @@
 <node CREATED="1422867598856" ID="ID_1697569565" MODIFIED="1422867598856" TEXT="Oczywiste jest zatem, &#x17c;e tak skonstruowana klauzula waloryzacyjna ra&#x17c;&#x105;co narusza r&#xf3;wnowag&#x119; kontraktow&#x105; stron i zapewnia bankowi nieuzasadnione korzy&#x15b;ci"/>
 </node>
 </node>
-<node CREATED="1422355413057" FOLDED="true" ID="ID_1697061497" LINK="#ID_1760262589" MODIFIED="1423605681231" TEXT="ten kredyt jest instrumentem pochodnym">
-<node CREATED="1422355470730" FOLDED="true" ID="ID_263297724" LINK="#ID_1540292478" MODIFIED="1423605681230" TEXT="instrument podstawowy">
+<node CREATED="1422355413057" FOLDED="true" ID="ID_1697061497" LINK="#ID_1760262589" MODIFIED="1423852056297" TEXT="ten kredyt jest instrumentem pochodnym">
+<icon BUILTIN="down"/>
+<icon BUILTIN="down"/>
+<icon BUILTIN="down"/>
+<node CREATED="1422355470730" FOLDED="true" ID="ID_263297724" LINK="#ID_1540292478" MODIFIED="1423852002791" TEXT="instrument podstawowy">
 <node CREATED="1422355484949" ID="ID_1651055221" MODIFIED="1422355488930" TEXT="para CHFPLN"/>
 <node CREATED="1422355490052" ID="ID_1195532890" MODIFIED="1422355501050" TEXT="zmienne niejasne oprocentowanie"/>
 </node>
@@ -2852,6 +2877,10 @@
 <node CREATED="1422463315502" FOLDED="true" ID="ID_156515341" LINK="#ID_1542002635" MODIFIED="1423605681231" TEXT="kontrakt musi by&#x107; kontrolowany przez MIFiD">
 <node CREATED="1422806077889" ID="ID_673841237" MODIFIED="1422806085575" TEXT="MFID wydano w 2004"/>
 <node CREATED="1422773878529" ID="ID_1898438873" LINK="http://serwisy.gazetaprawna.pl/finanse-osobiste/artykuly/820607,wbudowani-w-kredyty-frankowe.html" MODIFIED="1422806075608" TEXT="Gazeta Prawna 09.09.2014"/>
+</node>
+<node CREATED="1423852019309" FOLDED="true" ID="ID_1412332407" MODIFIED="1423852049389" TEXT="S&#x142;abe">
+<node CREATED="1423852025261" ID="ID_1970436594" MODIFIED="1423852034408" TEXT="instrument pochodny jest inaczej okre&#x15b;lony"/>
+<node CREATED="1423852035037" ID="ID_935429970" MODIFIED="1423852048470" TEXT="Foreigh Currency Loans nie podchodz&#x105; pod instrument pochodny"/>
 </node>
 </node>
 <node CREATED="1422354236046" FOLDED="true" ID="ID_607483177" LINK="http://pl.wikipedia.org/wiki/Ryzyko_kredytowe" MODIFIED="1423605681232" TEXT="ryzyko kredytowe">
@@ -3100,7 +3129,7 @@
 <node CREATED="1423467955759" ID="ID_597578156" LINK="http://www.gazetaprawna.pl/encyklopedia/prawo/hasla/335032,kredyt.html" MODIFIED="1423467970647" TEXT="gazeta prawna"/>
 </node>
 </node>
-<node CREATED="1422495293054" FOLDED="true" ID="ID_760236369" MODIFIED="1423605681236" POSITION="right" TEXT="krytyka Rekomendacji S">
+<node CREATED="1422495293054" FOLDED="true" ID="ID_760236369" MODIFIED="1423847315995" POSITION="right" TEXT="krytyka Rekomendacji S">
 <node CREATED="1422495306046" FOLDED="true" ID="ID_1084032447" MODIFIED="1423605681236" TEXT="Fundacja Instytut Ludwiga von Misesa">
 <node CREATED="1422495318836" ID="ID_45265411" LINK="http://mises.pl/wp-content/uploads/2010/10/Maciej-Bitner-20101021-KNF-o-walutowych.pdf" MODIFIED="1422495366873" TEXT="M.Bitner Komisja Nadzoru Finansowego o kredytach walutowych"/>
 </node>
@@ -3182,7 +3211,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1422765024608" FOLDED="true" ID="ID_793860787" MODIFIED="1423605681238" POSITION="left" TEXT="casus">
+<node CREATED="1422765024608" FOLDED="true" ID="ID_793860787" MODIFIED="1423846866344" POSITION="left" TEXT="casus">
 <node CREATED="1422765027716" FOLDED="true" ID="ID_253056900" MODIFIED="1423605681237" TEXT="Alicja">
 <node CREATED="1422765030203" FOLDED="true" ID="ID_1128102535" MODIFIED="1423605681237" TEXT="brak terminu sp&#x142;aty">
 <node CREATED="1422765040642" ID="ID_1213050454" LINK="#ID_1238493956" MODIFIED="1422765082532" TEXT="naruszenie Art.69 prawa bankowego"/>
@@ -3192,6 +3221,7 @@
 <node CREATED="1423514576749" ID="ID_306631188" MODIFIED="1423514578314" TEXT="1980"/>
 <node CREATED="1423604719178" ID="ID_1162181205" LINK="http://wei.org.pl/aktualnosci/run,franki-jak-to-sie-robi-w-australii,page,1,article,1424,language_code,pl.html" MODIFIED="1423604726705" TEXT="opis"/>
 </node>
+<node CREATED="1423784386393" ID="ID_1789603005" LINK="http://prawo.money.pl/aktualnosci/okiem-eksperta/artykul/kredyty-w-chf-klauzule-indeksacyjne-to-nie,74,0,1711690.html" MODIFIED="1423784392025" TEXT="Islandia"/>
 </node>
 <node CREATED="1422794556486" FOLDED="true" ID="ID_272415141" MODIFIED="1423605681240" POSITION="left" TEXT="opinie prawne">
 <node CREATED="1422794584668" FOLDED="true" ID="ID_1868596394" LINK="http://wgospodarce.pl/opinie/18420-afera-frankowa-frankowicze-maja-mocne-argumenty-w-sadzie" MODIFIED="1423605681238" TEXT="AFERA FRANKOWA: &quot;Frankowicze&quot; maj&#x105; mocne argumenty w s&#x105;dzie!">
@@ -3301,7 +3331,7 @@
 <node CREATED="1423525319249" ID="ID_1705208078" LINK="https://www.facebook.com/people/Igor-Kowalski/100004448987456" MODIFIED="1423525319249" TEXT="https://www.facebook.com/people/Igor-Kowalski/100004448987456"/>
 <node CREATED="1423605690955" ID="ID_1729097920" LINK="https://www.thunderclap.it/projects/22213-stop-bezprawiu-bank-w-chf" MODIFIED="1423605690955" TEXT="https://www.thunderclap.it/projects/22213-stop-bezprawiu-bank-w-chf"/>
 </node>
-<node CREATED="1422381443599" FOLDED="true" ID="ID_1470110074" MODIFIED="1423605681241" POSITION="left">
+<node CREATED="1422381443599" FOLDED="true" ID="ID_1470110074" MODIFIED="1423847312651" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3359,10 +3389,10 @@
 <icon BUILTIN="clanbomber"/>
 </node>
 </node>
-<node CREATED="1423184421205" FOLDED="true" ID="ID_1972185400" MODIFIED="1423605681241" POSITION="right" TEXT="motto">
+<node CREATED="1423184421205" FOLDED="true" ID="ID_1972185400" MODIFIED="1423847044777" POSITION="right" TEXT="motto">
 <node CREATED="1423184424145" ID="ID_733676221" MODIFIED="1423184424145" TEXT="Grosz to pieniadz -pieniadz to forsa - forsa to grunt -grunt to ziemia- ziemia to matka- matka to aniol- aniol to stroz - stroz to dozorca - dozorca to gospodarz."/>
 </node>
-<node CREATED="1423514356371" FOLDED="true" ID="ID_1659708666" MODIFIED="1423605681242" POSITION="right" TEXT="publikacje">
+<node CREATED="1423514356371" FOLDED="true" ID="ID_1659708666" MODIFIED="1423847048685" POSITION="right" TEXT="publikacje">
 <node CREATED="1423514512553" FOLDED="true" ID="ID_231054005" MODIFIED="1423605681242" TEXT="jak manimpulowa&#x107; Foreign Currency Loans">
 <node CREATED="1423514361079" ID="ID_1504182280" LINK="www.cob.unt.edu/Firel/TRIPATHY/f5500/Solutions%20Shapiro%209e/Solutions%20Chapter%204%20Parity%20Conditions.pdf" MODIFIED="1423514505988" TEXT="NSTRUCTORS MANUAL: MULTINATIONAL FINANCIAL MANAGEMENT, 9TH ED."/>
 </node>
