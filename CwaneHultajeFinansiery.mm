@@ -1,6 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1422311124441" ID="ID_781876881" MODIFIED="1424218155527">
+<node CREATED="1422311124441" ID="ID_781876881" MODIFIED="1424550044686">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14,7 +14,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1422383804007" ID="ID_1937078195" MODIFIED="1424547792551" POSITION="right" TEXT="przepisy prawne">
+<node CREATED="1422383804007" ID="ID_1937078195" MODIFIED="1424598012774" POSITION="right" TEXT="przepisy prawne">
 <node CREATED="1422812087806" FOLDED="true" ID="ID_708300358" LINK="isap.sejm.gov.pl/Download?id=WDU19970780483&amp;type=3" MODIFIED="1424546780788" TEXT="KONSTYTUCJARZECZYPOSPOLITEJ POLSKIEJ">
 <node CREATED="1422812112751" FOLDED="true" ID="ID_1101953788" MODIFIED="1423605681133" TEXT="Art. 227.">
 <node CREATED="1422812122390" ID="ID_1835148706" MODIFIED="1422812201142">
@@ -99,7 +99,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1422311152319" ID="ID_1984406682" MODIFIED="1424547245817" TEXT="Prawo Bankowe">
+<node CREATED="1422311152319" ID="ID_1984406682" MODIFIED="1424560389562" TEXT="Prawo Bankowe">
 <node CREATED="1422435850271" FOLDED="true" ID="ID_929670205" MODIFIED="1424547355401" TEXT="Art. 5">
 <node CREATED="1422435933137" ID="ID_111474325" MODIFIED="1422435934490" TEXT="1. Czynnos&#x301;ciami bankowymi sa&#x328;:  3) &#xa0;udzielanie kredyto&#x301;w;  "/>
 <node CREATED="1422435926659" ID="ID_1306385155" MODIFIED="1422435928043" TEXT="2. Czynnos&#x301;ciami bankowymi sa&#x328; ro&#x301;wniez&#x307; naste&#x328;puja&#x328;ce czynnos&#x301;ci, o ile sa&#x328; one wykonywane  przez banki:   1) &#xa0;udzielanie poz&#x307;yczek pienie&#x328;z&#x307;nych;&#x37e;  4) &#xa0;terminowe operacje finansowe;  7) &#xa0;prowadzenie skupu i sprzedaz&#x307;y wartos&#x301;ci dewizowych;&#x37e; "/>
@@ -107,7 +107,7 @@
 <node CREATED="1424547577752" ID="ID_850899346" MODIFIED="1424547580322" TEXT="Art. 7b">
 <node CREATED="1424547581103" ID="ID_1120489457" MODIFIED="1424547581749" TEXT="1. W przypadku umowy o kredyt denomino- wany lub indeksowany do waluty innej ni&#x17c; waluta polska, konsument mo&#x17c;e do- konywa&#x107; sp&#x142;aty rat kapita&#x142;owo-odsetko- wych bezpo&#x15b;rednio w tej walucie."/>
 </node>
-<node CREATED="1422386849474" ID="ID_1238493956" MODIFIED="1424547802831" TEXT="Art. 69">
+<node CREATED="1422386849474" ID="ID_1238493956" MODIFIED="1424598016315" TEXT="Art. 69">
 <node CREATED="1422386939124" ID="ID_1951492617" MODIFIED="1423176152677">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -377,7 +377,7 @@
 <node CREATED="1424538230940" ID="ID_1601921264" MODIFIED="1424538332672" TEXT="W czasie obowi&#x105;zywania umowy kredytu kredytobiorca jest obowi&#x105;zany przedsta- wi&#x107; - na &#x17c;&#x105;danie banku - informacje i dokumenty niezb&#x119;dne do oceny jego sytuacji finansowej i gospodarczej oraz umo&#x17c;liwiaj&#x105;ce kontrol&#x119; wykorzystania i sp&#x142;aty kredy- tu. "/>
 </node>
 </node>
-<node CREATED="1422312624333" FOLDED="true" ID="ID_1919991283" MODIFIED="1424546772677" TEXT="Kodeks Cywilny">
+<node CREATED="1422312624333" FOLDED="true" ID="ID_1919991283" MODIFIED="1424557133626" TEXT="Kodeks Cywilny">
 <node CREATED="1422314195470" FOLDED="true" ID="ID_1069570596" MODIFIED="1423605681136" TEXT="Art. 5">
 <node CREATED="1422312985303" ID="ID_378664959" MODIFIED="1423184909905">
 <richcontent TYPE="NODE"><html>
@@ -585,7 +585,7 @@
 </node>
 </node>
 <node CREATED="1423180023804" ID="ID_1018897369" MODIFIED="1423180032927" TEXT="*  &#xa;&#xa; W brzmieniu ustalonym przez art. 1 ustawy z dnia 23 paz&#x301;dziernika 2008 r. o zmianie ustawy&#x2013; Kodeks cywilny oraz ustawy &#x2013;Prawo dewizowe (Dz. U. Nr 228, poz. 1506), kto&#x301;ra wesz&#x142;a w z&#x307;yciez dniem 24 stycznia 2009 r."/>
-<node CREATED="1423180204883" FOLDED="true" ID="ID_510194314" LINK="#ID_1691501041" MODIFIED="1423784340954" TEXT="od 2009">
+<node CREATED="1423180204883" ID="ID_510194314" LINK="#ID_1691501041" MODIFIED="1424556387731" TEXT="od 2009">
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
@@ -708,7 +708,7 @@
 <node CREATED="1423179250696" ID="ID_366301138" LINK="http://prawo.rp.pl/artykul/696666.html?print=tak&amp;p=0" MODIFIED="1423179260024" TEXT="Niestety, w tym kontek&#x15b;cie jest te&#x17c; z&#x142;a wiadomo&#x15b;&#x107; dla biznesu. Zgodnie z art. 3581 &#xa7; 4 k.c. z &#x17c;&#x105;daniem zmiany wysoko&#x15b;ci lub sposobu spe&#x142;nienia &#x15b;wiadczenia pieni&#x119;&#x17c;nego nie mo&#x17c;e wyst&#x105;pi&#x107; strona prowadz&#x105;ca przedsi&#x119;biorstwo, je&#x17c;eli &#x15b;wiadczenie pozostaje w zwi&#x105;zku z prowadzeniem tego przedsi&#x119;biorstwa. Oznacza to np., &#x17c;e firma budowlana nie mo&#x17c;e &#x17c;&#x105;da&#x107; wi&#x119;kszej ceny za budow&#x119; domu z tego tylko powodu, &#x17c;e w trakcie budowy bardzo wzros&#x142;a inflacja."/>
 </node>
 </node>
-<node CREATED="1422383013375" ID="ID_234907526" MODIFIED="1424545361381" TEXT="Art. 385">
+<node CREATED="1422383013375" FOLDED="true" ID="ID_234907526" MODIFIED="1424557132235" TEXT="Art. 385">
 <node CREATED="1422383021638" ID="ID_96889532" MODIFIED="1422383034602" TEXT="&#xa7; 1. W razie sprzeczno&#x15b;ci tre&#x15b;ci umowy z wzorcem umowy strony s&#x105; zwi&#x105;zane umow&#x105;."/>
 <node CREATED="1422383035389" ID="ID_50568709" MODIFIED="1423249388834">
 <richcontent TYPE="NODE"><html>
@@ -836,7 +836,7 @@
 <node CREATED="1423249100560" ID="ID_1633834159" MODIFIED="1423249105430" TEXT="wzorzec umowy"/>
 </node>
 </node>
-<node CREATED="1422315535357" ID="ID_1925817580" MODIFIED="1424217803279" TEXT="Ustawa o Rachunkowo&#x15b;ci">
+<node CREATED="1422315535357" FOLDED="true" ID="ID_1925817580" MODIFIED="1424556379498" TEXT="Ustawa o Rachunkowo&#x15b;ci">
 <node CREATED="1422384728273" FOLDED="true" ID="ID_247365841" MODIFIED="1423605681151" TEXT="Art. 3.">
 <node CREATED="1422384747208" ID="ID_1630397764" MODIFIED="1422384762499" TEXT="23) instrumentach finansowych &#x2013; rozumie si&#x119; przez to kontrakt, kt&#xf3;ry powoduje powstanie aktyw&#xf3;w finansowych u jednej ze stron i zobowi&#x105;zania finansowego albo instrumentu kapita&#x142;owego u drugiej ze stron"/>
 </node>
@@ -908,8 +908,30 @@
 </node>
 </node>
 <node CREATED="1423420067883" ID="ID_290431671" LINK="http://www.uokik.gov.pl/rejestr_klauzul_niedozwolonych2.php" MODIFIED="1423420067883" TEXT="uokik.gov.pl &gt; Rejestr klauzul niedozwolonych2"/>
+<node CREATED="1424552946842" FOLDED="true" ID="ID_895727609" MODIFIED="1424597161361" TEXT="Rozporz&#x105;dzeniem Ministra Finans&#xf3;w z dnia 10 grudnia 2003 roku">
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+<node CREATED="1424552994458" ID="ID_1384457347" MODIFIED="1424553349383" TEXT="uchylony cz&#x119;&#x15b;ciowo"/>
+<node CREATED="1424553350124" ID="ID_809594178" MODIFIED="1424553358969" TEXT="rezerwy banku zwi&#x105;zane z hipotek&#x105;"/>
+<node CREATED="1424553361027" ID="ID_1446278240" MODIFIED="1424553697216" TEXT="jak hipoteki rosn&#x105; to bank usi zwi&#x119;kszy&#x107; rezerwy....?">
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
 </node>
-<node CREATED="1422764185378" FOLDED="true" ID="ID_1978432898" MODIFIED="1423605681154" POSITION="right" TEXT="interpretacje prawa">
+<node CREATED="1424553521264" ID="ID_857011023" MODIFIED="1424553692895" TEXT="po&#x17c;yczki i kredyty mieszkaniowe"/>
+</node>
+<node CREATED="1424553000381" ID="ID_1414408428" MODIFIED="1424553000381" TEXT="Rozporz&#x105;dzenie Ministra Finans&#xf3;w dnia 29 czerwca 2007"/>
+<node CREATED="1424604205233" ID="ID_1110903858" LINK="http://isap.sejm.gov.pl/DetailsServlet?id=WDU19820190147" MODIFIED="1424604520909" TEXT="ustawy o ksi&#x119;gach wieczystych i hipotece">
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+<node CREATED="1424604244600" ID="ID_697554184" MODIFIED="1424604249654" TEXT="powa&#x17c;ne zmiany 20 lutego 2011"/>
+<node CREATED="1424604361246" ID="ID_501543629" MODIFIED="1424604362790" TEXT="2009">
+<node CREATED="1424604363279" ID="ID_894970981" LINK="http://isap.sejm.gov.pl/DetailsServlet?id=WDU20091311075" MODIFIED="1424604370719" TEXT="Dz.U. 2009 nr 131 poz. 1075"/>
+</node>
+</node>
+</node>
+<node CREATED="1422764185378" FOLDED="true" ID="ID_1978432898" MODIFIED="1424550037591" POSITION="right" TEXT="interpretacje prawa">
 <node CREATED="1422764192254" FOLDED="true" ID="ID_1523441990" LINK="http://orka2.sejm.gov.pl/IZ4.nsf/main/5F51DF41" MODIFIED="1423605681153" TEXT="Odpowied&#x17a; podsekretarza stanu w Ministerstwie Finans&#xf3;w - z upowa&#x17c;nienia ministra -">
 <node CREATED="1422764244835" ID="ID_1063476140" LINK="#ID_332913785" MODIFIED="1422764338950" TEXT="Powszechnie przyj&#x119;t&#x105; zasad&#x105; prawn&#x105; prawa zobowi&#x105;za&#x144; jest zasada nominalizmu. Oznacza ona, &#x17c;e wykonanie zobowi&#x105;zania pieni&#x119;&#x17c;nego przez d&#x142;u&#x17c;nika nast&#x119;puje przez zap&#x142;at&#x119; sumy nominalnej w znakach pieni&#x119;&#x17c;nych, kt&#xf3;re reprezentuj&#x105; nale&#x17c;no&#x15b;&#x107; wed&#x142;ug warto&#x15b;ci przepis&#xf3;w walutowych pa&#x144;stwa, w kt&#xf3;rego walucie nast&#x119;puje zap&#x142;ata."/>
 <node CREATED="1422764259559" ID="ID_1094896641" LINK="#ID_674785169" MODIFIED="1422764330602">
@@ -979,7 +1001,7 @@
 </node>
 <node CREATED="1422775071897" ID="ID_1707932115" LINK="http://www.sejm.gov.pl/sejm7.nsf/InterpelacjaTresc.xsp?key=71769811" MODIFIED="1422775081018" TEXT="Interpelacja nr 21776"/>
 </node>
-<node CREATED="1422384072880" ID="ID_1953494231" MODIFIED="1424549578541" POSITION="right" TEXT="rekomendacje urz&#x119;d&#xf3;w">
+<node CREATED="1422384072880" FOLDED="true" ID="ID_1953494231" MODIFIED="1424550040999" POSITION="right" TEXT="rekomendacje urz&#x119;d&#xf3;w">
 <node CREATED="1422797280205" ID="ID_1254289779" LINK="http://pl.wikipedia.org/wiki/Komisja_Nadzoru_Bankowego" MODIFIED="1424539987242" TEXT="Komisja Nadzoru Bankowego">
 <node CREATED="1422797283641" ID="ID_1651085766" MODIFIED="1422797291230" TEXT="zlikwidowana w 2008"/>
 <node CREATED="1422797488149" FOLDED="true" ID="ID_974551285" LINK="https://www.knf.gov.pl/Images/rekomendacja_s_tcm75-8566.pdf" MODIFIED="1423605681174" TEXT="Rekomendacja S (I) 2006">
@@ -1527,11 +1549,175 @@
 <node CREATED="1422805437560" ID="ID_1195707718" LINK="http://orka.sejm.gov.pl/WydBAS.nsf/0/420885A628A26227C12575DE00245CEF/$file/Infos_58.pdf" MODIFIED="1422805457948" TEXT="&quot;opcje walutowe&quot; 2004-2008"/>
 </node>
 </node>
-<node CREATED="1422387165550" FOLDED="true" ID="ID_524826321" MODIFIED="1423847319803" POSITION="right" TEXT="raporty">
-<node CREATED="1422387167713" FOLDED="true" ID="ID_337743147" MODIFIED="1423605681182" TEXT="mBank">
-<node CREATED="1422495406976" ID="ID_1253013617" LINK="http://www.mbank.pl/pobierz/msp-korporacje/wyniki-finansowe/2006/2006Q3.pdf" MODIFIED="1422495463878" TEXT="Skonsolidowane sprawozdanie finansowe wed&#x142;ug Mi&#x119;dzynarodowych Standard&#xf3;w Sprawozdawczo&#x15b;ci Finansowej za III kwarta&#x142; 2006 roku"/>
+<node CREATED="1422387165550" FOLDED="true" ID="ID_524826321" MODIFIED="1424557138637" POSITION="right" TEXT="raporty">
+<node CREATED="1422387167713" FOLDED="true" ID="ID_337743147" MODIFIED="1424556370341" TEXT="mBank">
+<node CREATED="1424553875786" FOLDED="true" ID="ID_1957362023" MODIFIED="1424555679234" TEXT="Skonsolidowane sprawozdanie finansowe wed&#x142;ug Mi&#x119;dzynarodowych Standard&#xf3;w Sprawozdawczo&#x15b;ci Finansowej za I kwarta&#x142; 2006 roku">
+<node CREATED="1424553899897" FOLDED="true" ID="ID_1847103751" MODIFIED="1424554036165" TEXT="Struktura portfela kredytowego:">
+<node CREATED="1424553905240" ID="ID_298739936" MODIFIED="1424553905846" TEXT="mBank: 79,8% kredyty hipoteczne (1.114,7 mln z&#x142;), 9% linia kredytowa (125,6 mln z&#x142;), 4,7% karty kredytowe (65,1 mln z&#x142;), 6,6% pozosta&#x142;e (91,7 mln z&#x142;),"/>
+<node CREATED="1424553928512" ID="ID_1741086700" MODIFIED="1424553929141" TEXT="Kredyty walutowe stanowi&#x142;y 77,6% warto&#x15b;ci bilansowej kredyt&#xf3;w hipotecznych (mBank 89,6%"/>
+<node CREATED="1424553968080" ID="ID_406753110" MODIFIED="1424553968693" TEXT="Warto&#x15b;&#x107; bilansowa (mld z&#x142;) 3,6 0,6 3,0"/>
+<node CREATED="1424553978022" ID="ID_1517787751" MODIFIED="1424553978022">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <div class="page" title="Page 13">
+      <div class="section">
+        <div class="layoutArea">
+          <div class="column">
+            <p>
+              <span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt"><font face="TimesNewRomanPSMT" size="11.000000pt">S&#769;</font></span><font face="TimesNewRomanPSMT" size="11.000000pt"><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">rednia warto</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">s&#769;c&#769; </span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">(tys. z</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">&#322;</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">) 148,5 190,2 139,2 </span></font>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1424553984429" ID="ID_443615892" MODIFIED="1424553984429">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <div class="page" title="Page 13">
+      <div class="section">
+        <div class="layoutArea">
+          <div class="column">
+            <p>
+              <span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt"><font face="TimesNewRomanPSMT" size="11.000000pt">S&#769;</font></span><font face="TimesNewRomanPSMT" size="11.000000pt"><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">rednie LTV (%) 66,2 57,5 68,0 </span></font>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1424554006838" FOLDED="true" ID="ID_896196725" MODIFIED="1424554034581" TEXT="CHF">
+<node CREATED="1424554010076" ID="ID_1211040595" MODIFIED="1424554010076">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <div class="page" title="Page 65">
+      <div class="layoutArea">
+        <div class="column">
+          <p>
+            <span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt"><font face="TimesNewRomanPSMT" size="11.000000pt">W dniu 21 kwietnia 2006 r. pomi</font></span><font face="TimesNewRomanPSMT" size="11.000000pt"><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">e&#808;</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">dzy Bankiem i Commerzbankiem AG podpisana zosta</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">&#322;</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">a umowa, na mocy kto&#769;rej Bank otrzyma po</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">z&#775;</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">yczk</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">e&#808; </span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">w wysoko</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">s&#769;</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">ci CHF 250.000.000 (616.750.000 z</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">&#322; </span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">wg </span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">s&#769;</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">redniego kursu NBP z 21 kwietnia 2006 r.) z przeznaczeniem na zaspokojenie ogo&#769;lnych potrzeb finansowych Banku </span></font>
+          </p>
+          <p>
+            <span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt"><font face="TimesNewRomanPSMT" size="11.000000pt">Kredyt udzielony jest na 2 lata i 1 dzie</font></span><font face="TimesNewRomanPSMT" size="11.000000pt"><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">n&#769;</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">, oprocentowanie wynosi 0,15% p.a. ponad LIBOR. </span></font>
+          </p>
+          <p>
+            <span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt"><font face="TimesNewRomanPSMT" size="11.000000pt">Umowa nie zawiera postanowie</font></span><font face="TimesNewRomanPSMT" size="11.000000pt"><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">n&#769; </span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">dotycz</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">a&#808;</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">cych kar, kto&#769;rych warto</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">s&#769;c&#769; </span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">przekracza 200.000 euro ani te</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">z&#775; </span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">warunko&#769;w zawieszaj</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">a&#808;</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">cych lub rozwi</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">a&#808;</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">zuj</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">a&#808;</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">cych. Warto</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">s&#769;c&#769; </span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">ww. umowy kredytowej przekracza warto</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">s&#769;c&#769; </span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">10% kapita</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">&#322;</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">o&#769;w w</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">&#322;</span><span style="font-family: TimesNewRomanPSMT; font-size: 11.000000pt">asnych Banku. </span></font>
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1424555067954" ID="ID_440115095" MODIFIED="1424555069136" TEXT="Rachunek zysk&#xf3;w i strat">
+<node CREATED="1424555070402" ID="ID_1773669671" MODIFIED="1424555088815" TEXT="Dominuj&#x105;c&#x105; pozycj&#x119; w strukturze rachunku wynik&#xf3;w zachowuje wynik z tytu&#x142;u odsetek, kt&#xf3;ry na koniec I kwarta&#x142;u osi&#x105;gn&#x105;&#x142; poziom 171,1 mln z&#x142;, wobec 165,3 mln z&#x142; w analogicznym okresie ubieg&#x142;ego roku. Wzrost wyniku odsetkowego nale&#x17c;y wi&#x105;za&#x107; zar&#xf3;wno ze wzrostem obrot&#xf3;w, jak r&#xf3;wnie&#x17c; ze zwi&#x119;kszon&#x105; dochodowo&#x15b;ci&#x105; dzia&#x142;ania"/>
+<node CREATED="1424555089826" ID="ID_1595837149" MODIFIED="1424555103959" TEXT="W I kw. 2006 roku w Grupie BRE Banku osi&#x105;gni&#x119;to mar&#x17c;&#x119; odsetkow&#x105; (relacja wyniku odsetkowego do aktyw&#xf3;w odsetkowych) w wysoko&#x15b;ci 2,23% p.a., w por&#xf3;wnaniu z 2,19% na koniec 2005 roku. Mar&#x17c;a odsetkowa w Grupie BRE Banku, kalkulowana jako relacja wyniku odsetkowego do aktyw&#xf3;w netto, wynios&#x142;a w I kwartale br. 2,0% p.a. w por&#xf3;wnaniu z 1,9% na koniec 2005 roku."/>
+<node CREATED="1424555104785" ID="ID_574996344" MODIFIED="1424555120678" TEXT="Pozytywny wp&#x142;yw na dochodowo&#x15b;&#x107; odsetkow&#x105; wywar&#x142; wzrost portfela kredyt&#xf3;w hipotecznych, w tym BBH oraz korzystna zmiana struktury &#x15b;rodk&#xf3;w finansuj&#x105;cych, przek&#x142;adaj&#x105;ce si&#x119; na poziom realizowanej mar&#x17c;y.">
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+</node>
+<node CREATED="1424555167048" ID="ID_976446281" MODIFIED="1424555169853" TEXT="Najwy&#x17c;sz&#x105; dynamik&#x119; wzrostu w stosunku do roku ubieg&#x142;ego w&#x15b;r&#xf3;d g&#x142;&#xf3;wnych pozycji rachunku wynik&#xf3;w wykaza&#x142; wynik z dzia&#x142;alno&#x15b;ci handlowej (wzrost o 107,2%), g&#x142;&#xf3;wnie z uwagi na istotny wzrost wyniku z pozycji wymiany walut oraz na pozosta&#x142;ych instrumentach finansowych opartych na parametrach rynkowych.">
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+</node>
+<node CREATED="1424555183488" ID="ID_1923915398" MODIFIED="1424555186648" TEXT="Na koniec I kwarta&#x142;u 2006 r. pokrycie rezerwami portfela kredyt&#xf3;w i po&#x17c;yczek udzielonych klientom Grupy wynios&#x142;o 4,4% oraz w BRE Banku odpowiednio 4,8%.">
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+</node>
+</node>
+</node>
+<node CREATED="1424553838826" FOLDED="true" ID="ID_1830324835" MODIFIED="1424555672293" TEXT="Skonsolidowane sprawozdanie finansowe wed&#x142;ug Mi&#x119;dzynarodowych Standard&#xf3;w Sprawozdawczo&#x15b;ci Finansowej za II kwarta&#x142; 2006 roku">
+<node CREATED="1424552012774" FOLDED="true" ID="ID_1424473020" MODIFIED="1424554031841" TEXT="po&#x17c;yczki CHF">
+<node CREATED="1424552031229" ID="ID_1200773387" MODIFIED="1424552032297" TEXT="W dniu 27 kwietnia 2006 r. na mocy umowy podpisanej w dniu 21 kwietnia 2006 r. pomi&#x119;dzy Bankiem i Commerzbankiem AG, BRE Bank SA otrzyma&#x142; kredyt w wysoko&#x15b;ci CHF 250.000.000 (616.750.000 z&#x142; wg &#x15b;redniego kursu NBP z 21 kwietnia 2006 r.) z przeznaczeniem na zaspokojenie og&#xf3;lnych potrzeb finansowych Banku Kredyt udzielony jest na 2 lata i 1 dzie&#x144;, oprocentowanie wynosi 0,15% p.a. ponad LIBOR. Umowa nie zawiera postanowie&#x144; dotycz&#x105;cych kar, kt&#xf3;rych warto&#x15b;&#x107; przekracza 200.000 euro ani te&#x17c; warunk&#xf3;w zawieszaj&#x105;cych lub rozwi&#x105;zuj&#x105;cych. Warto&#x15b;&#x107; ww. umowy kredytowej przekracza warto&#x15b;&#x107; 10% kapita&#x142;&#xf3;w w&#x142;asnych Banku.">
+<node CREATED="1424552191113" ID="ID_647501448" MODIFIED="1424552193094" TEXT="2.464"/>
+<node CREATED="1424552193794" ID="ID_1391013443" MODIFIED="1424552286294" TEXT="LIBOR + 0.15%"/>
+</node>
+<node CREATED="1424552033797" ID="ID_1644179161" MODIFIED="1424552039401" TEXT="W dniu 28 kwietnia 2006 r. na mocy umowy podpisanej w dniu 24 kwietnia 2006 r. pomi&#x119;dzy Bankiem i Bayerische Landesbankiem, Bank otrzyma&#x142; kredyt w wysoko&#x15b;ci 50 000 000 CHF (122 905 000 z&#x142;) z przeznaczeniem na zaspokojenie og&#xf3;lnych potrzeb finansowych Banku. Kredyt udzielony jest na 2 lata i 1 dzie&#x144;, oprocentowanie wynosi 0,17% p.a. ponad LIBOR. Umowa nie zawiera postanowie&#x144; dotycz&#x105;cych kar, kt&#xf3;rych warto&#x15b;&#x107; przekracza 200.000 euro ani te&#x17c; warunk&#xf3;w zawieszaj&#x105;cych lub rozwi&#x105;zuj&#x105;cych. Warto&#x15b;&#x107; ww. umowy kredytowej przekracza warto&#x15b;&#x107; 10% kapita&#x142;&#xf3;w w&#x142;asnych Banku.">
+<node CREATED="1424552144834" ID="ID_367233773" MODIFIED="1424552149473" TEXT="2.44 CHF/PLN"/>
+<node CREATED="1424552151867" ID="ID_1871380284" MODIFIED="1424552289236" TEXT="LIBOR + 0.17%"/>
+</node>
+<node CREATED="1424552040756" ID="ID_1540828602" MODIFIED="1424552046274" TEXT="W dniu 6 czerwca 2006 r. na mocy umowy podpisanej w dniu 29 maja 2006 r. pomi&#x119;dzy Bankiem i Commerzbankiem AG, BRE Bank SA otrzyma&#x142; kredyt w wysoko&#x15b;ci CHF 250 000 000 (628 125 000 z&#x142;) z przeznaczeniem na zaspokojenie og&#xf3;lnych potrzeb finansowych Banku. Kredyt udzielony jest na 2 lata i 1 dzie&#x144;, oprocentowanie wynosi 0,15% p.a. ponad LIBOR. Umowa nie zawiera postanowie&#x144; dotycz&#x105;cych kar, kt&#xf3;rych warto&#x15b;&#x107; przekracza 200.000 euro ani te&#x17c; warunk&#xf3;w zawieszaj&#x105;cych lub rozwi&#x105;zuj&#x105;cych. Warto&#x15b;&#x107; ww. umowy kredytowej przekracza warto&#x15b;&#x107; 10% kapita&#x142;&#xf3;w w&#x142;asnych Banku.">
+<node CREATED="1424552124634" ID="ID_1699831854" MODIFIED="1424552129616" TEXT="2.512 CHF/PLN"/>
+<node CREATED="1424552159603" ID="ID_836578566" MODIFIED="1424552291468" TEXT="LIBOR + 0.15%"/>
+</node>
+<node CREATED="1424552320088" ID="ID_953019645" MODIFIED="1424552320739" TEXT="Wdniu14lipca2006r.,namocyumowypodpisanejwdniu5lipca2006r.pomi&#x119;dzyBREBankiem SA i Commerzbankiem AG, Bank otrzyma&#x142; kredyt w wysoko&#x15b;ci 250 000 000 CHF (641 975 000 z&#x142;) z przeznaczeniem na zaspokojenie og&#xf3;lnych potrzeb finansowych Banku. Kredyt udzielony jest na 2 lata i 1 dzie&#x144;, oprocentowanie wynosi 0,15% p.a. ponad LIBOR. Umowa nie zawiera postanowie&#x144; dotycz&#x105;cych kar, kt&#xf3;rych warto&#x15b;&#x107; przekracza 200 000 euro ani te&#x17c; warunk&#xf3;w zawieszaj&#x105;cych lub rozwi&#x105;zuj&#x105;cych.">
+<node CREATED="1424552336736" ID="ID_556521310" MODIFIED="1424552338628" TEXT="2.56"/>
+<node CREATED="1424552339167" ID="ID_1268063854" MODIFIED="1424552344739" TEXT="LIBOR + 0.15%"/>
+</node>
+<node CREATED="1424552235312" ID="ID_78639655" MODIFIED="1424552354619" TEXT="800.000.000 CHF"/>
+<node CREATED="1424552257832" ID="ID_1974220004" MODIFIED="1424552369282" TEXT="2.000.000.000 PLN"/>
+</node>
+<node CREATED="1424551773594" FOLDED="true" ID="ID_421558501" MODIFIED="1424553938105" TEXT="p.12 Struktura portfela kredytowego:">
+<node CREATED="1424551794634" ID="ID_977377649" MODIFIED="1424552393714" TEXT="Kredyty walutowe - g&#x142;o&#x301;wnie w CHF, stanowi&#x142;y 80,7%"/>
+</node>
+<node CREATED="1424551830201" ID="ID_977578533" MODIFIED="1424554090469" TEXT="Wyniki finansowe">
+<node CREATED="1424551835938" ID="ID_1793066501" MODIFIED="1424552390167" TEXT="Dzie&#x328;ki korzystnym tendencjom obserwowanym na rynku walutowym uda&#x142;o sie&#x328;zrealizowac&#x301;w rokubiez&#x307;a&#x328;cym ponadprzecie&#x328;tny wynik na operacjach wymiany walut oraz na walutowych instrumentachfinansowych."/>
+</node>
+<node CREATED="1424554092200" ID="ID_394117318" MODIFIED="1424554092200">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <div class="page" title="Page 12">
+      <div class="layoutArea">
+        <div class="column">
+          <p>
+            <span style="font-family: Tahoma; font-size: 10.000000pt"><font face="Tahoma" size="10.000000pt">Kredyty hipoteczne dla oso&#769;b fizycznych Warto</font></span><font face="Tahoma" size="10.000000pt"><span style="font-family: Tahoma; font-size: 10.000000pt">s&#769;c&#769; </span><span style="font-family: Tahoma; font-size: 10.000000pt">kredyto&#769;w (mld z</span><span style="font-family: Tahoma; font-size: 10.000000pt">&#322;</span><span style="font-family: Tahoma; font-size: 10.000000pt">)<br /></span><span style="font-family: Tahoma; font-size: 10.000000pt">S&#769;</span><span style="font-family: Tahoma; font-size: 10.000000pt">rednia zapadalno</span><span style="font-family: Tahoma; font-size: 10.000000pt">s&#769;c&#769; </span><span style="font-family: Tahoma; font-size: 10.000000pt">(lata)<br /></span><span style="font-family: Tahoma; font-size: 10.000000pt">S&#769;</span><span style="font-family: Tahoma; font-size: 10.000000pt">rednia warto</span><span style="font-family: Tahoma; font-size: 10.000000pt">s&#769;c&#769; </span><span style="font-family: Tahoma; font-size: 10.000000pt">(tys. z</span><span style="font-family: Tahoma; font-size: 10.000000pt">&#322;</span><span style="font-family: Tahoma; font-size: 10.000000pt">) </span></font>
+          </p>
+          <p>
+            <span style="font-family: Tahoma; font-size: 10.000000pt"><font face="Tahoma" size="10.000000pt">S&#769;</font></span><font face="Tahoma" size="10.000000pt"><span style="font-family: Tahoma; font-size: 10.000000pt">rednie LTV (%) NPL (%) </span></font>
+          </p>
+        </div>
+        <div class="column">
+          <p>
+            <span style="font-family: Tahoma; font-size: 10.000000pt"><font face="Tahoma" size="10.000000pt">Ogo&#769;</font></span><font face="Tahoma" size="10.000000pt"><span style="font-family: Tahoma; font-size: 10.000000pt">&#322;</span><span style="font-family: Tahoma; font-size: 10.000000pt">em Z</span><span style="font-family: Tahoma; font-size: 10.000000pt">&#322;</span><span style="font-family: Tahoma; font-size: 10.000000pt">otowe<br />4,6 0,6 4,0 </span></font>
+          </p>
+          <p>
+            <span style="font-family: Tahoma; font-size: 10.000000pt"><font face="Tahoma" size="10.000000pt">21,9 17,9 22,6 153,3 185,2 150,9 68,7 56,5 70,8 0,6 0,8 0,5 </font></span>
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1424555260359" ID="ID_1644026522" MODIFIED="1424555264523" TEXT="rachunek zysk&#xf3;w i strat">
+<node CREATED="1424555265958" ID="ID_284320536" MODIFIED="1424555269731" TEXT="Pozytywny wp&#x142;yw na dochodowo&#x15b;&#x107; odsetkow&#x105; w roku bie&#x17c;&#x105;cym wywar&#x142; wzrost portfela kredyt&#xf3;w hipotecznych, w tym BBH, oraz korzystna zmiana struktury &#x15b;rodk&#xf3;w finansuj&#x105;cych, rekompensuj&#x105;c w du&#x17c;ym stopniu wp&#x142;yw tendencji negatywnych, spowodowanych ni&#x17c;sz&#x105; dochodowo&#x15b;ci&#x105; papier&#xf3;w warto&#x15b;ciowych.">
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+</node>
+<node CREATED="1424555289398" ID="ID_1833729860" MODIFIED="1424555290155" TEXT="Mar&#x17c;a odsetkowa w Grupie BRE Banku, kalkulowana jako relacja wyniku odsetkowego do &#x15b;rednich aktyw&#xf3;w odsetkowych wynios&#x142;a w omawianym okresie 2,05% p.a. wobec 2,2% p.a. w I kwartale oraz 2,19% na koniec roku ubieg&#x142;ego."/>
+</node>
+</node>
+<node CREATED="1422495406976" ID="ID_1253013617" LINK="http://www.mbank.pl/pobierz/msp-korporacje/wyniki-finansowe/2006/2006Q3.pdf" MODIFIED="1424555835780" TEXT="Skonsolidowane sprawozdanie finansowe wed&#x142;ug Mi&#x119;dzynarodowych Standard&#xf3;w Sprawozdawczo&#x15b;ci Finansowej za III kwarta&#x142; 2006 roku"/>
 <node CREATED="1422387180813" ID="ID_1222817930" LINK="http://www.mbank.pl/pobierz/msp-korporacje/wyniki-finansowe/2006/2006Q4.pdf" MODIFIED="1422808458626" TEXT="Skonsolidowane sprawozdanie finansowe&#xa;wedug Midzynarodowych Standardo&#x301;w Sprawozdawczoci Finansowejza IV kwarta&#xa0;2006 roku"/>
 <node CREATED="1422750283648" ID="ID_1410818170" LINK="http://www.mbank.pl/relacje-inwestorskie/wyniki/" MODIFIED="1422750293128" TEXT="Raporty Roczne"/>
+<node CREATED="1424555681303" ID="ID_803004731" LINK="2 Raport z badania Grupa BRE Banku.pdf" MODIFIED="1424555703582" TEXT="Raport z badania skonsolidowanego sprawozdania finansowego za rok obrotowy od 1 stycznia do 31 grudnia 2006 r.">
+<node CREATED="1424555825731" ID="ID_533145381" MODIFIED="1424555838362" TEXT="no ale tu nic nie ma o CHF !!!!">
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+</node>
+</node>
 </node>
 <node CREATED="1422793828029" FOLDED="true" ID="ID_535923610" MODIFIED="1423605681182" TEXT="PKO BP">
 <node CREATED="1422793832609" FOLDED="true" ID="ID_1618980410" LINK="http://www.pkobp.pl/media_files/205abe1e-ac7b-483c-947a-17c9ff25c38a.pdf" MODIFIED="1423605681182" TEXT="Oferta do 300.000.000 akcji zwyk&#x142;ych na okaziciela serii D">
@@ -1677,7 +1863,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1422383715029" ID="ID_1585596402" MODIFIED="1424547764627" POSITION="right" TEXT="orzeczenia s&#x105;d&#xf3;w">
+<node CREATED="1422383715029" FOLDED="true" ID="ID_1585596402" MODIFIED="1424550042702" POSITION="right" TEXT="orzeczenia s&#x105;d&#xf3;w">
 <node CREATED="1422383722252" FOLDED="true" ID="ID_150439850" MODIFIED="1424545942216" TEXT="IV CSK 142/13">
 <node CREATED="1422383744507" ID="ID_1459268157" MODIFIED="1422383749871" TEXT="waloryzacja"/>
 </node>
@@ -1790,7 +1976,7 @@
 <node CREATED="1424372052903" ID="ID_1566644746" MODIFIED="1424372057380" TEXT="klauzula niedozwolona"/>
 </node>
 </node>
-<node CREATED="1422311600595" FOLDED="true" ID="ID_1229681393" MODIFIED="1424542309163" POSITION="left" TEXT="zastrze&#x17c;enia">
+<node CREATED="1422311600595" ID="ID_1229681393" MODIFIED="1424560157467" POSITION="left" TEXT="zastrze&#x17c;enia">
 <node CREATED="1423185432480" ID="ID_281141628" MODIFIED="1424218341470" TEXT="kredyt nie jest w CHF cho&#x107; mia&#x142; by">
 <node CREATED="1423185454353" FOLDED="true" ID="ID_1065688344" MODIFIED="1423605681200" TEXT="Przy za&#x142;o&#x17c;eniu &#x17c;e wprowadzenie w b&#x142;&#x105;d, oszukiwanie jest w kanonie &quot;zasad wsp&#xf3;&#x142;&#x17c;ycia spo&#x142;ecznego&quot;.">
 <node CREATED="1423185446362" ID="ID_1455462621" MODIFIED="1423185446362" TEXT="&#xa7; 2. Je&#x17c;eli strona, kt&#xf3;rej zale&#x17c;y na ziszczeniu si&#x119; warunku, doprowadzi w spos&#xf3;b sprzeczny z zasadami wsp&#xf3;&#x142;&#x17c;ycia spo&#x142;ecznego do ziszczenia si&#x119; warunku, nast&#x119;puj&#x105; skutki takie, jakby warunek si&#x119; nie zi&#x15b;ci&#x142;."/>
@@ -1802,24 +1988,43 @@
 <icon BUILTIN="ksmiletris"/>
 </node>
 </node>
-<node CREATED="1422311488581" FOLDED="true" ID="ID_1277773927" MODIFIED="1424540292083" TEXT="kredyt jest w PLN">
+<node CREATED="1422311488581" ID="ID_1277773927" MODIFIED="1424560159378" TEXT="kredyt jest w PLN">
 <node CREATED="1422809342982" FOLDED="true" ID="ID_1623316940" MODIFIED="1423843603745" TEXT="&#xa7; 1. DANE O KREDYCIE">
 <node CREATED="1422765410192" FOLDED="true" ID="ID_939614870" LINK="#ID_1059349530" MODIFIED="1423605681201" TEXT="2. Kwota Kredytu: XXX z&#x142;">
 <node CREATED="1422765415553" ID="ID_1665939739" LINK="#ID_332913785" MODIFIED="1422809052586" TEXT="suma pieni&#x119;&#x17c;na zobowi&#x105;zania  jest wyra&#x17c;ona w PLN"/>
 <node CREATED="1422809110508" ID="ID_991476479" LINK="#ID_1951492617" MODIFIED="1422809122139" TEXT="kredyt jest wyra&#x17c;ony w PLN"/>
 </node>
 </node>
-<node CREATED="1422809145954" FOLDED="true" ID="ID_575452518" MODIFIED="1423843605221" TEXT=" &#xa7; 5 WYP&#x141;ATA KREDYTU">
-<node CREATED="1422809131715" FOLDED="true" ID="ID_1632906276" LINK="#ID_1951492617" MODIFIED="1423605681201" TEXT="kwota wykorzystanego kredytu">
+<node CREATED="1422809145954" ID="ID_575452518" MODIFIED="1424560347280" TEXT=" &#xa7; 5 WYP&#x141;ATA KREDYTU">
+<node CREATED="1422809131715" ID="ID_1632906276" LINK="#ID_1951492617" MODIFIED="1424560349092" TEXT="kwota wykorzystanego kredytu">
 <node CREATED="1422809193076" ID="ID_128862756" MODIFIED="1422809276467" TEXT="1. Sposo&#x301;b wyp&#x142;aty Kredytu: &#xa;- Kwota XXX&#xa0;000,00 z&#x142; przekazana na rachunek wskazany ww. akcie notarialnym &#xa;- Kwota XX 000,00 z&#x142; na rachunek wskazany przez Kredytobiorce&#x328; tytu&#x142;em refinansowania poniesionych nak&#x142;ado&#x301;w &#xa;- Kwota XX 000,00 z&#x142; na rachunek wskazany przez Kredytobiorce&#x328; tytu&#x142;em finansowania op&#x142;at oko&#x142;okredytowych"/>
 </node>
 </node>
-<node CREATED="1422809458992" FOLDED="true" ID="ID_160482854" MODIFIED="1423843610163" TEXT="&#xa7; 11. SP&#x141;ATA KREDYTU &#x2013; WYSOKOS&#x301;C&#x301;RAT">
+<node CREATED="1422809458992" FOLDED="true" ID="ID_160482854" MODIFIED="1424560345567" TEXT="&#xa7; 11. SP&#x141;ATA KREDYTU &#x2013; WYSOKOS&#x301;C&#x301;RAT">
 <node CREATED="1422809534770" ID="ID_1363498618" LINK="#ID_674785169" MODIFIED="1422809573489" TEXT="4. Raty kapita&#x142;owo-odsetkowe sp&#x142;acane s&#x105; w z&#x142;otych po uprzednim ich przeliczeniu wg kursu sprzeda&#x17c;y CHF z tabeli kursowej BRE Banku S.A,. obowi&#x105;zuj&#x105;cego na dzie&#x144; sp&#x142;aty z godziny 14:50."/>
 <node CREATED="1422809585263" ID="ID_1616186933" LINK="#ID_485749996" MODIFIED="1422809685833" TEXT="CHF jest &quot;innym ni&#x17c; pieni&#x105;dz miernikiem warto&#x15b;ci.&quot;"/>
 <node CREATED="1423181411155" ID="ID_1714010333" MODIFIED="1423181416414" TEXT="CHF nie jest pieni&#x105;dzem"/>
 </node>
-<node CREATED="1423161839142" ID="ID_1675651959" LINK="http://bip.kprm.gov.pl/ftp/kprm/dokumenty/080509u6uz.pdf" MODIFIED="1423691656363" TEXT="zasada walutowo&#x15b;ci">
+<node CREATED="1424560164959" ID="ID_1197686761" LINK="#ID_1341648605" MODIFIED="1424560217316" TEXT="Regulamin mBank">
+<node CREATED="1424557519363" ID="ID_927285885" MODIFIED="1424560186201">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      3.W przypadku <b><font color="#ff0033">kredyt&#243;w z&#322;otowych</font></b><font color="#ff0033">&#160;</font><b>waloryzowanych kursem waluty </b>bankowy tytu&#322; egzekucyjny wystawiany jest w z&#322;otych, po przeliczeniu wierzytelno&#347;ci mBanku na dzie&#324; sporz&#261;dzania tytu&#322;u egzekucyjnego wed&#322;ug &#347;redniego kursu danej waluty w tym dniu, wed&#322;ug tabeli kursowej BRE Banku SA.
+    </p>
+  </body>
+</html></richcontent>
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+</node>
+</node>
+<node CREATED="1423161839142" FOLDED="true" ID="ID_1675651959" LINK="http://bip.kprm.gov.pl/ftp/kprm/dokumenty/080509u6uz.pdf" MODIFIED="1424560162204" TEXT="zasada walutowo&#x15b;ci">
 <node CREATED="1422313361974" FOLDED="true" ID="ID_1488340305" MODIFIED="1423605681201">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2503,7 +2708,7 @@
 </node>
 <node CREATED="1424306128430" ID="ID_391487431" LINK="http://wyborcza.biz/biznes/1,143333,17354786,Jak_bezbolesnie_zamienic_franki_na_zlote__Szczegoly.html#TRrelSST" MODIFIED="1424306137702" TEXT="Jacek Osi&#x144;ski, dyrektor departamentu stabilno&#x15b;ci finansowej NBP (..) Precyzuje, &#x17c;e raty kredyt&#xf3;w frankowych zaci&#x105;gni&#x119;tych w latach 2006-07 s&#x105; dzisiaj nadal ni&#x17c;sze ni&#x17c; na starcie, ale raty kredyt&#xf3;w udzielonych w 2008 r. wzros&#x142;y."/>
 </node>
-<node CREATED="1422311855556" ID="ID_498181569" MODIFIED="1424549572558" POSITION="left" TEXT="s&#x142;ownik">
+<node CREATED="1422311855556" ID="ID_498181569" MODIFIED="1424604142940" POSITION="left" TEXT="s&#x142;ownik">
 <node CREATED="1422311867700" FOLDED="true" ID="ID_391543003" MODIFIED="1424381997637" TEXT="waloryzacja">
 <node CREATED="1422385697966" ID="ID_1749166377" MODIFIED="1424210962592" TEXT="Wielki S&#x142;ownij J&#x119;zyka Polskiego">
 <node CREATED="1422385626155" ID="ID_1626340438" MODIFIED="1424210963521" TEXT="Ekonomicznie">
@@ -3349,6 +3554,12 @@
 <node CREATED="1424540096498" ID="ID_368333052" LINK="#ID_1713684882" MODIFIED="1424540113272" TEXT="pozycja walutowa transakcji indeksowanych">
 <node CREATED="1424540089895" ID="ID_1234183940" MODIFIED="1424540090711" TEXT="pozycja walutowa transakcji indeksowanych &#x96; sum&#xea; bilansowej i pozabilansowej pozycji walutowej otwar- tej dla sald z3otowych indeksowanych do tych walut, przy czym indeksowanie do waluty obcej oznacza uzale&#xbf;nienie warto&#x9c;ci salda wyra&#xbf;onego w z3otych od kursu waluty obcej, "/>
 </node>
+<node CREATED="1424557215345" ID="ID_1617731758" LINK="http://pl.wikipedia.org/wiki/Hipoteka_kaucyjna" MODIFIED="1424557236559" TEXT="Hipoteka kaucyjna">
+<node CREATED="1424557222936" ID="ID_17989819" MODIFIED="1424557223886" TEXT="obecnie nieistniej&#x105;ca forma zabezpieczenia wierzytelno&#x15b;ci, ustanawiana w sytuacji, gdy w dniu ustalania zabezpieczenia nie by&#x142;o mo&#x17c;liwe dok&#x142;adne okre&#x15b;lenie warto&#x15b;ci wierzytelno&#x15b;ci. Hipoteka kaucyjna okre&#x15b;la&#x142;a g&#xf3;rn&#x105; granic&#x119; kwoty zobowi&#x105;zania, jaka mo&#x17c;e by&#x107; wynikiem zawartej umowy cywilnoprawnej.  Przyk&#x142;adem mo&#x17c;e by&#x107; hipoteka kaucyjna zabezpieczaj&#x105;ca kredyt w walucie obcej, kiedy przysz&#x142;y kurs walutowy jest nieznany. Taka forma hipoteki by&#x142;a r&#xf3;wnie&#x17c; narz&#x119;dziem dla banku, kt&#xf3;ry udzielaj&#x105;c kredytu hipotecznego, zabezpiecza&#x142; si&#x119; przed dodatkowymi, nieprzewidzianymi kosztami (np. kosztami egzekucji wierzytelno&#x15b;ci) i ustanawia&#x142; w zwi&#x105;zku z tym odpowiednio wy&#x17c;sze zabezpieczenie.  Hipoteka kaucyjna zosta&#x142;a zniesiona w dniu 20 lutego 2011[1] w zwi&#x105;zku z nowelizacj&#x105; ustawy o ksi&#x119;gach wieczystych i hipotece. Dotychczas ustanowione hipoteki kaucyjne zachowa&#x142;y swoj&#x105; wa&#x17c;no&#x15b;&#x107; do czasu wyga&#x15b;ni&#x119;cia zobowi&#x105;za&#x144;, kt&#xf3;re zabezpiecza&#x142;y. Nowelizacja ustawy wprowadzi&#x142;a w &#x17c;ycie jednolity model hipoteki, &#x142;&#x105;cz&#x105;cy w sobie cechy uprzednio funkcjonuj&#x105;cych odr&#x119;bnie hipotek: zwyk&#x142;ej i kaucyjnej[2]."/>
+</node>
+<node CREATED="1424604144090" ID="ID_847100676" LINK="http://pieniadzeiprawo.pl/hipoteka-umowna-jako-zabezpieczenie-kredytu/" MODIFIED="1424604147617" TEXT="hipoteka">
+<node CREATED="1424604163922" ID="ID_231825334" MODIFIED="1424604164641" TEXT="W dniu 20 lutego 2011 r., czyli ponad rok temu, wesz&#x142;a w &#x17c;ycie bardzo wa&#x17c;na nowelizacja ustawy o ksi&#x119;gach wieczystych i hipotece (ustawa ta reguluje w polskim prawie m.in. hipotek&#x119;). Dzisiaj zapraszam Ciebie do zapoznania si&#x119; z hipotek&#x105; umown&#x105; obowi&#x105;zuj&#x105;c&#x105; po tej wa&#x17c;nej zmianie i zach&#x119;cam do lektury zw&#x142;aszcza je&#x17c;eli w najbli&#x17c;szym czasie planujesz zaci&#x105;gn&#x105;&#x107; kredyt zabezpieczony w taki spos&#xf3;b."/>
+</node>
 </node>
 <node CREATED="1422495293054" FOLDED="true" ID="ID_760236369" MODIFIED="1423847315995" POSITION="right" TEXT="krytyka Rekomendacji S">
 <node CREATED="1422495306046" FOLDED="true" ID="ID_1084032447" MODIFIED="1423605681236" TEXT="Fundacja Instytut Ludwiga von Misesa">
@@ -3512,7 +3723,7 @@
 <node CREATED="1423179171308" ID="ID_1773128822" LINK="http://prawo.rp.pl/artykul/696666.html?print=tak&amp;p=0" MODIFIED="1423179180163" TEXT="S&#x105;d mo&#x17c;e okre&#x15b;li&#x107; nowy spos&#xf3;b wykonania zobowi&#x105;zania"/>
 <node CREATED="1423396002152" ID="ID_605204975" LINK="http://www.cars.wz.uw.edu.pl/doradztwo-13.html" MODIFIED="1423396009338" TEXT="niski wklad"/>
 </node>
-<node CREATED="1423420112102" FOLDED="true" ID="ID_1268051699" MODIFIED="1424439945530" POSITION="left" TEXT="prawnicy">
+<node CREATED="1423420112102" ID="ID_1268051699" MODIFIED="1424556641430" POSITION="left" TEXT="prawnicy">
 <node CREATED="1423420115152" FOLDED="true" ID="ID_237803467" LINK="mailto:l.przybylowicz@kancelaria-lex.org," MODIFIED="1423605681240" TEXT="&#x141;. Przyby&#x142;owicz/Kancelaria LEX, l.przybylowicz@kancelaria-lex.org, tel. 533-133-590.">
 <node CREATED="1423420116590" ID="ID_56233979" MODIFIED="1423420118012" TEXT="NNW"/>
 </node>
@@ -3520,6 +3731,7 @@
 <node CREATED="1423419986175" ID="ID_1966620372" LINK="http://wygralem-z-mbankiem.pl/2012/10/ubezpieczenie-niskiego-wklady-wlasnego-tu-tez-jest-wygrana/" MODIFIED="1423419992852" TEXT="r. pr. Renata Kochowska-Zieli&#x144;ska"/>
 <node CREATED="1423420122805" ID="ID_1168276479" MODIFIED="1423420125053" TEXT="NNW"/>
 </node>
+<node CREATED="1424556641430" ID="ID_502092478" MODIFIED="1424556643026" TEXT="http://problem.kancelaria.pl/w-sprawie-przeciwko-mbank-s-a-poprzednio-bre-bank-s-a-o-ubezpieczenie-niskiego-wkladu-wlasnego"/>
 </node>
 <node CREATED="1423158664294" FOLDED="true" ID="ID_51779200" MODIFIED="1424542317164" POSITION="left" TEXT="opinie">
 <node CREATED="1423158649527" ID="ID_687584699" MODIFIED="1424536283924" TEXT="czy denominowane to PLN?">
@@ -3726,9 +3938,84 @@
 </node>
 </node>
 </node>
-<node CREATED="1424544347158" ID="ID_925523775" MODIFIED="1424544353914" POSITION="left" TEXT="rozwi&#x105;zanie problemu">
+<node CREATED="1424544347158" FOLDED="true" ID="ID_925523775" MODIFIED="1424550036195" POSITION="left" TEXT="rozwi&#x105;zanie problemu">
 <node CREATED="1424544355046" ID="ID_1041670983" LINK="http://interpretacje-podatkowe.org/kredyt/itpb2-415-116-14-mm" MODIFIED="1424544361046" TEXT="intercyza">
 <node CREATED="1424544389373" ID="ID_1059826663" MODIFIED="1424544390538" TEXT="Bank wyrazi&#x142; zgod&#x119; na zmian&#x119; w&#x142;a&#x15b;ciciela nieruchomo&#x15b;ci, stanowi&#x105;cych prawne zabezpieczenie kredytu udzielonego umow&#x105; nr o kredyt hipoteczny dla os&#xf3;b fizycznych &#x201e;M&#x201d; waloryzowany kursem CHF z obojga kredytobiorc&#xf3;w na jednego kredytobiorc&#x119;. Aneks do umowy kredytowej zosta&#x142; zawarty w dniu 5 czerwca 2013 r. &#x2013; zmiana w paragrafie 2 ust. 2 umowy &#x2013; w&#x142;a&#x15b;ciciel nieruchomo&#x15b;ci. Pozosta&#x142;e warunki umowy kredytowej pozosta&#x142;y bez zmian. Wnioskodawczyni wraz z m&#x119;&#x17c;em nadal s&#x105; kredytobiorcami."/>
+</node>
+</node>
+<node CREATED="1424557140490" FOLDED="true" ID="ID_985769551" MODIFIED="1424598009069" POSITION="right" TEXT="Regulaminy">
+<node CREATED="1424557143506" ID="ID_454424994" LINK="http://mbank.bank-internetowy.pl/kredyt-hipoteczny-mplan.php#l7" MODIFIED="1424557148677" TEXT="mBank">
+<node CREATED="1424557272232" ID="ID_1301372828" MODIFIED="1424557272232" TEXT="hipoteka kaucyjna">
+<node CREATED="1424557273495" ID="ID_254883898" MODIFIED="1424557277796" TEXT="do max warto&#x15b;ci"/>
+</node>
+<node CREATED="1424557506043" ID="ID_1566872700" MODIFIED="1424557506043" TEXT="&#xa7;32.">
+<node CREATED="1424557519363" ID="ID_1341648605" MODIFIED="1424560186201">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      3.W przypadku <b><font color="#ff0033">kredyt&#243;w z&#322;otowych</font></b><font color="#ff0033">&#160;</font><b>waloryzowanych kursem waluty </b>bankowy tytu&#322; egzekucyjny wystawiany jest w z&#322;otych, po przeliczeniu wierzytelno&#347;ci mBanku na dzie&#324; sporz&#261;dzania tytu&#322;u egzekucyjnego wed&#322;ug &#347;redniego kursu danej waluty w tym dniu, wed&#322;ug tabeli kursowej BRE Banku SA.
+    </p>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+</node>
+</node>
+</node>
+<node CREATED="1424597169190" ID="ID_1888748179" LINK="http://www.mbank.pl/download/regulaminy/kredyty_pozyczki_hipotecznych_dla_osxb_fizycznych__mPlanow_hipotecznych_16_12.pdf" MODIFIED="1424597180703" TEXT="mBank 2011 mPlan"/>
+<node CREATED="1424597313391" ID="ID_1028765675" LINK="http://serwismbank.prv.pl/download/regulaminy/kredyty_pozyczki_hipotecznych_dla_osxb_fizycznych__mPlanow_hipotecznych.pdf" MODIFIED="1424597318008" TEXT="mBank 2007">
+<node CREATED="1424597560010" ID="ID_1207158645" MODIFIED="1424597562415" TEXT="waloryzowane"/>
+</node>
+<node CREATED="1424597548738" ID="ID_436511670" LINK="http://www.mbank.pl/download/regulaminy/Regulamin-udzielania-kredytw-i-poyczek-hipotecznych-dla-osb-fizycznych-w-ramach-bankowosci-detalicznej-mBanku-S-A.pdf" MODIFIED="1424597556479" TEXT="mBank 2015">
+<node CREATED="1424597557042" ID="ID_1568324697" MODIFIED="1424597995616" TEXT="waloryzowane do 19 lutego 2011 r."/>
+<node CREATED="1424597951471" ID="ID_319561870" MODIFIED="1424597951471">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <div class="page" title="Page 12">
+      <div class="layoutArea">
+        <div class="column">
+          <p>
+            <span style="font-family: Verdana,Bold; font-size: 10.000000pt"><font face="Verdana,Bold" size="10.000000pt">Prawne zabezpieczenia </font></span>
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1424597585690" ID="ID_379898755" MODIFIED="1424597587160" TEXT="NNW">
+<node CREATED="1424597895909" ID="ID_1158453016" MODIFIED="1424597902446" TEXT="1) Ubezpieczonym i Ubezpieczaj&#x105;cym z tytu&#x142;u ubezpieczenia NWW jest Bank. Kredytobiorca nie jest Ubezpieczaj&#x105;cym ani Ubezpieczonym z tytu&#x142;u ubezpieczenia NWW.">
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+</node>
+<node CREATED="1424597587697" ID="ID_1101049950" MODIFIED="1424597884987" TEXT="W przypadku kredyt&#xf3;w waloryzowanych kursem waluty obcej, koszt ryzyka NWW stanowi kwota wyra&#x17c;ona w z&#x142;otych, przeliczona wg kursu sprzeda&#x17c;y danej waluty og&#x142;aszanym przez Narodowy Bank Polski na stronie internetowej www.nbp.pl na ostatni dzie&#x144; okresu ubezpieczenia."/>
+</node>
+<node CREATED="1424597954707" ID="ID_915147214" MODIFIED="1424597982219">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      hipoteka kaucyjna w przypadku <font color="#ff0033">kredyt&#243;w w z&#322;otych</font>&#160; waloryzowanych kursem waluty,
+    </p>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="clanbomber"/>
+<icon BUILTIN="clanbomber"/>
+</node>
+</node>
 </node>
 </node>
 </node>
