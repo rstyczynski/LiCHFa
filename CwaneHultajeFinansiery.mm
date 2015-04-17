@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1422311124441" ID="ID_781876881" MODIFIED="1428835267275">
+<node CREATED="1422311124441" ID="ID_781876881" MODIFIED="1429212175781">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -16,7 +16,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <hook NAME="accessories/plugins/CreationModificationPlugin_new.properties"/>
-<node CREATED="1422383804007" ID="ID_1937078195" MODIFIED="1429132904988" POSITION="right" TEXT="przepisy prawne">
+<node CREATED="1422383804007" ID="ID_1937078195" MODIFIED="1429223404144" POSITION="right" TEXT="przepisy prawne">
 <node CREATED="1422812087806" FOLDED="true" ID="ID_708300358" LINK="isap.sejm.gov.pl/Download?id=WDU19970780483&amp;type=3" MODIFIED="1428450584719" TEXT="KONSTYTUCJA RZECZYPOSPOLITEJ POLSKIEJ">
 <node CREATED="1422812112751" FOLDED="true" ID="ID_1101953788" MODIFIED="1428450584718" TEXT="Art. 227.">
 <node CREATED="1422812122390" ID="ID_1835148706" MODIFIED="1426548513678">
@@ -1383,7 +1383,7 @@
 <node CREATED="1428276112809" ID="ID_1482950485" LINK="http://www.senat.gov.pl/gfx/senat/userfiles/_public/k8/dokumenty/stenogram/oswiadczenia/bierecki/5201o.pdf" MODIFIED="1428276119318" TEXT="by KNF (senat)"/>
 </node>
 </node>
-<node CREATED="1422384072880" FOLDED="true" ID="ID_1953494231" MODIFIED="1428835271549" POSITION="right" TEXT="rekomendacje i raporty urz&#x119;d&#xf3;w">
+<node CREATED="1422384072880" FOLDED="true" ID="ID_1953494231" MODIFIED="1429223392685" POSITION="right" TEXT="rekomendacje i raporty urz&#x119;d&#xf3;w">
 <node CREATED="1422797280205" FOLDED="true" ID="ID_1254289779" LINK="http://pl.wikipedia.org/wiki/Komisja_Nadzoru_Bankowego" MODIFIED="1428450584889" TEXT="Komisja Nadzoru Bankowego">
 <node CREATED="1422797283641" ID="ID_1651085766" MODIFIED="1422797291230" TEXT="zlikwidowana w 2008"/>
 <node CREATED="1422797488149" FOLDED="true" ID="ID_974551285" LINK="https://www.knf.gov.pl/Images/rekomendacja_s_tcm75-8566.pdf" MODIFIED="1428450584887" TEXT="Rekomendacja S (I) 2006">
@@ -1533,7 +1533,7 @@
 </node>
 <node CREATED="1428275224113" ID="ID_938688508" LINK="https://www.nbp.pl/publikacje/nadzor_publikacja/ow2.pdf" MODIFIED="1428275237277" TEXT="nadz&#xf3;r bankowy 1998-2006"/>
 </node>
-<node CREATED="1422384081275" FOLDED="true" ID="ID_1308807603" MODIFIED="1428450585083" TEXT="Komisja Nadzoru Finansowego">
+<node CREATED="1422384081275" FOLDED="true" ID="ID_1308807603" MODIFIED="1429212974873" TEXT="Komisja Nadzoru Finansowego">
 <node CREATED="1428160899556" ID="ID_1156454815" MODIFIED="1428160917596" TEXT="utworzono z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
@@ -2180,7 +2180,7 @@
 <icon BUILTIN="idea"/>
 </node>
 </node>
-<node CREATED="1422567636853" FOLDED="true" ID="ID_75047031" MODIFIED="1428596687501" TEXT="Zwi&#x105;zek Bank&#xf3;w Polskich">
+<node CREATED="1422567636853" FOLDED="true" ID="ID_75047031" MODIFIED="1429215500603" TEXT="Zwi&#x105;zek Bank&#xf3;w Polskich">
 <node CREATED="1422567645655" ID="ID_740010492" LINK="http://zbp.pl/public/repozytorium/dla_bankow/prawo/komisja_etyki_bankowej/KEB_final_WZ.pdf" MODIFIED="1428592003112" TEXT="KODEKS ETYKI BANKOWEJ (ZASADY DOBREJ PRAKTYKI BANKOWEJ)">
 <node CREATED="1422900689540" ID="ID_494339415" MODIFIED="1422904160119">
 <richcontent TYPE="NODE"><html>
@@ -2324,7 +2324,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1422751151564" ID="ID_1382737950" MODIFIED="1428619415493" TEXT="NBP">
+<node CREATED="1422751151564" FOLDED="true" ID="ID_1382737950" MODIFIED="1429212982268" TEXT="NBP">
 <node CREATED="1422751153379" ID="ID_184611147" LINK="https://www.nbp.pl/statystyka/pieniezna_i_bankowa/dwn/naleznosci_metodyka.pdf" MODIFIED="1422751174928" TEXT="Raportowanie FINREP"/>
 <node CREATED="1424382278392" FOLDED="true" ID="ID_1137686223" MODIFIED="1428450585100" TEXT="NB/BI/PB/022-1/19/02; Pr.Bankowe 2002/9/79">
 <node CREATED="1424382285928" ID="ID_789056917" MODIFIED="1424382293975" TEXT="&#x201e;Niezabezpieczone ryzyko kursowe d&#x142;u&#x17c;nika (np. przychodami w walucie obcej, depozytem walutowym, instrumentami finansowymi) mo&#x17c;e w sytuacji du&#x17c;ej, skokowej zmiany kursu walutowego spowodowa&#x107; znacz&#x105;ce podro&#x17c;enie koszt&#xf3;w obs&#x142;ugi d&#x142;ugi, zw&#x142;aszcza je&#x15b;li zmiana taka mia&#x142;aby trwa&#x142;y charakter. W przypadku takiego scenariusza ryzyko kursowe kredytobiorcy, krystalizuj&#x105;ce si&#x119; w postaci realnych strat z tytu&#x142;u r&#xf3;&#x17c;nic kursowych, faktycznie przekszta&#x142;ca si&#x119; w ryzyko kredytowe banku. A zatem ryzyko kursowe wpisane w sprzedany przez bank produkt kredytowy i de facto przerzucone na kredytobiorc&#x119; mo&#x17c;e &#xbb;powr&#xf3;ci&#x107; &#xab; do banku w postaci ryzyka kredytowego&#x201d;."/>
@@ -2416,6 +2416,7 @@
 <node CREATED="1422805427912" FOLDED="true" ID="ID_1463599613" MODIFIED="1428450585105" TEXT="Biuro Analiz Sejmowych">
 <node CREATED="1422805437560" ID="ID_1195707718" LINK="http://orka.sejm.gov.pl/WydBAS.nsf/0/420885A628A26227C12575DE00245CEF/$file/Infos_58.pdf" MODIFIED="1422805457948" TEXT="&quot;opcje walutowe&quot; 2004-2008"/>
 </node>
+<node CREATED="1429218718041" ID="ID_1878790002" MODIFIED="1429218718041" TEXT=""/>
 </node>
 <node CREATED="1422387165550" FOLDED="true" ID="ID_524826321" MODIFIED="1429132898516" POSITION="right" TEXT="raporty">
 <node CREATED="1422387167713" FOLDED="true" ID="ID_337743147" MODIFIED="1429132897100" TEXT="mBank">
@@ -3167,7 +3168,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1422383715029" FOLDED="true" ID="ID_1585596402" MODIFIED="1429132870578" POSITION="right" TEXT="orzeczenia s&#x105;d&#xf3;w">
+<node CREATED="1422383715029" FOLDED="true" ID="ID_1585596402" MODIFIED="1429212163972" POSITION="right" TEXT="orzeczenia s&#x105;d&#xf3;w">
 <font NAME="SansSerif" SIZE="13"/>
 <node CREATED="1422383761074" ID="ID_1436161491" MODIFIED="1422383764518" TEXT="VI ACa 441/13"/>
 <node CREATED="1422759909445" FOLDED="true" ID="ID_963216369" MODIFIED="1428450585169" TEXT="III Ca 230/12">
@@ -5163,12 +5164,12 @@
 <node CREATED="1428018083603" ID="ID_109969097" LINK="http://en.wikipedia.org/wiki/Currency_swap" MODIFIED="1428018088831" TEXT="Currency swaps were originally conceived in the 1970s to circumvent foreign exchange controls in the United Kingdom. At that time, UK companies had to pay a premium to borrow in US Dollars. To avoid this, UK companies set up back-to-back loan agreements with US companies wishing to borrow Sterling.[7] While such restrictions on currency exchange have since become rare, savings are still available from back-to-back loans due to comparative advantage."/>
 </node>
 </node>
-<node CREATED="1422495293054" FOLDED="true" ID="ID_760236369" MODIFIED="1428450585377" POSITION="right" TEXT="krytyka Rekomendacji S">
-<node CREATED="1422495306046" FOLDED="true" ID="ID_1084032447" MODIFIED="1428450585376" TEXT="Fundacja Instytut Ludwiga von Misesa">
+<node CREATED="1422495293054" FOLDED="true" ID="ID_760236369" MODIFIED="1429212965382" POSITION="right" TEXT="krytyka Rekomendacji S">
+<node CREATED="1422495306046" ID="ID_1084032447" MODIFIED="1429212587987" TEXT="Fundacja Instytut Ludwiga von Misesa">
 <node CREATED="1422495318836" ID="ID_45265411" LINK="http://mises.pl/wp-content/uploads/2010/10/Maciej-Bitner-20101021-KNF-o-walutowych.pdf" MODIFIED="1422495366873" TEXT="M.Bitner Komisja Nadzoru Finansowego o kredytach walutowych"/>
 <node CREATED="1424612768550" ID="ID_1858388557" MODIFIED="1424612776379" TEXT="Maciej Bitner to jaki&#x15b; gnojek - student UW!"/>
 </node>
-<node CREATED="1422495540166" FOLDED="true" ID="ID_1628155696" MODIFIED="1428450585377" TEXT="Prawo i Sprawiedliwo&#x15b;&#x107;">
+<node CREATED="1422495540166" ID="ID_1628155696" MODIFIED="1429212586607" TEXT="Prawo i Sprawiedliwo&#x15b;&#x107;">
 <node CREATED="1422495546774" ID="ID_729395924" LINK="http://www.pis.org.pl/article.php?id=4415" MODIFIED="1422495560460" TEXT="Komunikat KP PiS dotycz&#x105;cy zalecenia Komisji Nadzoru Bankowego"/>
 <node CREATED="1422774876197" ID="ID_395420861" LINK="http://www.pb.pl/1387485,32326,gilowska-ograniczenia-w-kredytach-walutowych-niekorzystne-dla-polakow%20%EF%BB%BF" MODIFIED="1422774883661" TEXT="Gilowska"/>
 </node>
@@ -5418,7 +5419,7 @@
 <node CREATED="1424790148074" ID="ID_585696787" LINK="http://pomocfrankowiczom.pl" MODIFIED="1424790151646" TEXT="http://pomocfrankowiczom.pl"/>
 <node CREATED="1425233277893" ID="ID_1908335845" LINK="http://www.sawicki.cc" MODIFIED="1425233277893" TEXT="sawicki"/>
 </node>
-<node CREATED="1422381443599" FOLDED="true" ID="ID_1470110074" MODIFIED="1428450585419" POSITION="left">
+<node CREATED="1422381443599" FOLDED="true" ID="ID_1470110074" MODIFIED="1429223395529" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5435,14 +5436,14 @@
 <node CREATED="1425425465085" FOLDED="true" ID="ID_705607621" MODIFIED="1428450585414" TEXT="1990">
 <node CREATED="1425425471045" ID="ID_71915140" MODIFIED="1425425475524" TEXT="jaruzelski"/>
 </node>
-<node CREATED="1422381577653" FOLDED="true" ID="ID_576175434" MODIFIED="1428450585415" TEXT="2001-2004">
+<node CREATED="1422381577653" FOLDED="true" ID="ID_576175434" MODIFIED="1429218695595" TEXT="2001-2004">
 <node CREATED="1422381459515" ID="ID_1230794880" MODIFIED="1422381575530" TEXT="Komunisci"/>
 </node>
-<node CREATED="1425147037754" FOLDED="true" ID="ID_1562049559" MODIFIED="1428450585415" TEXT="2003">
+<node CREATED="1425147037754" FOLDED="true" ID="ID_1562049559" MODIFIED="1429218693799" TEXT="2003">
 <node CREATED="1425147039626" ID="ID_1152677551" MODIFIED="1425147045693" TEXT="wej&#x15b;cie do EU"/>
 </node>
-<node CREATED="1422381588308" FOLDED="true" ID="ID_67147804" MODIFIED="1428450585416" TEXT="2005-2006">
-<node CREATED="1422381597947" FOLDED="true" ID="ID_768573661" MODIFIED="1428450585415" TEXT="PIS">
+<node CREATED="1422381588308" ID="ID_67147804" MODIFIED="1429218719527" TEXT="2005-2006">
+<node CREATED="1422381597947" FOLDED="true" ID="ID_768573661" MODIFIED="1429218688769" TEXT="PIS">
 <node CREATED="1428262748350" ID="ID_933854435" LINK="http://wyborcza.pl/1,75968,17265351,PiS_chcial__zeby_bylo_wiecej_frankowiczow.html" MODIFIED="1428262753013" TEXT="http://wyborcza.pl/1,75968,17265351,PiS_chcial__zeby_bylo_wiecej_frankowiczow.html"/>
 </node>
 <node CREATED="1422381625017" ID="ID_793884906" LINK="http://www.pis.org.pl/article.php?id=4415" MODIFIED="1422381713516">
@@ -5462,6 +5463,15 @@
 </node>
 <node CREATED="1422471848218" FOLDED="true" ID="ID_600709588" MODIFIED="1428450585416" TEXT="Zyta Gilowska">
 <node CREATED="1422471857201" ID="ID_440444710" MODIFIED="1422805296367" TEXT="kredytobiorca musi miec troszke luzu..."/>
+</node>
+<node CREATED="1429218720387" ID="ID_405740240" MODIFIED="1429218725334" TEXT="Powstanei KNF">
+<node CREATED="1429218725980" ID="ID_831417454" LINK="http://niezalezna.pl/65534-afera-skok-ow-pestka-bronislaw-komorowski-glosowal-przeciwko-powstaniu-knf" MODIFIED="1429218750912" TEXT="Sejm przyj&#x105;&#x142; ustaw&#x119;, dzi&#x119;ki kt&#xf3;rej powsta&#x142;a KNF, g&#x142;osami PiS i jego koalicjant&#xf3;w. Ca&#x142;a Platforma Obywatelska g&#x142;osowa&#x142;a w&#xf3;wczas... przeciwko">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="ksmiletris"/>
+<icon BUILTIN="ksmiletris"/>
+<icon BUILTIN="ksmiletris"/>
+</node>
+<node CREATED="1429218755211" ID="ID_1181000175" MODIFIED="1429218764605" TEXT="zlikwidowano KNB"/>
 </node>
 </node>
 <node CREATED="1422381600978" FOLDED="true" ID="ID_795093654" MODIFIED="1428450585416" TEXT="2006-2015+">
@@ -5529,7 +5539,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1423184421205" FOLDED="true" ID="ID_1972185400" MODIFIED="1428450585426" POSITION="right" TEXT="motto">
+<node CREATED="1423184421205" FOLDED="true" ID="ID_1972185400" MODIFIED="1429212963636" POSITION="right" TEXT="motto">
 <node CREATED="1423184424145" ID="ID_733676221" MODIFIED="1423184424145" TEXT="Grosz to pieniadz -pieniadz to forsa - forsa to grunt -grunt to ziemia- ziemia to matka- matka to aniol- aniol to stroz - stroz to dozorca - dozorca to gospodarz."/>
 <node CREATED="1425244488346" ID="ID_864322671" MODIFIED="1425244555672" TEXT="Miko&#x142;aj Gogol (1809-52)  &#x2014; &#x9;&quot;Nazwanie oszusta po imieniu to u nas niemal zamach na pa&#x144;stwo&quot;."/>
 </node>
@@ -5905,7 +5915,7 @@
 <node CREATED="1428426316841" ID="ID_263058582" LINK="http://www.forbes.pl/kredyty-we-frankach-to-nie-tylko-problem-kredytobiorcow-i-bankow,artykuly,188650,1,1.html" MODIFIED="1428426330173" TEXT="Nie zostawiajcie tej sprawy bankom"/>
 </node>
 </node>
-<node CREATED="1428581894333" FOLDED="true" ID="ID_698719097" MODIFIED="1428586057586" POSITION="right" TEXT="Ludzie">
+<node CREATED="1428581894333" FOLDED="true" ID="ID_698719097" MODIFIED="1429218676102" POSITION="right" TEXT="Ludzie">
 <node CREATED="1428581896758" ID="ID_833397787" MODIFIED="1428581900167" TEXT="stypu&#x142;kowski">
 <node CREATED="1428581900701" ID="ID_906886586" MODIFIED="1428581905335" TEXT="JPMorgan">
 <node CREATED="1428581905964" ID="ID_1696106959" LINK="https://www.knf.gov.pl/Images/KNF%20fixing%2021.11.2008_tcm75-9403.pdf" MODIFIED="1428581913621" TEXT="manipulacj&#x105; gia&#x142;da w 2008"/>
@@ -5915,7 +5925,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1428586103747" FOLDED="true" ID="ID_1175368875" MODIFIED="1428619396253" POSITION="right" TEXT="operacja finansowe">
+<node CREATED="1428586103747" FOLDED="true" ID="ID_1175368875" MODIFIED="1429218677228" POSITION="right" TEXT="operacja finansowe">
 <node CREATED="1428586107820" ID="ID_562235762" LINK="http://www.nbportal.pl/wiedza/artykuly/pieniadz/pozyczkodawca_ostatniej_instancji" MODIFIED="1428586142726" TEXT="2008 - NBP swap SNB">
 <node CREATED="1428586119356" ID="ID_1884626241" MODIFIED="1428586120230" TEXT="Innym przyk&#x142;adem takiej w&#x142;a&#x15b;nie transakcji by&#x142; zawarty w grudniu 2008 r. swap Narodowego Banku Polskiego ze Szwajcarskim Bankiem Narodowym (SNB)."/>
 <node CREATED="1428586125628" ID="ID_761135460" MODIFIED="1428586126279" TEXT="W zwi&#x105;zku z tym, &#x17c;e polskie banki potrzebowa&#x142;y dla zapewnienia bezpiecznego funkcjonowania frank&#xf3;w szwajcarskich, a nie mog&#x142;y ich po&#x17c;yczy&#x107; na rynku mi&#x119;dzybankowym, NBP wyst&#x105;pi&#x142; z propozycj&#x105; zamiany euro uzyskanych od Europejskiego Banku Centralnego na franki szwajcarskie. W rezultacie na rachunek NBP trafi&#x142;y franki, kt&#xf3;re polski bank centralny odpo&#x17c;yczy&#x142; potrzebuj&#x105;cym bankom komercyjnym, a na rachunki w SNB &#x2013; euro. Gdy zamykano transakcj&#x119;, banki komercyjne odda&#x142;y NBP franki, kt&#xf3;re ten przekaza&#x142; SNB, a Szwajcarski Bank Narodowy odda&#x142; euro. Operacja ta pozwoli&#x142;a zapewni&#x107; w bardzo trudnym okresie stabilno&#x15b;&#x107; polskiego systemu bankowego. "/>
