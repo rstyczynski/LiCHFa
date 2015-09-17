@@ -89,14 +89,14 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1422311406111" FOLDED="true" ID="ID_688682003" MODIFIED="1432198135144" TEXT="Prawo Dewizowe">
-<node CREATED="1428155459677" FOLDED="true" ID="ID_156030910" LINK="http://orka.sejm.gov.pl/proc2.nsf/ustawy/621_u.htm" MODIFIED="1432198135140" TEXT="USTAWA z dnia 2 grudnia 1994 r.">
-<node CREATED="1428155493316" FOLDED="true" ID="ID_294175332" MODIFIED="1432198135139" TEXT="Art.9">
-<node CREATED="1428155521356" FOLDED="true" ID="ID_861530186" MODIFIED="1432198135139" TEXT=" 1. Dokonywanie nast&#x119;puj&#x105;cych czynno&#x15b;ci obrotu dewizowego wymaga zezwolenia    dewizowego:">
+<node CREATED="1422311406111" ID="ID_688682003" MODIFIED="1442046931498" TEXT="Prawo Dewizowe">
+<node CREATED="1428155459677" ID="ID_156030910" LINK="http://orka.sejm.gov.pl/proc2.nsf/ustawy/621_u.htm" MODIFIED="1442046949298" TEXT="USTAWA z dnia 2 grudnia 1994 r.">
+<node CREATED="1428155493316" ID="ID_294175332" MODIFIED="1442046953220" TEXT="Art.9">
+<node CREATED="1428155521356" ID="ID_861530186" MODIFIED="1442046968686" TEXT=" 1. Dokonywanie nast&#x119;puj&#x105;cych czynno&#x15b;ci obrotu dewizowego wymaga zezwolenia    dewizowego:">
 <node CREATED="1428155758352" ID="ID_1006347714" MODIFIED="1428155761766" TEXT="3) udzielanie przez osoby krajowe osobom zagranicznym kredyt&#xf3;w i po&#x17c;yczek      w warto&#x15b;ciach dewizowych, a tak&#x17c;e zaci&#x105;gnie przez osoby krajowe       takich kredyt&#xf3;w i po&#x17c;yczek od os&#xf3;b zagranicznych, w tym zwi&#x105;zanych z       emisj&#x105; i obrotem papierami warto&#x15b;ciowymi o charakterze d&#x142;u&#x17c;nym, z       wyj&#x105;tkiem kredyt&#xf3;w handlowych zaci&#x105;ganych od os&#xf3;b zagranicznych, z       zastrze&#x17c;eniem, &#x17c;e warunki zaci&#x105;gni&#x119;tego kredytu handlowego nie b&#x119;d&#x105;       mniej korzystne dla kredytobiorcy ni&#x17c; powszechnie stosowane w analogicznych      przypadkach na mi&#x119;dzynarodowym rynku finansowym, a kredytobiorca      przeka&#x17c;e Narodowemu Bankowi Polskiemu informacj&#x119; o       tym kredycie,"/>
 </node>
 </node>
-<node CREATED="1428162176083" FOLDED="true" ID="ID_301269906" LINK="http://czasopisma.beck.pl/monitor-podatkowy/artykul/udzielanie-i-zaciaganie-kredytow-oraz-pozyczek-w-wartosciach-dewizowych-w-ujeciu-polskiego-prawa-dewizowego/" MODIFIED="1432198135140" TEXT="Monitor Podatkowy | 6/1998">
+<node CREATED="1428162176083" ID="ID_301269906" LINK="http://czasopisma.beck.pl/monitor-podatkowy/artykul/udzielanie-i-zaciaganie-kredytow-oraz-pozyczek-w-wartosciach-dewizowych-w-ujeciu-polskiego-prawa-dewizowego/" MODIFIED="1442046951388" TEXT="Monitor Podatkowy | 6/1998">
 <node CREATED="1428157599660" ID="ID_1336014692" MODIFIED="1428157602644" TEXT="Udzielanie i zaci&#x105;ganie kredyt&#xf3;w oraz po&#x17c;yczek w warto&#x15b;ciach dewizowych w uj&#x119;ciu polskiego prawa dewizowego.pdf"/>
 <node CREATED="1428162164172" ID="ID_1265310449" MODIFIED="1428162168673" TEXT="Generalny zakaz w tym zakresie, cho&#x107; &#x142;agodzony nast&#x119;pnie drog&#x105; zezwole&#x144; og&#xf3;lnych, jest zbyt rygorystyczny. Ponadto zezwolenia zawarte w ZezwDewZ s&#x105; zbyt skomplikowane i nieprzejrzyste. Nie sprzyja to sprawnemu przep&#x142;ywowi kapita&#x142;u i rozwijaniu obrot&#xf3;w z zagranic&#x105;.">
 <icon BUILTIN="clanbomber"/>
@@ -105,10 +105,10 @@
 <node CREATED="1428162221090" ID="ID_1551919931" MODIFIED="1428162228163" TEXT="Rozwi&#x105;zania prawa dewizowego odnosz&#x105;ce si&#x119; do udzielania i zaci&#x105;gania kredyt&#xf3;w i po&#x17c;yczek mi&#x119;dzy osobami krajowymi i zagranicznymi w warto&#x15b;ciach dewizowych, a tak&#x17c;e do mo&#x17c;liwo&#x15b;ci ich zabezpieczania drog&#x105; por&#x119;cze&#x144; i gwarancji, wymagaj&#x105; dalszych zmian."/>
 </node>
 </node>
-<node CREATED="1423180305593" FOLDED="true" ID="ID_787087692" LINK="http://isap.sejm.gov.pl/DetailsServlet?id=WDU20021411178+2009%2401%2424&amp;min=1" MODIFIED="1432198135141" TEXT="Ustawa z dnia 27 lipca 2002 r. Prawo dewizowe.">
+<node CREATED="1423180305593" ID="ID_787087692" LINK="http://isap.sejm.gov.pl/DetailsServlet?id=WDU20021411178+2009%2401%2424&amp;min=1" MODIFIED="1442046947093" TEXT="Ustawa z dnia 27 lipca 2002 r. Prawo dewizowe.">
 <node CREATED="1428162563723" ID="ID_1431890036" LINK="http://www.przepisy.gofin.pl/przepisy,3,25,0,810,62381,20131007,art-1-4-przepisy-ogolne.html" MODIFIED="1428162572142" TEXT="wersja WWW"/>
 </node>
-<node CREATED="1423180086980" FOLDED="true" ID="ID_1920529594" MODIFIED="1432198135142" TEXT="Dz. U. Nr 228, poz. 1506">
+<node CREATED="1423180086980" ID="ID_1920529594" MODIFIED="1442047020967" TEXT="Dz. U. Nr 228, poz. 1506">
 <node CREATED="1423180135221" ID="ID_1784628622" MODIFIED="1423180135221">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -130,7 +130,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1422314239004" FOLDED="true" ID="ID_605173981" MODIFIED="1432198135142" TEXT="Art. 2. 1.">
+<node CREATED="1422314239004" ID="ID_605173981" MODIFIED="1442047023442" TEXT="Art. 2. 1.">
 <node CREATED="1422311412951" ID="ID_1012438545" MODIFIED="1422314237152">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -144,13 +144,13 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1424381241908" FOLDED="true" ID="ID_899630864" MODIFIED="1432198135143" TEXT="Art.2">
+<node CREATED="1424381241908" ID="ID_899630864" MODIFIED="1442047026980" TEXT="Art.2">
 <node CREATED="1424381245180" ID="ID_275999319" MODIFIED="1428162592987" TEXT=" 18) Obrotem warto&#x15b;ciami dewizowymi w kraju jest zawarcie umowy lub dokonanie innej czynno&#x15b;ci prawnej powoduj&#x105;cej lub mog&#x105;cej powodowa&#x107; dokonywanie w kraju mi&#x119;dzy rezydentami lub mi&#x119;dzy nierezydentami rozlicze&#x144; w walutach obcych albo przeniesienie w kraju mi&#x119;dzy rezydentami lub mi&#x119;dzy nierezydentami w&#x142;asno&#x15b;ci warto&#x15b;ci dewizowych, a tak&#x17c;e wykonywanie takich um&#xf3;w lub czynno&#x15b;ci,">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="bookmark"/>
 <icon BUILTIN="bookmark"/>
 </node>
-<node CREATED="1424381450367" FOLDED="true" ID="ID_1777260203" MODIFIED="1432198135143" TEXT="20 1a 3.">
+<node CREATED="1424381450367" ID="ID_1777260203" MODIFIED="1442047039739" TEXT="20 1a 3.">
 <icon BUILTIN="bookmark"/>
 <icon BUILTIN="bookmark"/>
 <node CREATED="1424381560230" ID="ID_685096739" MODIFIED="1424381560812" TEXT="3. Ilekro&#x107; w ustawie jest mowa o r&#xf3;wnowarto&#x15b;ci danej kwoty wyra&#x17c;onej w euro, nale&#x17c;y przez to rozumie&#x107; jej r&#xf3;wnowarto&#x15b;&#x107; wyra&#x17c;on&#x105; w walucie polskiej, ustalon&#x105; przy zastosowaniu &#x15b;redniego kursu euro, lub jej r&#xf3;wnowarto&#x15b;&#x107; wyra&#x17c;on&#x105; w innej walucie, ustalon&#x105; przy zastosowaniu &#x15b;redniego kursu euro oraz &#x15b;redniego kursu tej waluty og&#x142;oszonego przez Narodowy Bank Polski w dniu poprzedzaj&#x105;cym dokonanie czynno&#x15b;ci."/>
@@ -7316,6 +7316,7 @@
 </node>
 </node>
 <node CREATED="1441540292932" ID="ID_1755495279" LINK="http://www.gofin.pl/17,2,145,115853,przerwanie-biegu-terminu-przedawnienia.html" MODIFIED="1441540300804" TEXT="przerwanie przedawnienia"/>
+<node CREATED="1441559709589" ID="ID_1771318349" LINK="http://www.prawo24.pl/a/s&#x105;dowe-stwierdzenie-niewa&#x17c;no&#x15b;ci-umowy" MODIFIED="1441559714378" TEXT="uniwa&#x17c;nienie uowy"/>
 </node>
 <node CREATED="1427832955647" FOLDED="true" ID="ID_110504871" MODIFIED="1432471632809" POSITION="left" TEXT="know-how">
 <node CREATED="1427832959318" FOLDED="true" ID="ID_467864945" MODIFIED="1432198135912" TEXT="rynek kapita&#x142;owy">
