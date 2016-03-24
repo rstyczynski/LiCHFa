@@ -16,7 +16,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="17"/>
 <hook NAME="accessories/plugins/CreationModificationPlugin_new.properties"/>
-<node CREATED="1430080538575" FOLDED="true" ID="ID_295840677" MODIFIED="1452440642140" POSITION="right" TEXT="zasady prawa">
+<node CREATED="1430080538575" FOLDED="true" ID="ID_295840677" MODIFIED="1458253856465" POSITION="right" TEXT="zasady prawa">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1430080555684" FOLDED="true" ID="ID_279594035" MODIFIED="1447377428856" TEXT="Lex specialis derogat legi generali ">
 <node CREATED="1430080585538" ID="ID_1392840802" MODIFIED="1430080586142" TEXT="zasada prawna oznaczaj&#x105;ca: prawo o wi&#x119;kszym stopniu szczeg&#xf3;&#x142;owo&#x15b;ci (pochodz&#x105;ce z akt&#xf3;w prawnych o tej samej mocy, np. z dw&#xf3;ch ustaw, obowi&#x105;zuj&#x105;ce w tym samym czasie) nale&#x17c;y stosowa&#x107; przed prawem og&#xf3;lniejszym."/>
@@ -27,19 +27,19 @@
 <node CREATED="1430080825551" ID="ID_446540292" MODIFIED="1430080826082" TEXT="zasada prawna, jedna z regu&#x142; kolizyjnych, oznaczaj&#x105;ca &#x17c;e: prawo ustanowione p&#xf3;&#x17a;niej (pochodz&#x105;ce z akt&#xf3;w prawnych o tej samej mocy, np. z dw&#xf3;ch ustaw i tym samym stopniu szczeg&#xf3;&#x142;owo&#x15b;ci) nale&#x17c;y stosowa&#x107; przed prawem ustanowionym wcze&#x15b;niej. Je&#x17c;eli jednak zdarzy si&#x119; sprzeczno&#x15b;&#x107; akt&#xf3;w o r&#xf3;&#x17c;nej wadze &#x2013; zawsze nale&#x17c;y stosowa&#x107; akt wy&#x17c;szy, co znaczy, &#x17c;e konstytucja ma pierwsze&#x144;stwo przed ustaw&#x105;, a ustawa przed rozporz&#x105;dzeniem. Zasada lex posterior derogat legi priori nie ma jednak faktycznego umocowania prawnego, przez co w przepisach mo&#x17c;e wyst&#x105;pi&#x107; sprzeczno&#x15b;&#x107;. W Polsce utrata mocy przepisu ma miejsce, gdy zostanie zmieniony albo na podstawie wyroku Trybuna&#x142;u Konstytucyjnego. Nie ma na tej li&#x15b;cie wprowadzenia p&#xf3;&#x17a;niejszego, sprzecznego z wcze&#x15b;niejszym aktem i powoduj&#x105;cym z mocy prawa jego wygaszenie. Zasada ta zostaje ograniczona w prawie karnym, gdzie w razie kolizji przepisu wcze&#x15b;niejszego i p&#xf3;&#x17a;niejszego stosuje si&#x119; przepis korzystniejszy dla oskar&#x17c;onego."/>
 </node>
 <node CREATED="1430080595211" ID="ID_1290871084" MODIFIED="1430080595918" TEXT="Pewien k&#x142;opot stanowi&#x107; mo&#x17c;e sytuacja kolizji zasad lex specialis i lex posterior. Cz&#x119;&#x15b;&#x107; doktryny wykazuje w takim wypadku pierwsze&#x144;stwo tej pierwszej zasady, w my&#x15b;l regu&#x142;y lex posterior generalis non derogat legi priori speciali. Inne stanowisko postuluje zwr&#xf3;cenie uwagi przede wszystkim na wzgl&#x119;dy celowo&#x15b;ciowe."/>
-<node CREATED="1430429808727" FOLDED="true" ID="ID_872186535" MODIFIED="1447377428857" TEXT="znaczenie orzeczenia s&#x105;du">
+<node CREATED="1430429808727" FOLDED="true" ID="ID_872186535" MODIFIED="1457264189654" TEXT="znaczenie orzeczenia s&#x105;du">
 <node CREATED="1430429817581" ID="ID_611563708" LINK="http://wiadomosci.gazeta.pl/wiadomosci/1,138764,17844554,Proces_o_kredyt_we_frankach__Klientka_walczy_z_bankiem_.html?lokale=local&amp;v=1&amp;pId=34109910&amp;send-a=1#opinion34109910" MODIFIED="1430429822767" TEXT="B&#x142;&#x105;dzicie, b&#x142;&#x105;dzicie, b&#x142;&#x105;dzicie. Nawet je&#x17c;eli uchwa&#x142;a S&#x105;du Najwy&#x17c;szego ma moc zasady prawnej, to wi&#x105;&#x17c;e ona tylko i wy&#x142;&#x105;cznie inne sk&#x142;ady S&#x105;du Najwy&#x17c;szego. S&#x105;d&#xf3;w powszechnych nie da si&#x119; zwi&#x105;za&#x107; w spos&#xf3;b abstrakcyjny (w oderwaniu od konkretnie rozpoznawanej sprawy). S&#x119;dzia odpowiada tylko przed ustaw&#x105; i w&#x142;asnym sumieniem. Jedynie w konkretnie rozpoznawanych sprawach istnieje przypadek zwi&#x105;zania. Chodzi o sytuacj&#x119; kiedy s&#x105;d odwo&#x142;awczy uchyla orzeczenie i przekazuje spraw&#x119; s&#x105;dowi pierwszej instancji do ponownego rozpoznania. Wtedy wytyczne s&#x105;du odwo&#x142;awczego s&#x105; wi&#x105;&#x17c;&#x105;ce, a niezastosowanie si&#x119; do nich mo&#x17c;e grozi&#x107; wytykiem (wpisem do akt osobowych). Ale osoby wskazuj&#x105;ce na faktyczn&#x105; presj&#x119; wywieran&#x105; na s&#x105;dy maj&#x105; oczywi&#x15b;cie racj&#x119;. W dobie internetu, kiedy ka&#x17c;dy znajduje po kilkana&#x15b;cie wyrok&#xf3;w S&#x105;du Najwy&#x17c;szego do danego zagadnienia, trudno pozosta&#x107; s&#x119;dziom wobec tego oboj&#x119;tnym. W obawie przed uchylaniem ich wyrok&#xf3;w cz&#x119;sto podzielaj&#x105; najbardziej akceptowane pogl&#x105;dy doktryny prawniczej i w uzasadnieniach g&#x119;sto cytuj&#x105; orzecznictwo innych s&#x105;d&#xf3;w. Sam przygotowuj&#x105;c projekty uzasadnie&#x144; (jestem obecnie asystentem s&#x119;dziego), cz&#x119;sto pisz&#x119; w nawiasach wstawki typu &quot;tak te&#x17c; S&#x105;d Najwy&#x17c;szy w orzeczeniu...&quot;, &quot;zobacz r&#xf3;wnie&#x17c; postanowienie S&#x105;du Apelacyjnego w...&quot; itd. Robi&#x119; to g&#x142;&#xf3;wnie z uwagi na pieniaczy, kt&#xf3;rych obecnie jest ca&#x142;a masa. Wszyscy uwa&#x17c;aj&#x105;, &#x17c;e znaj&#x105; si&#x119; na wszystkim, zw&#x142;aszcza na prawie, a s&#x119;dzia to jaki&#x15b; debil z &#x142;a&#x144;cuchem na szyi. Z do&#x15b;wiadczenia wiem, &#x17c;e jak taki delikwent sobie poczyta, &#x17c;e zdanie s&#x119;dziego podzielane jest przez najr&#xf3;&#x17c;niejsze s&#x105;dy w kraju, od Krakowa, przez Pozna&#x144;, do Szczecina, to mina mu rzednie i rezygnuje z apelacji."/>
 </node>
 <node CREATED="1430530382499" FOLDED="true" ID="ID_471739667" MODIFIED="1447377428858" TEXT="ekwiwalentno&#x15b;&#x107; stron">
 <node CREATED="1430530392044" ID="ID_220605835" MODIFIED="1430530396878" TEXT="Art.487 k.c."/>
 </node>
-<node CREATED="1430613562756" FOLDED="true" ID="ID_962634428" MODIFIED="1447377428858" TEXT="rebus sic stantibus">
+<node CREATED="1430613562756" FOLDED="true" ID="ID_962634428" MODIFIED="1457258412409" TEXT="rebus sic stantibus">
 <node CREATED="1430613568570" ID="ID_1328885831" MODIFIED="1430613569141" TEXT="&#x142;ac. skoro sprawy przybra&#x142;y taki obr&#xf3;t"/>
 <node CREATED="1430613579858" ID="ID_969495542" MODIFIED="1430613580437" TEXT="W szerszym uj&#x119;ciu rozumiana jako wszelkie koncepcje czy rozstrzygni&#x119;cia ustawowe, maj&#x105;ce na celu zmian&#x119; pierwotnego stosunku zobowi&#x105;zaniowego ze wzgl&#x119;du na nieoczekiwan&#x105; zmian&#x119; stosunk&#xf3;w spo&#x142;ecznych, towarzysz&#x105;cych powstawaniu tego zobowi&#x105;zania."/>
 </node>
 <node CREATED="1430651945037" ID="ID_936892269" MODIFIED="1430651945648" TEXT="rationis legis"/>
 <node CREATED="1430652019548" ID="ID_109492236" LINK="http://www.zielona-gora.po.gov.pl/index.php?id=180" MODIFIED="1430652025504" TEXT="s&#x142;ownik &#x142;ac."/>
-<node CREATED="1430667675974" FOLDED="true" ID="ID_1952259804" MODIFIED="1447377428858" TEXT="essentialia negotii ">
+<node CREATED="1430667675974" FOLDED="true" ID="ID_1952259804" MODIFIED="1457258403595" TEXT="essentialia negotii ">
 <node CREATED="1430667682283" ID="ID_1557444790" MODIFIED="1430667682750" TEXT="&#x142;ac. przedmiotowo istotne sk&#x142;adniki tre&#x15b;ci czynno&#x15b;ci prawnej"/>
 <node CREATED="1430667687571" ID="ID_364939683" MODIFIED="1430667688054" TEXT="sk&#x142;adniki tre&#x15b;ci czynno&#x15b;ci cywilnoprawnej, kt&#xf3;re okre&#x15b;laj&#x105; typ tej czynno&#x15b;ci (w szczeg&#xf3;lno&#x15b;ci typ umowy) i charakter wynikaj&#x105;cego z niej stosunku prawnego. Ze wzgl&#x119;du na sw&#xf3;j zasadniczy dla czynno&#x15b;ci prawnej charakter, konstytuuj&#x105;cy t&#x119; czynno&#x15b;&#x107;, zwane s&#x105; w&#x142;a&#x15b;nie sk&#x142;adnikami przedmiotowo istotnymi."/>
 </node>
@@ -60,7 +60,7 @@
 <node CREATED="1443116996388" ID="ID_689973106" LINK="http://www.gazetaprawna.pl/encyklopedia/prawo/hasla/336523,ekwiwalentnosc_swiadczen.html" MODIFIED="1443117003131" TEXT="To cecha zobowi&#x105;za&#x144; z um&#xf3;w wzajemnych, stanowi&#x105;cych odmian&#x119; um&#xf3;w dwustronnie zobowi&#x105;zuj&#x105;cych, czyli takich, w kt&#xf3;rych obowi&#x105;zek &#x15b;wiadczenia ci&#x105;&#x17c;y na obu stronach. W tego rodzaju umowach ka&#x17c;da ze stron jest d&#x142;u&#x17c;nikiem i wierzycielem drugiej, za&#x15b; &#x15b;wiadczenie ka&#x17c;dej stanowi r&#xf3;wnowa&#x17c;nik (ekwiwalent) tego, co sama otrzymuje. Ta r&#xf3;wnowaga w&#x142;a&#x15b;nie nazywa si&#x119; ekwiwalentno&#x15b;ci&#x105; &#x15b;wiadcze&#x144;."/>
 </node>
 </node>
-<node CREATED="1422383804007" ID="ID_1937078195" MODIFIED="1452440643667" POSITION="right" TEXT="przepisy prawne">
+<node CREATED="1422383804007" ID="ID_1937078195" MODIFIED="1458253859481" POSITION="right" TEXT="przepisy prawne">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1422812087806" ID="ID_708300358" LINK="isap.sejm.gov.pl/Download?id=WDU19970780483&amp;type=3" MODIFIED="1447702123259" TEXT="KONSTYTUCJA RZECZYPOSPOLITEJ POLSKIEJ">
 <node CREATED="1422812112751" ID="ID_1101953788" MODIFIED="1447702124830" TEXT="Art. 227.">
@@ -167,7 +167,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1422311152319" ID="ID_1984406682" MODIFIED="1455067081813" TEXT="Prawo Bankowe">
+<node CREATED="1422311152319" FOLDED="true" ID="ID_1984406682" MODIFIED="1458253865561" TEXT="Prawo Bankowe">
 <node CREATED="1429655066331" FOLDED="true" ID="ID_1648737624" LINK="https://www.google.pl/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=3&amp;ved=0CCsQFjACahUKEwij5dHzmoPIAhWMDiwKHSqnA-I&amp;url=http%3A%2F%2Fdziennikustaw.gov.pl%2Fdu%2F1989%2Fs%2F74%2F442%2FD1989074044201.pdf&amp;usg=AFQjCNEDMjA9hy_eWze8_0oYmZVafac3PQ&amp;sig2=aOQz3pc9aVAwZuVk4BJtTg" MODIFIED="1447377428866" TEXT="Dz.U. 1989 nr 74 poz. 440">
 <node CREATED="1429655071004" ID="ID_1162000956" MODIFIED="1429655074207" TEXT="plan balcerowicz"/>
 </node>
@@ -467,7 +467,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1422312624333" FOLDED="true" ID="ID_1919991283" MODIFIED="1455067079427" TEXT="Kodeks Cywilny">
+<node CREATED="1422312624333" FOLDED="true" ID="ID_1919991283" MODIFIED="1457635470458" TEXT="Kodeks Cywilny">
 <node CREATED="1422314195470" FOLDED="true" ID="ID_1069570596" MODIFIED="1447377428883" TEXT="Art. 5">
 <node CREATED="1422312985303" ID="ID_378664959" MODIFIED="1423184909905">
 <richcontent TYPE="NODE"><html>
@@ -733,7 +733,7 @@
 <node CREATED="1447235579044" ID="ID_1869999806" MODIFIED="1447235579044" TEXT=""/>
 </node>
 <node CREATED="1423180023804" ID="ID_1018897369" MODIFIED="1423180032927" TEXT="*  &#xa;&#xa; W brzmieniu ustalonym przez art. 1 ustawy z dnia 23 paz&#x301;dziernika 2008 r. o zmianie ustawy&#x2013; Kodeks cywilny oraz ustawy &#x2013;Prawo dewizowe (Dz. U. Nr 228, poz. 1506), kto&#x301;ra wesz&#x142;a w z&#x307;yciez dniem 24 stycznia 2009 r."/>
-<node CREATED="1423180204883" FOLDED="true" ID="ID_510194314" LINK="#ID_1691501041" MODIFIED="1447377428889" TEXT="od 2009">
+<node CREATED="1423180204883" ID="ID_510194314" LINK="#ID_1691501041" MODIFIED="1457438057044" TEXT="od 2009">
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
@@ -1051,7 +1051,7 @@
 </node>
 <node CREATED="1447450514047" ID="ID_1787434403" MODIFIED="1447450515056" TEXT="Art. 1067. 376) &#xa7; 1. Do zapisu, kt&#xf3;rego przedmiotem jest &#x15b;wiadczenie pieni&#x119;&#x17c;ne, stosuje si&#x119; odpowiednio przepis art. 216. &#xa7; 2. Je&#x17c;eli wykonanie zapisu prowadzi&#x142;oby do podzia&#x142;u gospodarstwa rolnego lub wk&#x142;adu gruntowego w rolniczej sp&#xf3;&#x142;dzielni produkcyjnej, sprzecznego z zasadami prawid&#x142;owej gospodarki rolnej, spadkobierca zobowi&#x105;zany do wykonania zapisu mo&#x17c;e &#x17c;&#x105;da&#x107; zamiany przedmiotu zapisu na &#x15b;wiadczenie pieni&#x119;&#x17c;ne."/>
 </node>
-<node CREATED="1424604205233" ID="ID_1110903858" LINK="http://isap.sejm.gov.pl/DetailsServlet?id=WDU19820190147" MODIFIED="1452440649527" TEXT="ustawy o ksi&#x119;gach wieczystych i hipotece">
+<node CREATED="1424604205233" FOLDED="true" ID="ID_1110903858" LINK="http://isap.sejm.gov.pl/DetailsServlet?id=WDU19820190147" MODIFIED="1458253861588" TEXT="ustawy o ksi&#x119;gach wieczystych i hipotece">
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
 <node CREATED="1424702442899" ID="ID_1100562515" LINK="http://isap.sejm.gov.pl/Download?id=WDU19820190147&amp;type=2" MODIFIED="1448736044782" TEXT="1982">
@@ -1183,7 +1183,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1422749337474" ID="ID_1058089862" LINK="http://isap.sejm.gov.pl/DetailsServlet?id=WDU19920210086" MODIFIED="1449172739429" TEXT="o podatku dochodowym od os&#xf3;b prawnych">
+<node CREATED="1422749337474" ID="ID_1058089862" LINK="http://isap.sejm.gov.pl/DetailsServlet?id=WDU19920210086" MODIFIED="1458253870831" TEXT="o podatku dochodowym od os&#xf3;b prawnych">
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
 <node CREATED="1425158713568" FOLDED="true" ID="ID_1863932642" MODIFIED="1447377428935" TEXT="przed 2009">
@@ -3612,7 +3612,7 @@
 <node CREATED="1429560803488" ID="ID_1713230446" LINK="http://interpretacje-podatkowe.org/roznice-kursowe/pb-i-4117-i-5-mi-05" MODIFIED="1429560806600" TEXT="kaucja "/>
 </node>
 </node>
-<node CREATED="1422383715029" ID="ID_1585596402" MODIFIED="1453921809663" POSITION="right" TEXT="orzeczenia s&#x105;d&#xf3;w">
+<node CREATED="1422383715029" FOLDED="true" ID="ID_1585596402" MODIFIED="1458253853902" POSITION="right" TEXT="orzeczenia s&#x105;d&#xf3;w">
 <font NAME="SansSerif" SIZE="13"/>
 <node CREATED="1422383761074" ID="ID_1436161491" MODIFIED="1422383764518" TEXT="VI ACa 441/13"/>
 <node CREATED="1422759909445" FOLDED="true" ID="ID_963216369" MODIFIED="1447377429324" TEXT="III Ca 230/12">
@@ -4561,9 +4561,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1424222775776" FOLDED="true" ID="ID_1235846333" MODIFIED="1453921839012" TEXT="waloryzacja - kursy walut">
+<node CREATED="1424222775776" FOLDED="true" ID="ID_1235846333" MODIFIED="1457044718042" TEXT="waloryzacja - kursy walut">
 <node CREATED="1424222779034" ID="ID_1533263457" MODIFIED="1424222779034" TEXT="II CSK 31-12-1 copy"/>
-<node CREATED="1422383740228" FOLDED="true" ID="ID_551275610" MODIFIED="1447377429452" TEXT="AmC 1531/09">
+<node CREATED="1422383740228" ID="ID_551275610" MODIFIED="1455742571996" TEXT="AmC 1531/09">
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
@@ -4625,7 +4625,7 @@
 <node CREATED="1424787055334" ID="ID_356162321" MODIFIED="1424787056164" TEXT="14 grudnia 2010 r. S&#x105;d Ochrony Konkurencji i Konsument&#xf3;w w sprawie przeciwko Bankowi Millennium SA stwierdza, &#x17c;e niedozwolone s&#x105; klauzule, na mocy kt&#xf3;rych bank ma prawo jednostronnego ustalania kursu waluty, w stosunku do kt&#xf3;rej indeksowany jest kredyt. S&#x105;d podkre&#x15b;li&#x142;, &#x17c;e umowa musi okre&#x15b;la&#x107; obiektywne kryteria ustalania kursu waluty, a nie &#x2013; jak w badanych umowach kredytowych &#x2013; pozwala&#x107; bankowi na ustalanie kursu w spos&#xf3;b ca&#x142;kowicie dowolny. Podobny wyrok SOKiK wyda&#x142; te&#x17c; 26 stycznia 2011 r. w sprawie przeciwko mBankowi."/>
 <node CREATED="1424787181789" ID="ID_882447965" MODIFIED="1424787182619" TEXT="- &#x200b;30 kwietnia 2014 r. Trybuna&#x142; Sprawiedliwo&#x15b;ci UE stwierdzi&#x142; m.in., &#x17c;e w umowie kredytu indeksowanego wed&#x142;ug kursu waluty obcej kurs tej waluty s&#x142;u&#x17c;y jedynie do okre&#x15b;lenia wysoko&#x15b;ci raty kredytu. Bank nie &#x15b;wiadczy us&#x142;ugi wymiany waluty, a wi&#x119;c tzw. spreadowi walutowemu (r&#xf3;&#x17c;nicy pomi&#x119;dzy kursem sprzeda&#x17c;y i kursem kupna waluty), kt&#xf3;rego ci&#x119;&#x17c;ar musi ponie&#x15b;&#x107; kredytobiorca, nie odpowiada &#x17c;adne &#x15b;wiadczenie banku."/>
 <node CREATED="1425027336574" ID="ID_600667784" MODIFIED="1425027337675" TEXT="XVII Amc 2939/14"/>
-<node CREATED="1431550778124" FOLDED="true" ID="ID_1083852939" LINK="http://orzeczenia.ms.gov.pl/content/tabeli$0020kursowej/154500000000503_I_ACa_001195_2014_Uz_2015-03-25_001" MODIFIED="1447377429452" TEXT="I ACa 1195/14">
+<node CREATED="1431550778124" ID="ID_1083852939" LINK="http://orzeczenia.ms.gov.pl/content/tabeli$0020kursowej/154500000000503_I_ACa_001195_2014_Uz_2015-03-25_001" MODIFIED="1455742567680" TEXT="I ACa 1195/14">
 <node CREATED="1431550790573" ID="ID_726811067" MODIFIED="1431550796863" TEXT="regres przeliczony po kursie NBP"/>
 </node>
 </node>
@@ -4641,7 +4641,7 @@
 </node>
 <node CREATED="1424787224435" ID="ID_1717948634" MODIFIED="1424787225202" TEXT="- &#x200b;7 listopada 2014 r. S&#x105;d Okr&#x119;gowy w Szczecinie wskaza&#x142;, &#x17c;e kredytobiorca zawiera umow&#x119; kredytu, aby dosta&#x107; do dyspozycji na czas oznaczony okre&#x15b;lon&#x105; kwot&#x119; pieni&#x119;&#x17c;n&#x105; niezb&#x119;dn&#x105; mu do realizacji zamierzonego przedsi&#x119;wzi&#x119;cia, bank za&#x15b; udziela kredytu, aby opr&#xf3;cz zwrotu przekazanych &#x15b;rodk&#xf3;w otrzyma&#x107; korzy&#x15b;&#x107; w postaci oprocentowania i prowizji. Umowa kredytowa, do kt&#xf3;rej wprowadzono postanowienia dotycz&#x105;ce tzw. indeksacji w stosunku do kursu waluty obcej, nie staje si&#x119; przez to &#x201e;umow&#x105; o produkt strukturyzowany o wysokim stopniu skomplikowania&quot;."/>
 </node>
-<node CREATED="1429132152085" FOLDED="true" ID="ID_1725513525" MODIFIED="1453921815794" TEXT="waloryzacja w kr&#xf3;tkim okresie">
+<node CREATED="1429132152085" ID="ID_1725513525" MODIFIED="1457044720295" TEXT="waloryzacja w kr&#xf3;tkim okresie">
 <font NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
@@ -4687,7 +4687,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1443557217533" FOLDED="true" ID="ID_867141638" MODIFIED="1453921813738" TEXT="dwa waloryzatory">
+<node CREATED="1443557217533" ID="ID_867141638" MODIFIED="1455742547587" TEXT="dwa waloryzatory">
 <node CREATED="1443557071446" ID="ID_1484360550" LINK="http://orzeczenia.ms.gov.pl/content/$N/152500000000503_I_ACa_000570_2013_Uz_2013-11-19_001" MODIFIED="1450256716660" TEXT="I ACa 570/13">
 <node CREATED="1443557245459" ID="ID_1476950509" MODIFIED="1443557245998" TEXT="W realiach przedmiotowej sprawy zas&#x105;dzaj&#x105;c odsetki od nale&#x17c;nej powodowi kwoty odszkodowania, wbrew wywodom i zarzutom apelacji, S&#x105;d Okr&#x119;gowy nie zastosowa&#x142; w tej samej sprawie jednocze&#x15b;nie dw&#xf3;ch odr&#x119;bnych mechanizm&#xf3;w waloryzacyjnych i nie naruszy&#x142; tym samym art. 363 &#xa7;2 k.c. i art. 455 k.c"/>
 </node>
@@ -4840,12 +4840,12 @@
 <node CREATED="1442587093066" ID="ID_94452104" LINK="http://echopowiatu.pl/wiadomosci/z-bankiem-da-sie-wygrac/" MODIFIED="1442587117248" TEXT="rozmowa z powodem"/>
 </node>
 </node>
-<node CREATED="1443641516662" FOLDED="true" ID="ID_1331790584" MODIFIED="1447377429471" TEXT="brak danych kredytu - essentialia negotii">
-<node CREATED="1443641540097" FOLDED="true" ID="ID_651804019" MODIFIED="1447377429470" TEXT="III CZP 82/02">
+<node CREATED="1443641516662" ID="ID_1331790584" MODIFIED="1457635483259" TEXT="brak danych kredytu - essentialia negotii">
+<node CREATED="1443641540097" ID="ID_651804019" MODIFIED="1457635484999" TEXT="III CZP 82/02">
 <node CREATED="1443641546597" ID="ID_537010808" MODIFIED="1443641547075" TEXT="Je&#x17c;eli bowiem rzeczywi&#x15b;cie brakuj&#x105;ce essentialia negotii uzupe&#x142;ni&#x142; w umowie sam Bank, to sk&#x142;adaj&#x105;c swoje o&#x15b;wiadczenie woli powodowie nie obj&#x119;li nim tych istotnych postanowie&#x144; umowy i skoro nigdy nie wyrazili na nie zgody, istniej&#x105; powa&#x17c;ne w&#x105;tpliwo&#x15b;ci czy dosz&#x142;o do zawarcia umowy o kredyt."/>
 <node CREATED="1443641573991" ID="ID_1614638182" MODIFIED="1443641574498" TEXT="Z ustale&#x144; S&#x105;du wynika, &#x17c;e kwota po&#x17c;yczki, oprocentowanie oraz wysoko&#x15b;&#x107; prowizji nale&#x17c;nej Bankowi zosta&#x142;y wpisane p&#xf3;&#x17a;niej."/>
 </node>
-<node CREATED="1443641587775" FOLDED="true" ID="ID_171862112" MODIFIED="1447377429471" TEXT="II CSK 296/10">
+<node CREATED="1443641587775" ID="ID_171862112" MODIFIED="1457635509989" TEXT="II CSK 296/10">
 <node CREATED="1443641592123" ID="ID_1223880275" MODIFIED="1443641592649" TEXT="Nie  mo&#x17c;na przy tym akceptowa&#x107; sytuacji,  w  kt&#xf3;rej  najistotniejszy element  zobowi&#x105;zania,  jakim  jest  suma  wekslowa,  w  &#x17c;aden  spos&#xf3;b  nie  zosta&#x142;by okre&#x15b;lony,  czyli  pozostawiony  by&#x142;by  zupe&#x142;nej  swobodzie  czy  te&#x17c;  dowolno&#x15b;ci wierzyciela.  Takie  porozumienie  nale&#x17c;a&#x142;oby  traktowa&#x107;  jako  naruszaj&#x105;ce  art.  353(1) k.c.,  kt&#xf3;re  skutkuje  niewa&#x17c;no&#x15b;ci&#x105;  porozumienia  (art.  58  &#xa7;  1  k.c.)."/>
 </node>
 </node>
