@@ -60,7 +60,7 @@
 <node CREATED="1443116996388" ID="ID_689973106" LINK="http://www.gazetaprawna.pl/encyklopedia/prawo/hasla/336523,ekwiwalentnosc_swiadczen.html" MODIFIED="1443117003131" TEXT="To cecha zobowi&#x105;za&#x144; z um&#xf3;w wzajemnych, stanowi&#x105;cych odmian&#x119; um&#xf3;w dwustronnie zobowi&#x105;zuj&#x105;cych, czyli takich, w kt&#xf3;rych obowi&#x105;zek &#x15b;wiadczenia ci&#x105;&#x17c;y na obu stronach. W tego rodzaju umowach ka&#x17c;da ze stron jest d&#x142;u&#x17c;nikiem i wierzycielem drugiej, za&#x15b; &#x15b;wiadczenie ka&#x17c;dej stanowi r&#xf3;wnowa&#x17c;nik (ekwiwalent) tego, co sama otrzymuje. Ta r&#xf3;wnowaga w&#x142;a&#x15b;nie nazywa si&#x119; ekwiwalentno&#x15b;ci&#x105; &#x15b;wiadcze&#x144;."/>
 </node>
 </node>
-<node CREATED="1422383804007" ID="ID_1937078195" MODIFIED="1458253859481" POSITION="right" TEXT="przepisy prawne">
+<node CREATED="1422383804007" FOLDED="true" ID="ID_1937078195" MODIFIED="1460031034373" POSITION="right" TEXT="przepisy prawne">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1422812087806" ID="ID_708300358" LINK="isap.sejm.gov.pl/Download?id=WDU19970780483&amp;type=3" MODIFIED="1447702123259" TEXT="KONSTYTUCJA RZECZYPOSPOLITEJ POLSKIEJ">
 <node CREATED="1422812112751" ID="ID_1101953788" MODIFIED="1447702124830" TEXT="Art. 227.">
@@ -467,7 +467,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1422312624333" FOLDED="true" ID="ID_1919991283" MODIFIED="1457635470458" TEXT="Kodeks Cywilny">
+<node CREATED="1422312624333" FOLDED="true" ID="ID_1919991283" MODIFIED="1460031028665" TEXT="Kodeks Cywilny">
 <node CREATED="1422314195470" FOLDED="true" ID="ID_1069570596" MODIFIED="1447377428883" TEXT="Art. 5">
 <node CREATED="1422312985303" ID="ID_378664959" MODIFIED="1423184909905">
 <richcontent TYPE="NODE"><html>
@@ -660,7 +660,7 @@
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1271817161" ENDARROW="Default" ENDINCLINATION="1070;0;" ID="Arrow_ID_1034239363" SOURCE="ID_421762234" STARTARROW="None" STARTINCLINATION="1070;0;"/>
 </node>
 </node>
-<node CREATED="1423179957171" ID="ID_171502097" MODIFIED="1449164696563" TEXT="Art. 358">
+<node CREATED="1423179957171" FOLDED="true" ID="ID_171502097" MODIFIED="1460031027300" TEXT="Art. 358">
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
 <node CREATED="1423784174389" ID="ID_362735908" LINK="http://www.polskieustawy.com/onever.php?dzur=1964&amp;dzup=93&amp;head=0&amp;norm=358&amp;lang=48&amp;id_przepis=1141" MODIFIED="1449164726782" TEXT="przegl&#x105;d historyczny">
@@ -1183,7 +1183,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1422749337474" ID="ID_1058089862" LINK="http://isap.sejm.gov.pl/DetailsServlet?id=WDU19920210086" MODIFIED="1458253870831" TEXT="o podatku dochodowym od os&#xf3;b prawnych">
+<node CREATED="1422749337474" FOLDED="true" ID="ID_1058089862" LINK="http://isap.sejm.gov.pl/DetailsServlet?id=WDU19920210086" MODIFIED="1460031033088" TEXT="o podatku dochodowym od os&#xf3;b prawnych">
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
 <node CREATED="1425158713568" FOLDED="true" ID="ID_1863932642" MODIFIED="1447377428935" TEXT="przed 2009">
@@ -3612,7 +3612,7 @@
 <node CREATED="1429560803488" ID="ID_1713230446" LINK="http://interpretacje-podatkowe.org/roznice-kursowe/pb-i-4117-i-5-mi-05" MODIFIED="1429560806600" TEXT="kaucja "/>
 </node>
 </node>
-<node CREATED="1422383715029" FOLDED="true" ID="ID_1585596402" MODIFIED="1458253853902" POSITION="right" TEXT="orzeczenia s&#x105;d&#xf3;w">
+<node CREATED="1422383715029" ID="ID_1585596402" MODIFIED="1460031039322" POSITION="right" TEXT="orzeczenia s&#x105;d&#xf3;w">
 <font NAME="SansSerif" SIZE="13"/>
 <node CREATED="1422383761074" ID="ID_1436161491" MODIFIED="1422383764518" TEXT="VI ACa 441/13"/>
 <node CREATED="1422759909445" FOLDED="true" ID="ID_963216369" MODIFIED="1447377429324" TEXT="III Ca 230/12">
@@ -4641,7 +4641,7 @@
 </node>
 <node CREATED="1424787224435" ID="ID_1717948634" MODIFIED="1424787225202" TEXT="- &#x200b;7 listopada 2014 r. S&#x105;d Okr&#x119;gowy w Szczecinie wskaza&#x142;, &#x17c;e kredytobiorca zawiera umow&#x119; kredytu, aby dosta&#x107; do dyspozycji na czas oznaczony okre&#x15b;lon&#x105; kwot&#x119; pieni&#x119;&#x17c;n&#x105; niezb&#x119;dn&#x105; mu do realizacji zamierzonego przedsi&#x119;wzi&#x119;cia, bank za&#x15b; udziela kredytu, aby opr&#xf3;cz zwrotu przekazanych &#x15b;rodk&#xf3;w otrzyma&#x107; korzy&#x15b;&#x107; w postaci oprocentowania i prowizji. Umowa kredytowa, do kt&#xf3;rej wprowadzono postanowienia dotycz&#x105;ce tzw. indeksacji w stosunku do kursu waluty obcej, nie staje si&#x119; przez to &#x201e;umow&#x105; o produkt strukturyzowany o wysokim stopniu skomplikowania&quot;."/>
 </node>
-<node CREATED="1429132152085" ID="ID_1725513525" MODIFIED="1457044720295" TEXT="waloryzacja w kr&#xf3;tkim okresie">
+<node CREATED="1429132152085" FOLDED="true" ID="ID_1725513525" MODIFIED="1460031046004" TEXT="waloryzacja w kr&#xf3;tkim okresie">
 <font NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
@@ -4687,7 +4687,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1443557217533" ID="ID_867141638" MODIFIED="1455742547587" TEXT="dwa waloryzatory">
+<node CREATED="1443557217533" FOLDED="true" ID="ID_867141638" MODIFIED="1460031048921" TEXT="dwa waloryzatory">
 <node CREATED="1443557071446" ID="ID_1484360550" LINK="http://orzeczenia.ms.gov.pl/content/$N/152500000000503_I_ACa_000570_2013_Uz_2013-11-19_001" MODIFIED="1450256716660" TEXT="I ACa 570/13">
 <node CREATED="1443557245459" ID="ID_1476950509" MODIFIED="1443557245998" TEXT="W realiach przedmiotowej sprawy zas&#x105;dzaj&#x105;c odsetki od nale&#x17c;nej powodowi kwoty odszkodowania, wbrew wywodom i zarzutom apelacji, S&#x105;d Okr&#x119;gowy nie zastosowa&#x142; w tej samej sprawie jednocze&#x15b;nie dw&#xf3;ch odr&#x119;bnych mechanizm&#xf3;w waloryzacyjnych i nie naruszy&#x142; tym samym art. 363 &#xa7;2 k.c. i art. 455 k.c"/>
 </node>
@@ -4702,55 +4702,55 @@
 </node>
 </node>
 </node>
-<node CREATED="1424718958285" FOLDED="true" ID="ID_1158835385" MODIFIED="1447377429462" TEXT="zmiana oprocentowania">
-<node CREATED="1424718939479" FOLDED="true" ID="ID_1535979847" LINK="http://orzeczenia.ms.gov.pl/content/$N/152510000001503_III_Ca_001673_2013_Uz_2014-05-26_001" MODIFIED="1447377429459" TEXT="III Ca 1673/13">
-<node CREATED="1432561042473" FOLDED="true" ID="ID_1766070319" MODIFIED="1447377429459" TEXT="prejudykat">
+<node CREATED="1424718958285" FOLDED="true" ID="ID_1158835385" MODIFIED="1460031043075" TEXT="zmiana oprocentowania">
+<node CREATED="1424718939479" ID="ID_1535979847" LINK="http://orzeczenia.ms.gov.pl/content/$N/152510000001503_III_Ca_001673_2013_Uz_2014-05-26_001" MODIFIED="1458849753279" TEXT="III Ca 1673/13">
+<node CREATED="1432561042473" ID="ID_1766070319" MODIFIED="1458849899656" TEXT="prejudykat">
 <node CREATED="1432561051625" ID="ID_1912381506" MODIFIED="1432561052419" TEXT="Jak si&#x119; wydaje umkn&#x119;&#x142;o uwadze skar&#x17c;&#x105;cego, i&#x17c; w tej kwestii zasadnicze znaczenie ma prejudykat wynikaj&#x105;cy z wyroku z 3 lutego 2012 roku w sprawie III Ca 1207/11."/>
 </node>
 <node CREATED="1432561064273" ID="ID_428254342" MODIFIED="1432561064931" TEXT="Rozpoznaj&#x105;c apelacj&#x119; od wyroku I instancji, S&#x105;d Okr&#x119;gowy w &#x141;odzi ustali&#x142;, &#x17c;e &#xa7; 10 ust. 2 umowy kredytowej zawartej przez strony niniejszego post&#x119;powania nie wi&#x105;&#x17c;e powod&#xf3;w. Uzasadniaj&#x105;c swoje stanowisko, S&#x105;d Okr&#x119;gowy w &#x141;odzi przyj&#x105;&#x142;, &#x17c;e ta umowna klauzula stanowi niedozwolone postanowienie umowne. Przedmiotowy zapis dotyczy&#x142; zmiany wysoko&#x15b;ci oprocentowania kredytu i przewidywa&#x142;, &#x17c;e mo&#x17c;e ona nast&#x105;pi&#x107; w przypadku zmiany stopy referencyjnej okre&#x15b;lonej dla danej waluty oraz zmiany parametr&#xf3;w finansowych rynku pieni&#x119;&#x17c;nego i kapita&#x142;owego w kraju (lub kraj&#xf3;w zrzeszonych w Unii Europejskiej), kt&#xf3;rego waluta jest podstaw&#x105; waloryzacji. "/>
 <node CREATED="1432561094329" ID="ID_1512360086" MODIFIED="1432561094899" TEXT="Zaznaczy&#x107; w tym miejscu nale&#x17c;y, &#x17c;e by&#x142; to jedyny zapis umowny odnosz&#x105;cy si&#x119; do zmiany oprocentowania kredytu. Realne znaczenie tego prejudykatu sprowadza si&#x119; do ustalenia, &#x17c;e jakkolwiek strony umowy kredytowej ustali&#x142;y oprocentowanie kredytu wed&#x142;ug zmiennej stopy procentowej, to uznanie &#xa7; 10 ust. 2 umowy kredytowej za klauzul&#x119; abuzywn&#x105; powoduje ten skutek, &#x17c;e brak jest w umowie stron jakichkolwiek podstaw do ustalenie zmiany oprocentowania kredytu. Pozwany nie mo&#x17c;e zatem pobiera&#x107; od powod&#xf3;w odsetek ustalanych w oparciu o ten przepis. Zgodnie z niekwestionowanymi ustaleniami S&#x105;du orzekaj&#x105;cego pozwany przyzna&#x142; stosowanie w tym zakresie w dalszym ci&#x105;gu &#xa7; 10 ust. 2 umowy tak&#x17c;e co do rat wymagalnych po og&#x142;oszeniu wyroku S&#x105;du Okr&#x119;gowego w &#x141;odzi z 3 lutego 2012 roku, za&#x15b; r&#xf3;&#x17c;nica mi&#x119;dzy rzeczywi&#x15b;cie pobranymi przez Bank z rachunku powod&#xf3;w odsetkami a tymi, jakie nale&#x17c;a&#x142;oby pobra&#x107; przy przyj&#x119;ciu, &#x17c;e oprocentowanie kredytu wynosi 2,35 %, w okresie od 31 marca 2010 roku do 31 maja 2012 roku, wynosi 5.676,55 z&#x142;. W konsekwencji powy&#x17c;szych ustale&#x144; przyj&#x105;&#x107; zatem nale&#x17c;y, &#x17c;e pobieranie przez pozwanego od powod&#xf3;w rat kredytowych oprocentowanych wy&#x17c;sz&#x105; stop&#x105; ni&#x17c; 2,35% jako nie znajduj&#x105;ce umocowania umownego jest &#x15b;wiadczeniem nienale&#x17c;nym."/>
 </node>
-<node CREATED="1424787071575" ID="ID_1229415298" MODIFIED="1424787072156" TEXT="- &#x200b;24 lipca 2012 r. S&#x105;d Ochrony Konkurencji i Konsument&#xf3;w w sprawie przeciwko Eurobankowi orzek&#x142;, i&#x17c; bank nie mo&#x17c;e zastrzega&#x107; w umowach kredytowych mo&#x17c;liwo&#x15b;ci zmiany oprocentowania na podstawie nieprecyzyjnych parametr&#xf3;w rynku finansowego i kapita&#x142;owego."/>
-<node CREATED="1428015877665" FOLDED="true" ID="ID_376619862" LINK="http://www.lexlege.pl/orzeczenie/12841/ii-ckn-933-99-wyrok-sadu-najwyzszego-izba-cywilna/" MODIFIED="1447377429459" TEXT="II CKN 933/99">
+<node CREATED="1428015877665" ID="ID_376619862" LINK="http://www.lexlege.pl/orzeczenie/12841/ii-ckn-933-99-wyrok-sadu-najwyzszego-izba-cywilna/" MODIFIED="1458849979859" TEXT="II CKN 933/99">
 <node CREATED="1428016144793" ID="ID_841394113" MODIFIED="1428016188139" TEXT="Kontrahent banku, jakkolwiek musi si&#x119; liczy&#x107; z tym, &#x17c;e oprocentowanie jego lokaty mo&#x17c;e ulec zmianie, to jednak nie mo&#x17c;e on by&#x107; pozbawiony mo&#x17c;liwo&#x15b;ci kontrolowania zasadno&#x15b;ci tych zmian.">
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
 </node>
 </node>
-<node CREATED="1430064327052" FOLDED="true" ID="ID_890218950" LINK="http://www.lexlege.pl/orzeczenie/5571/iii-czp-50-92-uchwala-sadu-najwyzszego-izba-cywilna/" MODIFIED="1447377429460" TEXT="III CZP 50/92">
+<node CREATED="1430064327052" ID="ID_890218950" LINK="http://www.lexlege.pl/orzeczenie/5571/iii-czp-50-92-uchwala-sadu-najwyzszego-izba-cywilna/" MODIFIED="1458849981518" TEXT="III CZP 50/92">
 <node CREATED="1430064331618" ID="ID_1843525398" MODIFIED="1430064332150" TEXT="Postanowienie umowy kredytu bankowego, w kt&#xf3;rym przyj&#x119;to, &#x17c;e kredytodawca jest uprawniony do zmiany stawek oprocentowania jest bezskuteczne, je&#x17c;eli w umowie nie okre&#x15b;lono jednocze&#x15b;nie konkretnych okoliczno&#x15b;ci, od jakich zmiana ta jest uzale&#x17c;niona."/>
 <node CREATED="1428016238518" ID="ID_1110119618" LINK="http://wygralem-z-mbankiem.pl/wp-content/uploads/2012/10/zawezwanie-do-ugody.pdf" MODIFIED="1428016244562" TEXT="zawezwanie do ugody"/>
 <node CREATED="1430069446654" ID="ID_9522227" MODIFIED="1430069446654" TEXT="uchwa&#x142;a SN z 19 maja 1992r., III CZP 50/92, OSP 1993, nr 6, s. 119,"/>
 </node>
-<node CREATED="1430069236527" FOLDED="true" ID="ID_1572825447" MODIFIED="1447377429460" TEXT="mPlan 9&apos;2006">
-<node CREATED="1430069247333" FOLDED="true" ID="ID_1265102092" MODIFIED="1447377429460" TEXT="&#xa7;10.  OPROCENTOWANIE KREDYTU">
+<node CREATED="1430069236527" ID="ID_1572825447" MODIFIED="1458849982967" TEXT="mPlan 9&apos;2006">
+<node CREATED="1430069247333" ID="ID_1265102092" MODIFIED="1458849989171" TEXT="&#xa7;10.  OPROCENTOWANIE KREDYTU">
 <node CREATED="1430069253807" ID="ID_1744388570" MODIFIED="1430069254625" TEXT="2. Zmiana wysoko&#x15b;ci oprocentowania Kredytu mo&#x17c;e nast&#x105;pi&#x107; w przypadku zmiany stopy referencyjnej okre&#x15b;lonej dla danej waluty oraz zmiany parametr&#xf3;w finansowych rynku pieni&#x119;&#x17c;nego i kapita&#x142;owego w kraju (lub kraj&#xf3;w zrzeszonych w Unii Europejskiej), kt&#xf3;rego waluta jest podstaw&#x105; waloryzacji."/>
 </node>
 </node>
 <node CREATED="1430069446655" ID="ID_746347612" MODIFIED="1430069446655" TEXT="uchwa&#x142;a SN z 6 marca 1991r., III CZP 141/91, OSNC 1992, nr 6"/>
-<node CREATED="1430069446656" FOLDED="true" ID="ID_1434272976" MODIFIED="1447377429461" TEXT="wyrok SN z 5 kwietnia 2002r., IICKN 933/99">
+<node CREATED="1430069446656" ID="ID_1434272976" MODIFIED="1458849987306" TEXT="wyrok SN z 5 kwietnia 2002r., IICKN 933/99">
 <node CREATED="1430493543077" ID="ID_884654235" MODIFIED="1430493543815" TEXT="Wed&#x142;ug stanowiska S&#x105;du Okr&#x119;gowego, wprawdzie dopuszczalne jest stosowanie przez banki zmiennych st&#xf3;p procentowych, ale nie mo&#x17c;e to mie&#x107; miejsca w trakcie obowi&#x105;zywania umowy, chyba &#x17c;e regulamin bankowy orientuje nie tylko o zmienno&#x15b;ci st&#xf3;p procentowych, ale okre&#x15b;la tak&#x17c;e konkretne przes&#x142;anki tej zmienno&#x15b;ci. Takiemu wymaganiu nie odpowiada regulamin pozwanego banku, kt&#xf3;ry ogranicza si&#x119; jedynie do stwierdzenia, &#x17c;e wk&#x142;ady oszcz&#x119;dno&#x15b;ciowe podlegaj&#x105; oprocentowaniu wed&#x142;ug zmiennej stopy procentowej."/>
 </node>
 <node CREATED="1430069446657" ID="ID_1490741610" MODIFIED="1430069446657" TEXT="orzeczenie TK z 15 grudnia 1992r. w sprawie K 6/92, OTK 1992, nr 2, poz. 27"/>
-<node CREATED="1430085522985" FOLDED="true" ID="ID_1514387251" LINK="http://www.gofin.pl/17,2,136,102745,niedozwolone-zmiany-oprocentowania-kredytow.html" MODIFIED="1447377429461" TEXT="opis - artyku&#x142;">
+<node CREATED="1430085522985" ID="ID_1514387251" LINK="http://www.gofin.pl/17,2,136,102745,niedozwolone-zmiany-oprocentowania-kredytow.html" MODIFIED="1458849984813" TEXT="opis - artyku&#x142;">
 <node CREATED="1430167677437" ID="ID_1579800891" MODIFIED="1430167677991" TEXT="O niedozwolonym charakterze tego typu klauzuli przes&#x105;dza fakt, i&#x17c; bank zastrzega sobie jedynie mo&#x17c;liwo&#x15b;&#x107; zmiany oprocentowania. Stwierdzi&#x142; tak S&#x105;d Najwy&#x17c;szy w postanowieniu z dnia 21 grudnia 2011 r. (sygn. akt I CSK 310/11)"/>
 <node CREATED="1430167688917" ID="ID_829503482" MODIFIED="1430167689320" TEXT="Umowa kredytu powinna okre&#x15b;la&#x107; w szczeg&#xf3;lno&#x15b;ci wysoko&#x15b;&#x107; oprocentowania kredytu i warunki jego zmiany. Przy czym w razie stosowania zmiennej stopy oprocentowania nale&#x17c;y okre&#x15b;li&#x107; w umowie warunki jej zmiany. Wynika tak z art. 69 ust. 2 pkt 5 i art. 76 ustawy Prawo bankowe."/>
 <node CREATED="1430167700900" ID="ID_399019379" MODIFIED="1430167701343" TEXT="W przypadku kredyt&#xf3;w gospodarczych tego rodzaju postanowienia by&#x142;yby sprzeczne z natur&#x105; umowy gospodarczej i zasad&#x105; s&#x142;uszno&#x15b;ci kontraktowej (por. uchwa&#x142;a sk&#x142;adu 7 s&#x119;dzi&#xf3;w S&#x105;du Najwy&#x17c;szego z dnia 22 maja 1991 r., sygn. akt III CZP 15/91)."/>
 <node CREATED="1430167709212" ID="ID_886265148" MODIFIED="1430167709743" TEXT="Podobnie S&#x105;d Najwy&#x17c;szy wypowiedzia&#x142; si&#x119; w uchwale sk&#x142;adu 7 s&#x119;dzi&#xf3;w z dnia 6 marca 1992 r. (sygn. akt III CZP 114/91). Stwierdzi&#x142;, &#x17c;e zasady s&#x142;uszno&#x15b;ci, w tym przede wszystkim zasada r&#xf3;wno&#x15b;ci stron stosunku obligacyjnego, wymagaj&#x105;, aby regulaminy i umowy bankowe wskazywa&#x142;y konkretne okoliczno&#x15b;ci, przy zaistnieniu kt&#xf3;rych wysoko&#x15b;&#x107; oprocentowania mo&#x17c;e by&#x107; zmieniona, co r&#xf3;wnie&#x17c; umo&#x17c;liwi weryfikacj&#x119; tych zmian przez kredytobiorc&#x119;."/>
+<node CREATED="1424787071575" ID="ID_1229415298" MODIFIED="1424787072156" TEXT="- &#x200b;24 lipca 2012 r. S&#x105;d Ochrony Konkurencji i Konsument&#xf3;w w sprawie przeciwko Eurobankowi orzek&#x142;, i&#x17c; bank nie mo&#x17c;e zastrzega&#x107; w umowach kredytowych mo&#x17c;liwo&#x15b;ci zmiany oprocentowania na podstawie nieprecyzyjnych parametr&#xf3;w rynku finansowego i kapita&#x142;owego."/>
 </node>
-<node CREATED="1430567430045" FOLDED="true" ID="ID_775064811" MODIFIED="1447377429461" TEXT="Sygn. aktIACa 1209/13 Sygn. akt lACz 1424/13">
+<node CREATED="1430567430045" ID="ID_775064811" MODIFIED="1458850069678" TEXT="Sygn. aktIACa 1209/13 Sygn. akt lACz 1424/13">
 <node CREATED="1430567542034" ID="ID_55194858" MODIFIED="1430567547036" TEXT="odsetki od udzielonego kredytu bankowego s&#x105; elementem sk&#x142;adowym &#x15b;wiadczenia g&#x142;&#xf3;wnego stron umowy kredytu, stanowi&#x105; bowiem, z jednej strony cen&#x119; p&#x142;acon&#x105; przez kredytobiorc&#x119; za korzystanie z oddanych mu do dyspozycji &#x15b;rodk&#xf3;w finansowych banku, z drugiej za&#x15b; strony wynagrodzenie pobierane przez bank za udost&#x119;pnienie kredytobiorcy tych &#x15b;rodk&#xf3;w ">
 <icon BUILTIN="clanbomber"/>
 </node>
 <node CREATED="1430567550682" ID="ID_901792473" MODIFIED="1430567553013" TEXT="wygrane!"/>
 <node CREATED="1430567764927" ID="ID_1018035011" MODIFIED="1430567765945" TEXT="Udzielaj&#x105;c kredyt&#xf3;w obliczonych na sp&#x142;at&#x119; w bardzo d&#x142;ugim czasie, to na banku ci&#x105;&#x17c;y obowi&#x105;zek zadbania o to, by przygotowa&#x107; jednoznaczny i weryfikowalny mechanizm ustalania odsetek, z uwzgl&#x119;dnieniem mo&#x17c;liwych zawirowa&#x144; na rynkach finansowych, kt&#xf3;re jak wynika z dorobku nauk ekonomicznych maj&#x105; charakter powtarzalny, a wi&#x119;c nale&#x17c;a&#x142;o si&#x119; liczy&#x107; z tym, &#x17c;e zawirowania takie w tak d&#x142;ugich okresach wyst&#x105;pi&#x105;."/>
 </node>
-<node CREATED="1442580409393" FOLDED="true" ID="ID_1083633603" LINK="http://orzeczenia.ms.gov.pl/content/$N/152510000001503_III_Ca_000155_2015_Uz_2015-05-19_001" MODIFIED="1447377429462" TEXT="III Ca 155/15">
+<node CREATED="1442580409393" ID="ID_1083633603" LINK="http://orzeczenia.ms.gov.pl/content/$N/152510000001503_III_Ca_000155_2015_Uz_2015-05-19_001" MODIFIED="1458849992942" TEXT="III Ca 155/15">
 <node CREATED="1442580425344" ID="ID_988496479" MODIFIED="1442580427435" TEXT="wygrany"/>
 </node>
 </node>
-<node CREATED="1424787126022" FOLDED="true" ID="ID_312921467" MODIFIED="1447377429463" TEXT="zmiana oprocentowania - zwrot">
+<node CREATED="1424787126022" FOLDED="true" ID="ID_312921467" MODIFIED="1460031047263" TEXT="zmiana oprocentowania - zwrot">
 <node CREATED="1424787117453" ID="ID_293902441" MODIFIED="1424787118252" TEXT="- &#x200b;5 pa&#x17a;dziernika 2012 r. S&#x105;d Rejonowy w &#x141;odzi nakaza&#x142; BRE Bankowi zap&#x142;at&#x119; na rzecz trzech klient&#xf3;w kwoty odpowiadaj&#x105;cej r&#xf3;&#x17c;nicy mi&#x119;dzy ratami nale&#x17c;nymi wed&#x142;ug oprocentowania obowi&#x105;zuj&#x105;cego w dniu podpisania umowy a pobranymi faktycznie przez bank wed&#x142;ug stawki podwy&#x17c;szonej decyzjami zarz&#x105;du."/>
 <node CREATED="1424787167117" ID="ID_7752619" MODIFIED="1424787167787" TEXT="- &#x200b;30 kwietnia 2014 r. S&#x105;d Apelacyjny w &#x141;odzi w sprawie przeciwko mBankowi uzna&#x142;, &#x17c;e kwoty nies&#x142;usznie pobranych przez bank na podstawie niedozwolonej klauzuli odsetek podlegaj&#x105; zwrotowi na rzecz kredytobiorc&#xf3;w na podstawie przepis&#xf3;w o bezpodstawnym wzbogaceniu. "/>
 </node>
@@ -4840,7 +4840,7 @@
 <node CREATED="1442587093066" ID="ID_94452104" LINK="http://echopowiatu.pl/wiadomosci/z-bankiem-da-sie-wygrac/" MODIFIED="1442587117248" TEXT="rozmowa z powodem"/>
 </node>
 </node>
-<node CREATED="1443641516662" ID="ID_1331790584" MODIFIED="1457635483259" TEXT="brak danych kredytu - essentialia negotii">
+<node CREATED="1443641516662" FOLDED="true" ID="ID_1331790584" MODIFIED="1458849725075" TEXT="brak danych kredytu - essentialia negotii">
 <node CREATED="1443641540097" ID="ID_651804019" MODIFIED="1457635484999" TEXT="III CZP 82/02">
 <node CREATED="1443641546597" ID="ID_537010808" MODIFIED="1443641547075" TEXT="Je&#x17c;eli bowiem rzeczywi&#x15b;cie brakuj&#x105;ce essentialia negotii uzupe&#x142;ni&#x142; w umowie sam Bank, to sk&#x142;adaj&#x105;c swoje o&#x15b;wiadczenie woli powodowie nie obj&#x119;li nim tych istotnych postanowie&#x144; umowy i skoro nigdy nie wyrazili na nie zgody, istniej&#x105; powa&#x17c;ne w&#x105;tpliwo&#x15b;ci czy dosz&#x142;o do zawarcia umowy o kredyt."/>
 <node CREATED="1443641573991" ID="ID_1614638182" MODIFIED="1443641574498" TEXT="Z ustale&#x144; S&#x105;du wynika, &#x17c;e kwota po&#x17c;yczki, oprocentowanie oraz wysoko&#x15b;&#x107; prowizji nale&#x17c;nej Bankowi zosta&#x142;y wpisane p&#xf3;&#x17a;niej."/>
@@ -4989,7 +4989,7 @@
 <node CREATED="1444499220922" ID="ID_1795548224" MODIFIED="1444499221638" TEXT="Apelacj&#x119; pozwanej uwzgl&#x119;dni&#x142; S&#x105;d drugiej instancji, kt&#xf3;ry wyrokiem reformatoryjnym oddali&#x142; pow&#xf3;dztwo i orzek&#x142; o kosztach post&#x119;powania apelacyjnego. W ocenie S&#x105;du Apelacyjnego, kontrakt ustala&#x142; zar&#xf3;wno warto&#x15b;&#x107; transakcji jak i p&#x142;atno&#x15b;&#x107; za towar w walucie obcej w sytuacji braku zezwolenia dewizowego, co skutkowa&#x142;o naruszeniem zasady walutowo&#x15b;ci wyra&#x17c;onej w art. 358 &#xa7; 1 KC, a w konsekwencji niewa&#x17c;no&#x15b;ci&#x105; umowy z mocy art. 58 &#xa7; 1 KC.   "/>
 </node>
 </node>
-<node CREATED="1444492981594" ID="ID_163997042" MODIFIED="1453922337916" TEXT="hipoteka">
+<node CREATED="1444492981594" FOLDED="true" ID="ID_163997042" MODIFIED="1458849731043" TEXT="hipoteka">
 <node CREATED="1444492934660" ID="ID_66194468" MODIFIED="1448742229418" TEXT="IV CSK 113-06">
 <node CREATED="1444492947611" ID="ID_964577010" MODIFIED="1444492948110" TEXT="Podkre&#x15b;li&#x142;, &#x17c;e zapis o konieczno&#x15b;ci wyra&#x17c;enia hipoteki w innym pieni&#x105;dzu ni&#x17c; polski, gdy wierzytelno&#x15b;&#x107; zosta&#x142;a wyra&#x17c;ona w obcej walucie, wprowadzi&#x142; do systemu prawnego art. 1 pkt. 18 ustawy z dnia 11 maja 2001 r. o zmianie ustawy o ksi&#x119;gach wieczystych i hipotece"/>
 </node>
@@ -4997,6 +4997,15 @@
 </node>
 <node CREATED="1444492212050" ID="ID_1048811980" LINK="#ID_774580903" MODIFIED="1444492242236" TEXT="prawo dewizowe 1989">
 <arrowlink DESTINATION="ID_774580903" ENDARROW="Default" ENDINCLINATION="134;0;" ID="Arrow_ID_266030641" STARTARROW="None" STARTINCLINATION="134;0;"/>
+</node>
+<node CREATED="1460031084835" ID="ID_982237246" MODIFIED="1460031090319" TEXT="prawo dewizowe 2002">
+<node CREATED="1460031095644" FOLDED="true" ID="ID_342298652" MODIFIED="1460031164127" TEXT="I CSK 427/09">
+<node CREATED="1460031120371" ID="ID_1700545418" MODIFIED="1460031121189" TEXT="3. Zarzut naruszenia przepisu art. 358 &#xa7; 1 k.p.c. nie mo&#x17c;e by&#x107; brany pod uwag&#x119; w post&#x119;powaniu kasacyjnym z nast&#x119;puj&#x105;cych powod&#xf3;w.">
+<node CREATED="1460031127337" ID="ID_1125913759" MODIFIED="1460031128124" TEXT="Po pierwsze, eksponowanie niewa&#x17c;no&#x15b;ci umowy obligacyjnej naruszaj&#x105;cej zasad&#x119; walutowo&#x15b;ci wymaga jednak wskazania odpowiedniego przepisu prawa dewizowego, poniewa&#x17c; w art. 358 &#xa7; 1 dopuszczono (tak&#x17c;e w okresie zawarcia umowy z dnia 24 wrze&#x15b;nia 1993 r.) szeroki zasi&#x119;g wyj&#x105;tk&#xf3;w od sformu&#x142;owanej w nim regu&#x142;y"/>
+<node CREATED="1460031135922" ID="ID_588794457" MODIFIED="1460031136541" TEXT="Po drugie, nawet gdyby uzna&#x107;, &#x17c;e powo&#x142;anie nie w cz&#x119;&#x15b;ci wst&#x119;pnej skargi, ale dopiero w jej cz&#x119;&#x15b;ci motywacyjnej zarzutu naruszenia &#x201e;art. 9 pkt 15 prawa dewizowego&#x201d; spe&#x142;nia wym&#xf3;g prawid&#x142;owego konstruowania pierwszej podstawy kasacyjnej (art. 3983 &#xa7; 1 pkt 1 k.p.c., art. 3984 &#xa7; 1 pkt 2 k.p.c.), to nale&#x17c;y stwierdzi&#x107;, i&#x17c; strona skar&#x17c;&#x105;ca nie wskazuje w og&#xf3;le okresu obowi&#x105;zywania wskazanego przepisu prawa dewizowego."/>
+<node CREATED="1460031145834" ID="ID_1049429093" MODIFIED="1460031146484" TEXT="Po trzecie, skar&#x17c;&#x105;cy nie podejmuje w og&#xf3;le polemiki ze stanowiskiem S&#x105;du dotycz&#x105;cym interpretacji art. 12 prawa dewizowego z 1989 r"/>
+</node>
+</node>
 </node>
 <node CREATED="1444496721593" FOLDED="true" ID="ID_1915767384" MODIFIED="1450256710866" TEXT="waloryzacja - miernik warto&#x15b;ci">
 <icon BUILTIN="clanbomber"/>
@@ -5048,7 +5057,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1450269318239" ID="ID_1222330991" MODIFIED="1450269321455" TEXT="Waloryzacja">
+<node CREATED="1450269318239" FOLDED="true" ID="ID_1222330991" MODIFIED="1460031054421" TEXT="Waloryzacja">
 <node CREATED="1450269323596" ID="ID_417497366" MODIFIED="1450269379708" TEXT="I C 554/14">
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
@@ -5056,7 +5065,7 @@
 </node>
 <node CREATED="1450269337100" ID="ID_421073728" MODIFIED="1450269337100" TEXT=""/>
 </node>
-<node CREATED="1453921840886" ID="ID_826686122" MODIFIED="1453921843657" TEXT="Indeksacja">
+<node CREATED="1453921840886" FOLDED="true" ID="ID_826686122" MODIFIED="1460031055985" TEXT="Indeksacja">
 <node CREATED="1453921844705" ID="ID_1448830672" MODIFIED="1453921848945" TEXT="I C 1255/14">
 <icon BUILTIN="smily_bad"/>
 <icon BUILTIN="smily_bad"/>
@@ -5816,7 +5825,7 @@
 <node CREATED="1425236240678" ID="ID_239376392" LINK="http://www.nbp.pl/publikacje/rynek_nieruchomosci/ceny_mieszkan_12_2013.pdf" MODIFIED="1425236246313" TEXT="raport NBP 2013"/>
 </node>
 </node>
-<node CREATED="1422775395645" FOLDED="true" ID="ID_1093364433" MODIFIED="1447377429551" POSITION="left" TEXT="publiczne wprowadzanie w b&#x142;&#x105;d">
+<node CREATED="1422775395645" ID="ID_1093364433" MODIFIED="1459603537584" POSITION="left" TEXT="publiczne wprowadzanie w b&#x142;&#x105;d">
 <node CREATED="1422775406712" FOLDED="true" ID="ID_155356356" LINK="#ID_954031769" MODIFIED="1447377429547" TEXT="PRZEWALUTOWANIE by KNF">
 <node CREATED="1422775454706" ID="ID_1960535001" MODIFIED="1422775469958" TEXT="ani s&#x142;owa o indeksowanych/waloryzowanych"/>
 <node CREATED="1422775472104" ID="ID_154709239" MODIFIED="1422775480418" TEXT="traktuje kredyty jako denominowane"/>
@@ -5831,7 +5840,7 @@
 <node CREATED="1423514279465" ID="ID_523558086" MODIFIED="1423514279465" TEXT="POLSKA Gazeta Wroc&#x142;awska"/>
 </node>
 <node CREATED="1424306128430" ID="ID_391487431" LINK="http://wyborcza.biz/biznes/1,143333,17354786,Jak_bezbolesnie_zamienic_franki_na_zlote__Szczegoly.html#TRrelSST" MODIFIED="1424306137702" TEXT="Jacek Osi&#x144;ski, dyrektor departamentu stabilno&#x15b;ci finansowej NBP (..) Precyzuje, &#x17c;e raty kredyt&#xf3;w frankowych zaci&#x105;gni&#x119;tych w latach 2006-07 s&#x105; dzisiaj nadal ni&#x17c;sze ni&#x17c; na starcie, ale raty kredyt&#xf3;w udzielonych w 2008 r. wzros&#x142;y."/>
-<node CREATED="1425147796259" FOLDED="true" ID="ID_1097291166" MODIFIED="1447377429551" TEXT="piechoci&#x144;ski &quot;kredyty dewizowe&quot;">
+<node CREATED="1425147796259" FOLDED="true" ID="ID_1097291166" MODIFIED="1459603544112" TEXT="piechoci&#x144;ski &quot;kredyty dewizowe&quot;">
 <node CREATED="1425147808761" ID="ID_1684420936" LINK="http://www.polskieradio.pl/42/276/Artykul/1276279" MODIFIED="1425147808761" TEXT="polskieradio.pl &gt; 42 &gt; 276 &gt; Artykul &gt; 1276279,Kredyty-we-frankach-ze-wsparciem-rzadu-Janusz-Piechocinski-ma-pomysly-jak-pomoc-frankowiczom"/>
 <node CREATED="1425147821720" FOLDED="true" ID="ID_829023730" LINK="http://vod.tvp.pl/audycje/publicystyka/jan-pospieszalski-blizej/wideo/26022015-2230/18753339" MODIFIED="1447377429549" TEXT="vod.tvp.pl &gt; Audycje &gt; Publicystyka &gt; Jan-pospieszalski-blizej &gt; Wideo &gt; 26022015-2230 &gt; 18753339">
 <node CREATED="1425147826170" ID="ID_162799199" MODIFIED="1425147828556" TEXT="17:30"/>
@@ -6012,15 +6021,15 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1424382048573" FOLDED="true" ID="ID_288737344" MODIFIED="1447377429560" TEXT="kredyt po polskiu">
+<node CREATED="1424382048573" ID="ID_288737344" MODIFIED="1459240863922" TEXT="kredyt po polskiu">
 <node CREATED="1424382052311" ID="ID_628521710" MODIFIED="1424382052311" TEXT="Z kolei przy kredycie denominowanym (w zale&#x17c;no&#x15b;ci od nomenklatury stosowanej w r&#xf3;&#x17c;nych bankach bywa on tak&#x17c;e nazywany walutowym, indeksowanym) kredyt udzielany jest w walucie krajowej, ale w dniu podpisania umowy jego warto&#x15b;&#x107; jest przeliczana na walut&#x119; obc&#x105; wed&#x142;ug bie&#x17c;&#x105;cego kursu&quot;."/>
 </node>
-<node CREATED="1429482841991" FOLDED="true" ID="ID_1704603939" LINK="http://www.actuaries.org/AFIR/Colloquia/Brighton/Melinsky.pdf" MODIFIED="1451593963374" TEXT="Argentyna - readit! - analysis">
+<node CREATED="1429482841991" FOLDED="true" ID="ID_1704603939" LINK="http://www.actuaries.org/AFIR/Colloquia/Brighton/Melinsky.pdf" MODIFIED="1459240787268" TEXT="Argentyna - readit! - analysis">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="clanbomber"/>
 <node CREATED="1429482884814" ID="ID_1408382673" MODIFIED="1429482885697" TEXT="A.-to use the same described systems with floating rates of interest. B.-to employ financial index clauses to the traditional repayment systems. C.-to defer interest payments, that is to say that each periodical payment includes only a portion of the interest of the current period, adding the remaining portion of interest to the principal."/>
 </node>
-<node CREATED="1441539381206" FOLDED="true" ID="ID_326940714" MODIFIED="1447377429561" TEXT="UW">
+<node CREATED="1441539381206" ID="ID_326940714" MODIFIED="1459240854511" TEXT="UW">
 <node CREATED="1441539384167" ID="ID_1822769760" LINK="http://coin.wne.uw.edu.pl/ggrotkowska/makro1_wne/makro1_14_www.pdf" MODIFIED="1441539416359" TEXT="indeksacja wynagrodze&#x144;"/>
 </node>
 <node CREATED="1441539465066" ID="ID_610674940" LINK="http://rszarf.ips.uw.edu.pl/pdf/Atkinson.pdf" MODIFIED="1441539473298" TEXT="inflacj&#x119; (zauwa&#x17c;aj&#x105;c mo&#x17c;liwo&#x15b;ci zabezpieczania si&#x119; przed t&#x105; ostatni&#x105; przez indeksacj&#x119; "/>
@@ -7499,13 +7508,13 @@
 <node CREATED="1428158771957" ID="ID_236919846" LINK="http://wiadomosci.onet.pl/kraj/nbp-nie-przejmie-od-bankow-ryzyka-walutowego-zw-z-kredytami-w-chf/ybz33e" MODIFIED="1428158787333" TEXT="przewalutowanie wymaga u&#x17c;ycia rezerw NBP"/>
 </node>
 </node>
-<node CREATED="1422765024608" FOLDED="true" ID="ID_793860787" MODIFIED="1447377429742" POSITION="left" TEXT="casus">
-<node CREATED="1422765027716" FOLDED="true" ID="ID_253056900" MODIFIED="1447377429740" TEXT="Alicja">
+<node CREATED="1422765024608" ID="ID_793860787" MODIFIED="1459240881231" POSITION="left" TEXT="casus">
+<node CREATED="1422765027716" ID="ID_253056900" MODIFIED="1459240883395" TEXT="Alicja">
 <node CREATED="1422765030203" FOLDED="true" ID="ID_1128102535" MODIFIED="1447377429740" TEXT="brak terminu sp&#x142;aty">
 <node CREATED="1422765040642" ID="ID_1213050454" LINK="#ID_1238493956" MODIFIED="1422765082532" TEXT="naruszenie Art.69 prawa bankowego"/>
 </node>
 </node>
-<node CREATED="1423514298278" FOLDED="true" ID="ID_921753046" LINK="sydney.edu.au/arts/political_economy/downloads/JonesFCLsLegalCultureWP1205.pdf" MODIFIED="1447377429740" TEXT="Australia">
+<node CREATED="1423514298278" ID="ID_921753046" LINK="sydney.edu.au/arts/political_economy/downloads/JonesFCLsLegalCultureWP1205.pdf" MODIFIED="1459240885338" TEXT="Australia">
 <node CREATED="1423514576749" ID="ID_306631188" MODIFIED="1423514578314" TEXT="1980"/>
 <node CREATED="1423604719178" ID="ID_1162181205" LINK="http://wei.org.pl/aktualnosci/run,franki-jak-to-sie-robi-w-australii,page,1,article,1424,language_code,pl.html" MODIFIED="1423604726705" TEXT="opis"/>
 </node>
@@ -7527,7 +7536,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1423420112102" FOLDED="true" ID="ID_1268051699" MODIFIED="1447377429745" POSITION="left" TEXT="prawnicy">
+<node CREATED="1423420112102" ID="ID_1268051699" MODIFIED="1459240904325" POSITION="left" TEXT="prawnicy">
 <node CREATED="1423420115152" FOLDED="true" ID="ID_237803467" LINK="mailto:l.przybylowicz@kancelaria-lex.org," MODIFIED="1447377429742" TEXT="&#x141;. Przyby&#x142;owicz/Kancelaria LEX, l.przybylowicz@kancelaria-lex.org, tel. 533-133-590.">
 <node CREATED="1423420116590" ID="ID_56233979" MODIFIED="1423420118012" TEXT="NNW"/>
 </node>
@@ -7544,13 +7553,13 @@
 <node CREATED="1442662030362" ID="ID_731042288" MODIFIED="1442662033413" TEXT="poleca czaba&#x144;ski"/>
 </node>
 <node CREATED="1443124077166" ID="ID_1569747377" LINK="http://www.mazuriwspolnicy.pl/zespol.html" MODIFIED="1443124083320" TEXT="MAzur i Prawnicy"/>
-<node CREATED="1443872864776" FOLDED="true" ID="ID_70607653" LINK="http://www.forbes.pl/dariusz-wolkiewicz,autor,6354,1.html" MODIFIED="1447377429744" TEXT="Dariusz W&#xf3;&#x142;kiewicz">
+<node CREATED="1443872864776" ID="ID_70607653" LINK="http://www.forbes.pl/dariusz-wolkiewicz,autor,6354,1.html" MODIFIED="1459240912024" TEXT="Dariusz W&#xf3;&#x142;kiewicz">
 <icon BUILTIN="clanbomber"/>
 <icon BUILTIN="clanbomber"/>
 <node CREATED="1443872888933" ID="ID_1592383183" MODIFIED="1443872889583" TEXT="Pracuje w Kancelarii Radc&#xf3;w Prawnych i Adwokat&#xf3;w Nowakowski i Wsp&#xf3;lnicy Sp.k. Zajmuje si&#x119; sprawami z zakresu prawa bankowego oraz instrument&#xf3;w finansowych, reprezentuje klient&#xf3;w w sporach z bankami o opcje walutowe, transakcje CIRS i kredyty walutowe."/>
 </node>
 </node>
-<node CREATED="1430613090412" FOLDED="true" ID="ID_244744896" MODIFIED="1447377429755" POSITION="left" TEXT="prawnicydruga strona">
+<node CREATED="1430613090412" ID="ID_244744896" MODIFIED="1459240928706" POSITION="left" TEXT="prawnicydruga strona">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1430613105075" FOLDED="true" ID="ID_1427307724" MODIFIED="1447377429755" TEXT="Anna Cudna-Wagner">
 <node CREATED="1430613126706" FOLDED="true" ID="ID_675771906" MODIFIED="1447377429746" TEXT="BZ WBK">
